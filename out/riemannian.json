@@ -1,0 +1,1894 @@
+[
+  {
+    "id": "http://arxiv.org/abs/2512.05625v1",
+    "title": "Curvature estimates for steady and expanding solitons in higher dimensions",
+    "authors": [
+      "Pak-Yeung Chan",
+      "Ming Hsiao"
+    ],
+    "published": "2025-12-05T11:10:28Z",
+    "summary": "In this paper, we demonstrate certain curvature estimates on complete non-compact steady and expanding gradient Ricci solitons in higher dimensions. In the expanding case, we prove that if the Ricci curvature decays at least quadratically, then the curvature operator decays at the rate $\\BigO(1/r^{2})$ when $n=4$ and $\\BigO((\\log r)/r^{2})$ when $n\\geq5$. This refines the curvature bounds in a previous result by Cao-Liu-Xie, and removes the nonnegative Ricci curvature assumption in the estimates by Cao-Liu and Cao-Liu-Xie. As a geometric application, we establish the existence and uniqueness of $C^{1,α}$ conical structure at infinity of Ricci expander with finite Ricci curvature ratio. In the steady case, using an integral estimate of the curvature, we prove that the curvature operator has at most polynomial growth when the potential function is proper and the Ricci curvature has linear decay. Moreover, we also confirm that the curvature is bounded if we further assume the Ricci curvature has super-linear decay $\\BigO(r^{-1-\\varepsilon})$. As an application, we prove the existence and uniqueness of cylindrical structure at infinity of steady soliton with super-linear Ricci curvature decay and proper potential function.",
+    "topic": "riemannian",
+    "score": 8
+  },
+  {
+    "id": "http://arxiv.org/abs/2511.12144v1",
+    "title": "Quasi-Einstein Metrics and a curvature identity assoicated to the Ricci flow",
+    "authors": [
+      "Atreyee Bhattacharya",
+      "Sayoojya Prakash"
+    ],
+    "published": "2025-11-15T10:18:12Z",
+    "summary": "Quasi-Einstein manifolds are well-studied generalizations of Einstein manifolds. This includes gradient Ricci solitons and has a natural correspondence with the warped product Einstein manifolds. A quasi-Einstein metric is said to be rigid when it reduces to an Einstein metric. On a different note, Einstein metrics can be viewed as fixed points of the Ricci flow up to homothety. While gradient Ricci solitons are generalized fixed points of the Ricci flow, not much is known, in general, about the evolution of quasi-Einstein metrics under the Ricci flow. In this paper, we employ an identity associated to the evolution of curvature along the Ricci flow, to conclude the rigidity of certain closed quasi-Einstein manifolds.",
+    "topic": "riemannian",
+    "score": 7
+  },
+  {
+    "id": "http://arxiv.org/abs/2512.03968v1",
+    "title": "Bounded-degree graphs of non-negative Ollivier-Ricci curvature have subexponential growth and diffusive random walk",
+    "authors": [
+      "Tom Hutchcroft",
+      "Florentin Münch"
+    ],
+    "published": "2025-12-03T16:58:46Z",
+    "summary": "We study the geometric properties of graphs with non-negative Ollivier-Ricci curvature, a discrete analogue of non-negative Ricci curvature in Riemannian geometry. We prove that for each $d<\\infty$ there exists a constant $C_d$ such that if $G=(V,E)$ is a finite graph with non-negative Ollivier-Ricci curvature and with degrees bounded by $d$ then the average log-volume growth and random walk displacement satisfy \\[   \\frac{1}{|V|} \\sum_{x\\in V} \\log \\#B(x,r) \\leq \\exp\\left[C_d \\sqrt{\\log r}\\right] = r^{o(1)} \\] and \\[   \\frac{1}{|V|} \\sum_{x\\in V} \\mathbf{E}_x [d(X_0,X_n)^2] \\leq n \\exp\\left[C_d \\sqrt{\\log n}\\right] = n^{1+o(1)} \\] for every $n,r\\geq 2$. This significantly strengthens a result of Salez (GAFA 2022), who proved that the average displacement of the random walk is $o(n)$ and deduced that non-negatively curved graphs of bounded degree cannot be expanders. Our results also apply to infinite transitive graphs and, more generally, to bounded-degree unimodular random rooted graphs of non-negative Ollivier-Ricci curvature.",
+    "topic": "riemannian",
+    "score": 6
+  },
+  {
+    "id": "http://arxiv.org/abs/2511.23234v1",
+    "title": "Ricci-DeTurck flow of almost continuous $L^2$-metrics, and metrics with distributional scalar curvature bounded from below",
+    "authors": [
+      "Florian Litzinger",
+      "Miles Simon"
+    ],
+    "published": "2025-11-28T14:41:24Z",
+    "summary": "We consider Riemannian manifolds $(M^n,g_0)$, $(M^n,h)$, where $(M^n,h)$ is smooth, complete, with curvature bounded in absolute value by $K_0 < \\infty$, and $(1-\\varepsilon_0(n)) h \\leq g_0 \\leq (1+\\varepsilon_0(n)) h$ for some small $\\varepsilon_0(n)>0$. It was shown by Simon (2002) that a Ricci-DeTurck flow solution $g(t)_{t \\in (0,T)}$ related to $g_0$ exists for some $T=T(n,K_0)>0$. If $g_0 \\in L^2_{\\mathrm{loc}}$ or $g_0 \\in W^{1,2+2σ}_{\\mathrm{loc}}$, $σ\\in (0,\\frac{1}{4})$, respectively, we show that $g(t) \\to g_0$ in the $L^2_{\\mathrm{loc}}$- or $W^{1,2+σ}_{\\mathrm{loc}}$-sense, respectively. If $M$ is closed, $g_0 \\in W^{1,2+σ}(M)$ for some $σ>0$, and the distributional scalar curvature of Lee-LeFloch (2015) is not less than $b \\in \\mathbb{R}$, then we show that $g(t)$ has scalar curvature not less than $b$ in the smooth sense for all $t>0$.",
+    "topic": "riemannian",
+    "score": 6
+  },
+  {
+    "id": "http://arxiv.org/abs/2512.07621v1",
+    "title": "Approximating sub-riemannian structures by Riemannian metrics and spectral convergence",
+    "authors": [
+      "Leo Harakeh",
+      "Luc Hillairet"
+    ],
+    "published": "2025-12-08T15:07:45Z",
+    "summary": "We construct an approximating sequence of Riemannian metrics tailored to a given sub-Riemannian structure. We prove that the sequence of associated Riemannian volumes converge to Popp's volume and we then proceed to study the spectral convergence of the associated Laplace operators.",
+    "topic": "riemannian",
+    "score": 5
+  },
+  {
+    "id": "http://arxiv.org/abs/2512.06027v1",
+    "title": "Geometric properties of second Ricci solitons",
+    "authors": [
+      "Masoumeh Khalili",
+      "Ghodratallah Fasihi-Ramandi",
+      "Shahroud Azami"
+    ],
+    "published": "2025-12-04T14:35:34Z",
+    "summary": "This paper introduce the idea of second Ricci solitons. A second Ricci soliton is nothing but a steady hyperbolic Ricci soliton. We study the geometry of closed and compact second Ricci soliton manifolds. Immersed submanifolds as second solitons also will be investigated. Finally, we investigate this structure on warped product manifolds.",
+    "topic": "riemannian",
+    "score": 5
+  },
+  {
+    "id": "http://arxiv.org/abs/2512.04141v1",
+    "title": "A Polyharmonic Liouville Hierarchy on Complete Manifolds of Nonnegative Ricci Curvature",
+    "authors": [
+      "John E. Bravo",
+      "Jean C. Cortissoz"
+    ],
+    "published": "2025-12-03T16:57:17Z",
+    "summary": "In this paper, we establish a complete Liouville--type hierarchy for polyharmonic functions on a broad class of Riemannian manifolds with nonnegative Ricci curvature. Extending Yau's classical result for harmonic functions and our recent biharmonic Liouville theorem, we prove that on any complete manifold of nonnegative Ricci curvature with a pole, every $k$--polyharmonic function of growth $o(r^{2(k-1)})$ must in fact be $(k-1)$--polyharmonic. Iterating this procedure yields the result that all polyharmonic functions of sublinear growth are constant.The key innovation is a new $L^{2}$ estimate for the Laplacian of a polyharmonic function, obtained by induction through a delicate cutoff construction combined with a hole--filling argument. This provides the first sharp geometric extension of the Euclidean classification of polyharmonic functions to manifolds of nonnegative Ricci curvature, and completes a natural hierarchy of Yau--type Liouville theorems for iterates of the Laplacian.",
+    "topic": "riemannian",
+    "score": 5
+  },
+  {
+    "id": "http://arxiv.org/abs/2512.03323v1",
+    "title": "K-polystability of Asymptotically Conical Kähler-Ricci Shrinkers",
+    "authors": [
+      "Charles Cifarelli",
+      "Carlos Esparza"
+    ],
+    "published": "2025-12-03T00:18:33Z",
+    "summary": "Recently, Sun-Zhang have developed an algebraic theory for Kähler-Ricci shrinkers showing that they admit the structure of a polarized Fano fibration $(π: X \\to Y, ξ)$. In particular, they conjecture that existence of a Kähler-Ricci shrinker metric is equivalent to a notion of K-stability. We prove one direction of this conjecture, namely that existence of a Kähler-Ricci shrinker metric $g$ implies K-polystability of $(π: X \\to Y, ξ)$, in the case that the Ricci curvature of $g$ decays at infinity.",
+    "topic": "riemannian",
+    "score": 5
+  },
+  {
+    "id": "http://arxiv.org/abs/2511.21892v1",
+    "title": "On Compact Quasi-Einstein Metrics of Constant Scalar Curvature",
+    "authors": [
+      "Eric Cochran"
+    ],
+    "published": "2025-11-26T20:15:22Z",
+    "summary": "We show that all compact quasi-Einstein metrics of constant scalar curvature in dimension three are locally homogeneous. We accomplish this by using the equivalence of constant scalar curvature quasi-Einstein metrics $(M,g,X)$ and quasi-Einstein metrics with $X$ Killing in the compact case to make a connection to Sasakian geometry in dimension three. In higher dimensions, there are examples which are non-locally homogeneous with constant scalar curvature. Such examples were constructed by Kunduri-Lucietti as circle bundles over a compact Kähler-Einstein base. We then ask when compact quasi-Einstein metrics of constant scalar curvature can be constructed as circle bundles over Einstein metrics, and prove that the base must in fact be Kähler-Einstein, assuming a conjecture due to Goldberg. These spaces, in fact, admit one parameter families of quasi-Einstein metrics by considering the canonical variation, which we study further.",
+    "topic": "riemannian",
+    "score": 5
+  },
+  {
+    "id": "http://arxiv.org/abs/2511.16267v1",
+    "title": "Some discussions on null helices in 3D semi-Riemannian manifold",
+    "authors": [
+      "Fatma Almaz"
+    ],
+    "published": "2025-11-20T11:50:50Z",
+    "summary": "In this study, the geometric properties of null helices on a totally umbilical submanifold within a three-dimensional semi-Riemannian manifold are investigated. The pseudo-Riemannian metric structure of semi-Riemannian manifolds and the fact that the submanifold is totally umbilical complicate the differential geometry of null helices. The study uses the given null Frenet frame to reveal the local properties of null helices (the curvatures $% h,k_{1},k_{2}$ of the null curves). By considering the degenerate metric condition of null helices due to the null tangent vector and the structure of the totally umbilical submanifold, equations and invariants characterising null helices are obtained. This study aims to contribute to the theory of null curves on semi-Riemannian manifolds and the geometry of special submanifolds.",
+    "topic": "riemannian",
+    "score": 5
+  },
+  {
+    "id": "http://arxiv.org/abs/2511.10460v1",
+    "title": "Dynamical functionals on ancient ARF Ricci flows",
+    "authors": [
+      "Isaac M. Lopez",
+      "Rio Schillmoeller"
+    ],
+    "published": "2025-11-13T16:27:10Z",
+    "summary": "We introduce a dynamical energy functional on compact ancient asymptotically Ricci-flat Ricci flows with modest decay using limits of conjugate heat flows. This functional satisfies a steady Ricci breather-type rigidity and provides an upper bound for the ordinary $λ$-functional while retaining many of its properties. In addition, motivated by work of Colding and Minicozzi, we derive local eigenvalue estimates for normalized Ricci flows coupled with conjugate heat flows.",
+    "topic": "riemannian",
+    "score": 5
+  },
+  {
+    "id": "http://arxiv.org/abs/2511.08358v3",
+    "title": "Liouville theorem for biharmonic functions on manifolds of nonnegative Ricci curvature",
+    "authors": [
+      "John E. Bravo",
+      "Jean C. Cortissoz"
+    ],
+    "published": "2025-11-11T15:35:39Z",
+    "summary": "In this paper we extend Yau's celebrated Liouville theorem to the biharmonic case. Namely, we show that in a complete Riemannian manifold with a pole and nonnegative Ricci curvature, any biharmonic function of subquadratic growth must be harmonic, and hence, any biharmonic function of sublinear growth must be constant. Our proof relies on a new local $L^2$ estimate for the Laplacian of biharmonic functions combined with a mean value inequality. Examples where our theorem applies include hypersurfaces of positive sectional curvature in $\\mathbb{R}^n$, and manifolds with a pole of nonnegative Ricci curvature whose curvature decays at infinity rapidly enough.",
+    "topic": "riemannian",
+    "score": 5
+  },
+  {
+    "id": "http://arxiv.org/abs/2511.06137v1",
+    "title": "Monotonicity of topological entropy along the Ricci flow near a hyperbolic metric",
+    "authors": [
+      "Karen Butt",
+      "Alena Erchenko",
+      "Tristan Humbert"
+    ],
+    "published": "2025-11-08T21:09:49Z",
+    "summary": "In 2004, Manning showed that the topological entropy of the geodesic flow of a closed surface of non-constant negative curvature is strictly decreasing along the normalized Ricci flow, and he asked if an analogous result holds in higher dimensions for metrics in a neighborhood of a hyperbolic metric. In this paper, we affirmatively answer this question. Namely, we show that the topological entropy of the geodesic flow of a closed Riemannian manifold that carries a hyperbolic metric is indeed strictly decreasing along the normalized Ricci flow starting from a metric of variable negative sectional curvature sufficiently close to the hyperbolic metric.",
+    "topic": "riemannian",
+    "score": 5
+  },
+  {
+    "id": "http://arxiv.org/abs/2512.05553v1",
+    "title": "Normal sub-Riemannian geodesics related to filtrations of Lie algebras",
+    "authors": [
+      "Bozidar Jovanovic",
+      "Tijana Sukilovic",
+      "Srdjan Vukmirovic"
+    ],
+    "published": "2025-12-05T09:22:26Z",
+    "summary": "There is a natural way to construct sub-Riemannian structures that depend on $n$ parameters on compact Lie groups. These structures are related to the filtrations of Lie subalgebras $\\mathfrak g_0 < \\mathfrak g_1 < \\mathfrak g_2 < \\dots < \\mathfrak g_{n-1}<\\mathfrak g_n=\\mathfrak g=Lie(G)$. In the case where $n=1$, the explicit solution for normal sub-Riemannian geodesics was provided by Agrachev, Brockett, and Jurjdevic. We extend their solution to apply to general chains of Lie subgroups. Additionally, we describe normal geodesic lines of the induced sub-Riemannian structures on homogeneous spaces $G/K$, where $\\mathfrak g_0=Lie(K)$.",
+    "topic": "riemannian",
+    "score": 4
+  },
+  {
+    "id": "http://arxiv.org/abs/2512.04740v1",
+    "title": "Eigenvalue Estimate for the Rough Laplacian on $1$-Forms and its Applications",
+    "authors": [
+      "Teng Huang",
+      "Weiwei Wang"
+    ],
+    "published": "2025-12-04T12:29:19Z",
+    "summary": "In this article, we establish a geometric lower bound for the first positive eigenvalue $λ^{(1)}_{1}$ of the rough Laplacian acting on $1$-forms for closed $2n$-dimensional Riemannian manifolds with nonvanishing Euler characteristic. In contrast to the case of functions, such a Li-Yau-type estimate does not hold in general, as evidenced by existing counterexamples. Under assumptions including a lower bound on Ricci curvature, an upper bound on diameter, and an $L^{2p}$-norm bound on the Riemann curvature tensor, we prove that $λ^{(1)}_{1}$ is bounded below by a positive constant depending on these parameters. As applications, we derive vanishing results for the Euler characteristic under certain Ricci curvature bounds and the presence of a nonzero Killing vector field, extending classical Bochner-type theorems.",
+    "topic": "riemannian",
+    "score": 4
+  },
+  {
+    "id": "http://arxiv.org/abs/2511.22081v1",
+    "title": "Inradius collapsed manifolds with a lower Ricci curvature bound",
+    "authors": [
+      "Zhangkai Huang",
+      "Takao Yamaguchi"
+    ],
+    "published": "2025-11-27T04:06:57Z",
+    "summary": "In this paper, we study a family of $n$-dimensional Riemannian manifolds with boundary having lower bounds on the Ricci curvatures of interior and boundary and on the second fundamental form of boundary. A sequence of manifolds in this family is said to be inradius collapsed if their inradii tend to zero. We prove that the limit space $C_0$ of boundaries of inradius collapsed manifolds admits an isometric involution $f$, and that the limit of the manifolds themselves is isometric to the quotient space $C_0/f$. As an application, we show that the number of boundary components of inradius collapsed manifolds is at most two. Moreover, we prove that the limit space has a lower Ricci curvature bound and an upper dimension bound in a synthetic sense if in addition their boundaries are non-collapsed.",
+    "topic": "riemannian",
+    "score": 4
+  },
+  {
+    "id": "http://arxiv.org/abs/2511.18289v1",
+    "title": "On the Generalized Projective Riemann Curvature in Finsler Geometry",
+    "authors": [
+      "Nasrin Sadeghzadeh",
+      "Masoumeh Yaghoubi"
+    ],
+    "published": "2025-11-23T04:59:56Z",
+    "summary": "This paper explores the generalized projective Riemann curvature in Finsler geometry, focusing on the properties of projectively equivalent Finsler metrics and the invariance of their curvature structures under projective transformations. We extend the existing frameworks of projective Riemann and Ricci curvatures by introducing new characterizations of quadratic curvature properties, highlighting their geometric significance in the broader context of Finsler manifolds. Our results provide novel insights into curvature behavior under generalized projective sprays and contribute to a deeper understanding of intrinsic geometric invariants within projective classes of Finsler spaces.",
+    "topic": "riemannian",
+    "score": 4
+  },
+  {
+    "id": "http://arxiv.org/abs/2511.16601v1",
+    "title": "An Information-Theoretic Reconstruction of Curvature",
+    "authors": [
+      "Amandip Sangha"
+    ],
+    "published": "2025-11-20T17:56:42Z",
+    "summary": "We develop an intrinsic information-theoretic approach for recovering Riemannian curvature from the small-time behaviour of heat diffusion. Given a point and a two-plane in the tangent space, we compare the heat mass transported along that plane with its Euclidean counterpart using the relative entropy of finite measures. We show that the leading small-time distortion of this directional entropy encodes precisely the local curvature of the manifold. In particular, the planar information imbalance determines both the scalar curvature and the sectional curvature at a point, and assembling these directional values produces a bilinear tensor that coincides exactly with the classical Riemannian curvature operator.   The method is entirely analytic and avoids Jacobi fields, curvature identities, or variational formulas. Curvature appears solely through the behaviour of heat flow under the exponential map, providing a new viewpoint in which curvature is realized as an infinitesimal information defect of diffusion. This perspective suggests further connections between geometric analysis and information theory and offers a principled analytic mechanism for detecting and reconstructing curvature using only heat diffusion data.",
+    "topic": "riemannian",
+    "score": 4
+  },
+  {
+    "id": "http://arxiv.org/abs/2511.11477v1",
+    "title": "Synthetic approaches to Ricci flows",
+    "authors": [
+      "Matthias Erbar",
+      "Marco Flaim",
+      "Eric Hupp",
+      "Zhenhao Li",
+      "Timo Schultz",
+      "Karl-Theodor Sturm"
+    ],
+    "published": "2025-11-14T16:53:35Z",
+    "summary": "We review different notions of synthetic Ricci flow that apply to time-dependent families of metric measure spaces and which are based on properties of the heat flow, ideas from optimal transport, and the asymptotic behaviour of volumes. Each notion equivalently characterises (weighted) Ricci flow for smooth families of weighted Riemannian manifolds. We discuss the features of the different notions on various examples.",
+    "topic": "riemannian",
+    "score": 4
+  },
+  {
+    "id": "http://arxiv.org/abs/2511.10553v1",
+    "title": "Sign-changing solutions to the Escobar problem on manifolds with boundary",
+    "authors": [
+      "Mónica Clapp",
+      "Benedetta Pellacci",
+      "Angela Pistoia"
+    ],
+    "published": "2025-11-13T17:54:30Z",
+    "summary": "Let $(M, g)$ be a $n-$dimensional compact Riemannian manifold with boundary. The Escobar problem concerning the existence of a metric conformally equivalent to $g$ having constant scalar curvature on $M$ and constant mean curvature on its boundary is equivalent, in analytic terms, to finding a positive solution to a nonlinear boundary-value problem with critical growth. While the existence of positive solutions to this problem is by now well understood, the existence of sign-changing (nodal) solutions remains largely open. In this work we establish the existence of least-energy sign-changing solutions in two particular cases: the scalar-flat problem, where the scalar curvature on $M$ is zero and the mean curvature of its boundary is constant, and the minimal boundary problem, where the mean curvature of the boundary vanishes and the scalar curvature of $M$ is constant. More precisely, we prove that if $n\\ge7$ and $M$ has a nonumbilic boundary point, then both problems admit least-energy nodal solutions. In addition, we show that when $n\\ge5$, the minimal boundary problem possesses infinitely many sign-changing solutions on the unit ball. Our approach is variational and relies on the analysis of suitable conformal invariants and sharp energy estimates derived from Escobar's work.",
+    "topic": "riemannian",
+    "score": 4
+  },
+  {
+    "id": "http://arxiv.org/abs/2511.04301v1",
+    "title": "Simultaneous Optimization of Geodesics and Fréchet Means",
+    "authors": [
+      "Frederik Möbius Rygaard",
+      "Søren Hauberg",
+      "Steen Markvorsen"
+    ],
+    "published": "2025-11-06T12:08:15Z",
+    "summary": "A central part of geometric statistics is to compute the Fréchet mean. This is a well-known intrinsic mean on a Riemannian manifold that minimizes the sum of squared Riemannian distances from the mean point to all other data points. The Fréchet mean is simple to define and generalizes the Euclidean mean, but for most manifolds even minimizing the Riemannian distance involves solving an optimization problem. Therefore, numerical computations of the Fréchet mean require solving an embedded optimization problem in each iteration. We introduce the GEORCE-FM algorithm to simultaneously compute the Fréchet mean and Riemannian distances in each iteration in a local chart, making it faster than previous methods. We extend the algorithm to Finsler manifolds and introduce an adaptive extension such that GEORCE-FM scales to a large number of data points. Theoretically, we show that GEORCE-FM has global convergence and local quadratic convergence and prove that the adaptive extension converges in expectation to the Fréchet mean. We further empirically demonstrate that GEORCE-FM outperforms existing baseline methods to estimate the Fréchet mean in terms of both accuracy and runtime.",
+    "topic": "riemannian",
+    "score": 4
+  },
+  {
+    "id": "http://arxiv.org/abs/2511.05544v1",
+    "title": "The Stolz' positive scalar curvature sequence for G-proper manifolds and depth-1 pseudomanifolds",
+    "authors": [
+      "Massimiliano Puglisi"
+    ],
+    "published": "2025-10-31T15:03:54Z",
+    "summary": "This thesis revolves around the Stolz' positive scalar curvature sequence: in particular adapted to the context of (G, F)-spaces, i.e. proper G-spaces with isotropy groups belonging to a family F of subgroups of G, and to that of manifolds with non-isolated singularities. In both cases, the sequence is studied for appropriate classes of metrics with positive scalar curvature, and it is shown how the Stolz R-groups have a strict dependence on the 2-skeleton. This latter result will then be used in the (G, F) framework to establish an isomorphism between the R-groups for spaces having isomorphic fundamental functors, a suitable generalization of the fundamental group. A universal space is also introduced, where universal means that each space with this characterization admit a map with values in it, inducing isomorphisms at the level of R-groups. Subsequently, the mapping of the Stolz sequence to the Higson-Roe surgery sequence for singular spaces with (L, G)-singularities will be studied. Specifically, a version of the delocalized APS-index theorem, which makes use of localization algebras, will be employed. This includes a description of K-theory for graded $C^{*}-algebras$, which will be introduced for Real $C^{*}-algebras$, with the advantage of simultaneously including both the real and complex case. Finally, as an application of these results, the wedge index difference homomorphism is studied in the singular context. This homomorphism, besides serving as an obstruction for two well-adapted wedge metrics to be concordant, is used to provide a lower bound on the rank of the structure group of such positive scalar curvature metrics, namely the bordism group $Pos_*^{spin,(L,G)}$.",
+    "topic": "riemannian",
+    "score": 4
+  },
+  {
+    "id": "http://arxiv.org/abs/2512.07069v1",
+    "title": "Blown-up singular Riemannian foliations",
+    "authors": [
+      "Francisco C. Caramello",
+      "Laura Ribeiro dos Santos"
+    ],
+    "published": "2025-12-08T00:58:05Z",
+    "summary": "In this paper we investigate new properties of the blow-up desingularization method in the context of singular Riemannian foliations. First, we relate the dynamics of such a foliation, which is governed by the so called Molino sheaf, with that of its blow-up. In the particular case of singular Killing foliations, this leads to a strong constraint under mild topological assumptions: namely, the leaves of such foliations are all closed, provided the Euler characteristic of its ambient manifold is non-vanishing and its singular strata are all odd-codimensional. Next, we relate the basic cohomology of a singular Riemannian foliation with that of its blow-up, generalizing well-known, classical analogous results in algebraic and complex geometry. Finally, we show that the space of leaf closures of a singular Killing foliation is the Gromov--Hausdorff limit of a sequence of orbifolds, whose dimensions are the codimension of the foliation.",
+    "topic": "riemannian",
+    "score": 3
+  },
+  {
+    "id": "http://arxiv.org/abs/2512.05621v1",
+    "title": "On the continuity of geodesically convex functions on Riemannian manifolds",
+    "authors": [
+      "Victor-Emmanuel Brunel",
+      "Pierre Pansu"
+    ],
+    "published": "2025-12-05T11:04:02Z",
+    "summary": "In this short note, we prove that all geodesically convex functions defined on a Riemannian manifold are continuous in the interior of their domain. This is a folklore result, but to the best of our knowledge, there is only one available proof, which is largely cited. However, it contains a significant gap, which we fill here. We also discuss extensions of this result beyond the Riemannian setting.",
+    "topic": "riemannian",
+    "score": 3
+  },
+  {
+    "id": "http://arxiv.org/abs/2512.05467v1",
+    "title": "Sharp gradient estimates and monotonicity in positive Ricci curvature",
+    "authors": [
+      "Cosmin Manea"
+    ],
+    "published": "2025-12-05T06:49:46Z",
+    "summary": "We prove a sharp gradient estimate for the natural Green's function of a closed manifold with positive Ricci curvature. We also show that this estimate is closely related to a family of monotonicity formulae. These results extend those previously obtained by Colding and Minicozzi for open manifolds with non-negative Ricci curvature. We further obtain several geometric applications, including a new proof of Bishop's volume comparison theorem in dimension four.",
+    "topic": "riemannian",
+    "score": 3
+  },
+  {
+    "id": "http://arxiv.org/abs/2512.05319v1",
+    "title": "From the discrete to the continuous, from simplicial complexes to Riemannian manifolds. Approximating flows and cuts on manifolds by discrete versions",
+    "authors": [
+      "Marzieh Eidi",
+      "Juergen Jost",
+      "Dong Zhang"
+    ],
+    "published": "2025-12-04T23:36:20Z",
+    "summary": "Many fundamental structures of Riemannian geometry have found discrete counterparts for graphs or combinatorial ones for simplicial complexes. These include those discussed in this survey, Hodge theory, Morse theory, the spectral theory of Laplace type operators and Cheeger inequalities, and their interconnections. This raises the question of the relation between them, abstractly as structural analogies and concretely what happens when a graph constructed from random sampling of a Riemannian manifold or a simplicial complex triangulating such a manifold converge to that manifold. We survey the current state of research, highlighting some recent developments like Cheeger type inequalities for the higher dimensional geometry of simplicial complexes, Floer type constructions in the presence of periodic or homoclinic orbits of dynamical systems or the disorientability of simplicial complexes.",
+    "topic": "riemannian",
+    "score": 3
+  },
+  {
+    "id": "http://arxiv.org/abs/2512.02975v1",
+    "title": "Stochastic parallel transport on the Wasserstein space and equivariant diffusions on the group of diffeomorphisms over a closed Riemannian manifold",
+    "authors": [
+      "Aymeric Martin"
+    ],
+    "published": "2025-12-02T17:54:07Z",
+    "summary": "In this work, we establish the existence of solutions to stochastic differential equations on the Wasserstein space over a closed Riemannian manifold, under suitable regularity assumptions on the driving vector fields. Interpreting the diffeomorphism group $\\mathscr{D}$ as a Riemannian submersion onto the smooth Wasserstein space $¶_\\infty$, we further prove the existence and uniqueness of the stochastic parallel parallel transport along diffusions on $¶_\\infty$. Finally, we show that equivariant diffusions on $\\mathscr{D}$ endowed with a principal bundle structure over $¶_\\infty$ admit a unique factorization into a horizontal diffusion and a vertical component expressed as a right exponential of a process taking values in the Lie algebra $\\mathfrak{g}$ of the group $G$ of volume preserving diffeomorphisms.",
+    "topic": "riemannian",
+    "score": 3
+  },
+  {
+    "id": "http://arxiv.org/abs/2512.01566v1",
+    "title": "Completeness of reparametrization-invariant Sobolev metrics on the space of surfaces",
+    "authors": [
+      "Martin Bauer",
+      "Cy Maor",
+      "Benedikt Wirth"
+    ],
+    "published": "2025-12-01T11:39:08Z",
+    "summary": "We study reparametrization-invariant Sobolev-type Riemannian metrics on the space of immersed surfaces and establish conditions ensuring metric and geodesic completeness as well as the existence of minimizing geodesics. This provides the first extension of completeness results for immersed curves, originating from works of Bruveris, Michor, and Mumford, and validates an earlier conjecture of Mumford on completeness properties of general spaces of immersions in this important case.   The result is obtained by recasting earlier approaches to completeness on manifolds of mappings as a general completeness criterion for infinite-dimensional Riemannian manifolds that are open subsets of a complete Riemannian manifold and by combining it with geometric estimates based on the Michael--Simon--Sobolev inequality to establish the completeness for specific Sobolev metrics on immersed surfaces.",
+    "topic": "riemannian",
+    "score": 3
+  },
+  {
+    "id": "http://arxiv.org/abs/2511.20773v1",
+    "title": "The canonical symmetry reduction of string backgrounds",
+    "authors": [
+      "Aaron Kennon",
+      "Jeffrey Streets"
+    ],
+    "published": "2025-11-25T19:08:41Z",
+    "summary": "String backgrounds, defined here as metric connections with skew-symmetric torsion and reduced holonomy, yield generalized Ricci solitons relative to the Lee vector field. By a variational argument using the string action, they are also gradient generalized Ricci solitons relative to a potential function. These two observations combine to yield a canonical symmetry, and in this work we derive fundamental features of the transverse geometry, and rigidity phenomena. We prove in a unified conceptual fashion that the transverse geometry satisfies the string generalized Ricci soliton equations (a simplified Hull-Strominger system) in many settings including almost Hermitian, almost contact, $SU(3)$, $G_2$, and $\\mathrm{Spin}(7)$ geometry. We also show that the transverse geometry is always conformally co-closed, with the conformal factor given by the associated soliton potential.",
+    "topic": "riemannian",
+    "score": 3
+  },
+  {
+    "id": "http://arxiv.org/abs/2511.16064v1",
+    "title": "Scalar curvature and Dirac operator for some singular spaces",
+    "authors": [
+      "John Lott"
+    ],
+    "published": "2025-11-20T05:52:54Z",
+    "summary": "We look at smooth manifolds equipped with a possibly singular Riemannian metric. We give sufficient conditions for the existence of scalar curvature measures and Dirac operators.",
+    "topic": "riemannian",
+    "score": 3
+  },
+  {
+    "id": "http://arxiv.org/abs/2511.15885v2",
+    "title": "Linear stability and instability of Kähler Ricci solitons",
+    "authors": [
+      "Keaton Naff",
+      "Tristan Ozuch"
+    ],
+    "published": "2025-11-19T21:23:08Z",
+    "summary": "We show that the recently discovered BCCD shrinking soliton is linearly unstable, by extending the approach of \\cite{chi04} and \\cite{hm11}, via recent work the \\cite{cm21} on gradient shrinking Ricci solitons. On the other hand, we prove that the weighted $L^2$-spectra of the weighted Lichnerowicz Laplacians of steady and expanding Kähler Ricci solitons are nonpositive in real dimension $4$. We additionally determine the linear stability of the orbifold singularities of Kähler solitons: shrinkers are unstable, steadies are neutrally stable and expanders are strictly stable. All of these results follow from new Weitzenböck formulae for the weighted Lichnerowicz Laplacian specialized to Kähler metrics.",
+    "topic": "riemannian",
+    "score": 3
+  },
+  {
+    "id": "http://arxiv.org/abs/2511.13473v1",
+    "title": "Kähler-Ricci flows coming out of metric spaces",
+    "authors": [
+      "Alix Deruelle",
+      "Vincent Guedj",
+      "Henri Guenancia",
+      "Ahmed Zeriahi"
+    ],
+    "published": "2025-11-17T15:12:16Z",
+    "summary": "Given a compact Kähler manifold $X$ and a closed, positive $(1,1)$-current $T$ on $X$, we find sufficient conditions for $T$ to induce a metric structure $(X,d_T)$ which is the Gromov-Hausdorff limit of compact Kähler manifolds either in a \"static\" way or at time zero of smooth Kähler-Ricci flows. In dimension $1$ we extend works of T. Richard and M. Simon, showing that any oriented compact Alexandrov surface with bounded integral curvature and without cusp is the initial datum of a Kähler-Ricci flow.",
+    "topic": "riemannian",
+    "score": 3
+  },
+  {
+    "id": "http://arxiv.org/abs/2511.12517v2",
+    "title": "A Weighted Llarull Type Theorem and its applications",
+    "authors": [
+      "Linfeng Zhou",
+      "Guangrui Zhu"
+    ],
+    "published": "2025-11-16T09:17:42Z",
+    "summary": "This paper generalizes Llarull's classical scalar curvature rigidity theorem to the setting of weighted manifolds with P-scalar curvature. More precisely, we prove the refinement of Llarull's theorem for P-scalar curvature, which is similar to Listing's work \\cite{listing2010scalar}. As an application, we establish a Llarull type theorem in the form of $\\mathbb{S}^k\\times\\mathbb{T}^{n-k}$.",
+    "topic": "riemannian",
+    "score": 3
+  },
+  {
+    "id": "http://arxiv.org/abs/2511.11156v1",
+    "title": "Odd-dimensional manifolds with infinitely many different geometries of positive Ricci curvature",
+    "authors": [
+      "Anand Dessai"
+    ],
+    "published": "2025-11-14T10:38:30Z",
+    "summary": "In every odd dimension $n\\geq 5$ we exhibit large classes of closed $n$-dimensional manifolds which admit infinitely many different geometries of positive Ricci curvature, i.e., manifolds for which their moduli space of metrics of positive Ricci curvature has infinitely many connected components.",
+    "topic": "riemannian",
+    "score": 3
+  },
+  {
+    "id": "http://arxiv.org/abs/2511.09994v1",
+    "title": "Uniqueness results for positive harmonic functions on manifolds with nonnegative Ricci curvature and strictly convex boundary",
+    "authors": [
+      "Xiaohan Cai"
+    ],
+    "published": "2025-11-13T05:58:25Z",
+    "summary": "We prove some Liouville-type theorems for positive harmonic functions on compact Riemannian manifolds with nonnegative Ricci curvature and strictly convex boundary, thereby confirming some cases of Wang's conjecture (J. Geom. Anal. 31, 2021).   We further investigate Wang's conjecture on warped product manifolds and provide a partial verification of this conjecture, which also yields an alternative proof of Gu-Li's resolution of the conjecture in the $\\mathbb{B}^n$ case (Math. Ann. 391, 2025). Our approach is based on a general principle of employing the P-function method to such Liouville-type results, with particular emphasis on the role of a closed conformal vector field inherent to such manifolds.",
+    "topic": "riemannian",
+    "score": 3
+  },
+  {
+    "id": "http://arxiv.org/abs/2511.08459v1",
+    "title": "Total variation flow of curves in Riemannian manifolds",
+    "authors": [
+      "Lorenzo Giacomelli",
+      "Michał Łasica",
+      "Salvador Moll"
+    ],
+    "published": "2025-11-11T17:01:41Z",
+    "summary": "We consider the functional of total variation of maps from an interval into a Riemannian submanifold of $\\mathbb R^N$. We define a notion of strong solution to the system of equations corresponding to the $L^2$-gradient flow of this functional. We prove global existence of strong solutions for initial data of bounded variation. We show that the solutions satisfy a variational equality, and deduce uniqueness in the case of non-positive sectional curvature. We prove convergence of strong solutions to a constant map in finite time.",
+    "topic": "riemannian",
+    "score": 3
+  },
+  {
+    "id": "http://arxiv.org/abs/2511.06849v1",
+    "title": "The complex Monge-Ampere equation and an application to uniformisation of surfaces",
+    "authors": [
+      "Ved Datar",
+      "Vamsi Pritham Pingali",
+      "Harish Seshadri"
+    ],
+    "published": "2025-11-10T08:46:37Z",
+    "summary": "We prove that a complete noncompact Kähler surface with positive and bounded sectional curvature is biholomorphic to $\\mathbb{C}^2$. This result confirms a special case of Yau's conjecture that a complete noncompact Kähler $n$-manifold with positive holomorphic bisectional curvature is biholomorphic to $\\mathbb{C}^n$. In contrast to all known results on Yau's conjecture, we do not need additional assumptions on the global/asymptotic geometry of the Kähler surface apart from completeness. Towards this end, we prove that the integral of the square of the Ricci form of a complete Kähler surface with positive sectional curvature is finite. The work of Chen and Zhu shows that this latter result implies that the surface is biholomorphic to $\\mathbb{C}^2$ . The main new idea is the construction of a Lipschitz continuous plurisubharmonic weight function with finite Monge-Ampère mass. This weight function is obtained by solving a complex Monge-Ampère equation.",
+    "topic": "riemannian",
+    "score": 3
+  },
+  {
+    "id": "http://arxiv.org/abs/2511.05774v2",
+    "title": "Rigidity of Gradient Shrinking Ricci Solitons with Bach-like Flatness and Related Variational Formulas",
+    "authors": [
+      "James Siene"
+    ],
+    "published": "2025-11-08T00:24:42Z",
+    "summary": "The classical Bach tensor in four dimensions can be expressed as a linear combination of two independent, symmetric, divergence-free, quadratic in curvature tensors U and V. Several classification results for gradient-shrinking Ricci solitons have been obtained under the assumption that the Bach tensor vanishes. We define a Bach-like tensor to be any other linear combination of U and V. We prove that, except along the Bach line, the vanishing of a Bach-like tensor forces a four-dimensional complete gradient-shrinking Ricci soliton to be either Einstein or isometric to the Gaussian soliton. Finally, we show that Bach-like tensors arise as Euler-Lagrange equations of a two-parameter family of quadratic curvature functionals and compute the corresponding first and second variation formulas.",
+    "topic": "riemannian",
+    "score": 3
+  },
+  {
+    "id": "http://arxiv.org/abs/2511.04165v1",
+    "title": "Geometry of δ-almost gradient Yamabe solitons on pseudo-Riemannian manifolds",
+    "authors": [
+      "Rajdip Biswas",
+      "Santu Dey",
+      "Arindam Bhattacharyya"
+    ],
+    "published": "2025-11-06T08:11:09Z",
+    "summary": "In this article, we studied δ-almost Yamabe solitons within the framework of para- contact metric manifolds. First, we proved that for a paracontact metric manifold {M}, if a paracontact metric g represents a δ-almost Yamabe soliton associated with the potential vector field {Z} being an infinitesimal contact transformation, then {Z} is Killing and if the potential vector field {Z} is collinear with ξ, then the manifold {M} is {K}-paracontact. Next, if we take a {K}-paracontact metric mani- fold admitting δ-almost Yamabe soliton with the potential vector field {Z} parallel to the characteristic vector field and with constant scalar curvature then either scalar curvature will vanish or {g} becomes a δ-Yamabe soliton under a certain condition. We established some results on {K}-paracontact manifold admitting δ-almost gradient Yamabe soliton. Moreover, we consider a (k, μ)-paracontact metric manifold admitting a non-trivial δ-almost gradient Yamabe soliton. We shown that the potential vector field Z is parallel to ξ. We have also discussed about δ-almost gradient Yamabe soliton on the para-Sasakian manifold. Finally, we consider a para-cosymplectic manifold with a δ-almost Yamabe soliton. In the end, we construct two examples of K-paracontact metric manifolds with δ-almost Yamabe soliton.",
+    "topic": "riemannian",
+    "score": 3
+  },
+  {
+    "id": "http://arxiv.org/abs/2511.01640v1",
+    "title": "Mixed Killing vector field and almost coKähler manifolds",
+    "authors": [
+      "Paritosh Ghosh"
+    ],
+    "published": "2025-11-03T14:49:06Z",
+    "summary": "A vector field $V$ on any (semi-)Riemannian manifold is said to be mixed Killing if for some nonzero smooth function $f$, it satisfies $L_VL_Vg=fL_Vg$, where $L_V$ is the Lie derivative along $V$. This class of vector fields, as a generalization of Killing vector fields, not only identify the isometries of the manifolds, but broadly also contain the class of homothety transformations. We prove an essential curvature identity along those fields on any (semi-)Riemannian manifold and thus generalize the Bochner's theorem for Killing vector fields in this setting. Later we study it in the framework of almost coKähler structure and we prove that the Reeb vector field $ξ$ on an almost coKähler manifold is mixed Killing if and only if the operator $h=0$. Moving further, we completely classify almost coKähler manifolds with $ξ$ mixed Killing vector field in dimension 3. In particular, if $ξ$ on an $η$-Einstein almost coKähler manifold is mixed Killing, then the manifold is of constant scalar curvature with $h=0$. Also we show that on any $(κ,μ)$-almost coKähler manifold, $ξ$ is mixed Killing if and only if the manifold is coKähler. In the end we present few model examples in this context.",
+    "topic": "riemannian",
+    "score": 3
+  },
+  {
+    "id": "http://arxiv.org/abs/2511.01563v1",
+    "title": "Shortest Geodesic Loops, Sectional Curvature, and Injectivity Radius of the Stiefel Manifold",
+    "authors": [
+      "Jakob Stoye",
+      "Simon Mataigne",
+      "P. -A. Absil",
+      "Ralf Zimmermann"
+    ],
+    "published": "2025-11-03T13:30:41Z",
+    "summary": "We determine the length of the shortest nontrivial geodesic loops on the Stiefel manifold endowed with any member of the one-parameter family of Riemannian metrics introduced by Hüper et al. (2021). This family includes, in particular, the canonical and Euclidean metrics. By combining existing and new bounds on the sectional curvature, we determine the exact value of the injectivity radius of the Stiefel manifold under a wide range of members of the metric family.",
+    "topic": "riemannian",
+    "score": 3
+  },
+  {
+    "id": "http://arxiv.org/abs/2511.01297v1",
+    "title": "First eigenvalue estimates on complete balanced Hermitian manifolds",
+    "authors": [
+      "Liangdi Zhang"
+    ],
+    "published": "2025-11-03T07:30:02Z",
+    "summary": "In analogy with classical results in Riemannian geometry, we establish estimates for the first eigenvalue of the Laplace-de Rham operator on complete balanced Hermitian manifolds in terms of either the holomorphic Ricci curvature or the holomorphic sectional curvature associated with the Strominger-Bismut connection.",
+    "topic": "riemannian",
+    "score": 3
+  },
+  {
+    "id": "http://arxiv.org/abs/2511.01263v2",
+    "title": "Minimal Degrees, Volume Growth, and Curvature Decay on Complete Kähler Manifolds",
+    "authors": [
+      "Yuang Shi"
+    ],
+    "published": "2025-11-03T06:18:44Z",
+    "summary": "We consider noncompact complete Kähler manifolds with nonnegative bisectional curvature. Our main results are: 1. Precise relations among refined minimal degree of polynomial growth holomorphic functions and holomorphic volume forms, $\\operatorname{AVR}$ (asymptotic volume ratio) and $\\operatorname{ASCD}$ (average of scalar curvature decay) are established. 2. The Lyapunov asymptotic behavior of the Kähler-Ricci flow can be described in terms of polynomial growth holomorphic functions. This provides a unifying perspective that bridges the two distinct proofs of Yau's uniformization conjecture by Liu and Chau-Lee-Tam. These resolve two conjectures made by Yang. 3. The link of any tangent cone is homeomorphic to a sphere, providing a Kähler analogue of a result of Kapovitch in the Riemannian case.",
+    "topic": "riemannian",
+    "score": 3
+  },
+  {
+    "id": "http://arxiv.org/abs/2511.00178v1",
+    "title": "Regularity of conformal structures on closed 3-manifolds",
+    "authors": [
+      "Rodrigo Avalos",
+      "Albachiara Cogo",
+      "Andoni Royo Abrego"
+    ],
+    "published": "2025-10-31T18:30:08Z",
+    "summary": "It is well known in Riemannian geometry that the metric components have the best regularity in harmonic coordinates. These can be used to characterize the most regular element in the isometry class of a rough Riemannian metric. In this work, we study the conformal analogue problem on closed 3-manifolds: given a Riemannian metric $g$ of class $W^{2,q}$ with $q > 3$, we characterize when a more regular representative exists in its conformal class. We highlight a deep link to the Yamabe problem for rough metrics and present some immediate applications to conformally flat, static and Einstein manifolds.",
+    "topic": "riemannian",
+    "score": 3
+  },
+  {
+    "id": "http://arxiv.org/abs/2512.08342v1",
+    "title": "Chern Conjecture on Minimal Willmore Hypersurfaces with Constant Scalar Curvature",
+    "authors": [
+      "Jianquan Ge",
+      "Huixin Tan",
+      "Wenjiao Yan",
+      "Yunheng Zhang"
+    ],
+    "published": "2025-12-09T08:12:20Z",
+    "summary": "In this paper, we prove that for an $n$-dimensional closed minimal Willmore hypersurface $M^n$ with constant scalar curvature in the unit sphere $\\mathbb{S}^{n+1}$, the squared norm $S$ of the second fundamental form of $M^n$ satisfies $S\\geqslant n+\\frac{4n+9-\\sqrt{4 n^{2}+60 n+81}}{2}$ if $S>n$. This proves, in the approximate sense, the Chern conjecture about the second gap ($S\\geqslant 2n$ if $S>n$), which will be fully verified under a further inequality condition about the 4-th mean curvature.",
+    "topic": "riemannian",
+    "score": 2
+  },
+  {
+    "id": "http://arxiv.org/abs/2512.07553v1",
+    "title": "Universal Hitchin moduli spaces",
+    "authors": [
+      "Luis Álvarez-Cónsul",
+      "Mario Garcia-Fernandez",
+      "Oscar García-Prada",
+      "Samuel Trautwein"
+    ],
+    "published": "2025-12-08T13:37:22Z",
+    "summary": "We study metric aspects of the universal moduli space of solutions to Hitchin's equations as the complex structure $J$ varies over the Teichmüller space $\\mathcal{T}$ of a closed surface $Σ$. Our approach is gauge theoretical and builds on the theory of Kähler fibrations and the moment map interpretation of constant scalar curvature Kähler metrics. Our first main result establishes that, over the moduli space of cscK metrics, the universal moduli space of solutions to Hitchin's equations carries a natural complex structure together with a family of pseudo-Kähler metrics forming a Kähler fibration with a Kähler Ehresmann connection.   We then investigate a second universal moduli space, constructed from the space of flat $G$-connections over $\\mathcal{T}$, which admits a nontrivial $J$-dependent Kähler fibration structure discovered by Hitchin. Using symplectic reduction, we build universal moduli spaces of solutions to the harmonicity equations depending on a coupling constant $α$, obtaining natural complex and pseudo-Kähler structures and an explicit Kähler potential. The main novelty here is that this moduli space is defined by a system coupling the scalar curvature with a cubic term in the Higgs field. Finally, we propose a conjectural relationship between the two resulting families of moduli spaces in the weak-coupling limit $α\\to 0$, inspired by the twistor geometry of Hitchin's hyperkähler moduli space.",
+    "topic": "riemannian",
+    "score": 2
+  },
+  {
+    "id": "http://arxiv.org/abs/2512.07389v1",
+    "title": "Gradient estimates and Liouville properties for the drifted Laplacian",
+    "authors": [
+      "Salvatore Lincastri"
+    ],
+    "published": "2025-12-08T10:21:45Z",
+    "summary": "In this paper, we discuss the validity of the Liouville property for $X$-harmonic functions, i.e. positive solution to $Δ_{X}u=0$, where $X$ is a vector field on a complete, non-compact Riemannian manifold and $Δ_{X}$ is the drifted Laplacian. In particular, we show that if the $X$-Bakry-Émery-Ricci curvature $\\mathrm{Ric}_{X}$ is non-negative and the norm of $X$ decays to zero at infinity, then the manifold has the Liouville property for the $X$-Laplacian. The proof exploits a local gradient estimate for positive solutions to the semilinear equation $Δ_{X}u+F(u)=0$, which holds when $F$ satisfies the structural conditions $tF'(t)-F(t)\\leα$ and $\\vert F(t)\\vert\\leβt$, and the manifold has $\\mathrm{Ric}_{X}\\ge-(n-1)K$.",
+    "topic": "riemannian",
+    "score": 2
+  },
+  {
+    "id": "http://arxiv.org/abs/2512.07278v1",
+    "title": "Rigidity of the gradient estimate for Einstein manifolds",
+    "authors": [
+      "Sanghoon Lee",
+      "Jiewon Park"
+    ],
+    "published": "2025-12-08T08:18:17Z",
+    "summary": "We study the rigidity of Ricci-flat manifolds with quadratic curvature decay under conditions on the Green function. We show that if the gradient of the Green function is uniformly bounded from below, then the manifold is flat. Furthermore, we prove that for a Ricci-flat manifold with quadratic curvature decay and Euclidean volume growth, the curvature is in $L^p$ for any $p \\ge 2$. Combining with Cheeger-Tian \\cite{CT} and Kröncke-Szabó \\cite{KS}, we obtain that the manifold must be ALE of optimal order.",
+    "topic": "riemannian",
+    "score": 2
+  },
+  {
+    "id": "http://arxiv.org/abs/2512.07231v1",
+    "title": "Isometric Embeddings of Conformally Compact Manifolds into Hyperbolic Spaces",
+    "authors": [
+      "Marco Usula"
+    ],
+    "published": "2025-12-08T07:21:04Z",
+    "summary": "The celebrated Nash Embedding Theorem asserts that every closed Riemannian manifold can be isometrically embedded into a sufficiently high-dimensional Euclidean space. In this paper, we prove an analogous result in the conformally compact context. Let $\\left(M,g\\right)$ be a conformally compact manifold whose sectional curvature at infinity is strictly bounded below by a negative constant $-λ^{2}$. We prove that $\\left(M,g\\right)$ can be realized as a submanifold, transverse to the sphere at infinity, of a sufficiently high-dimensional rescaled hyperbolic space of constant curvature $-λ^{2}$.",
+    "topic": "riemannian",
+    "score": 2
+  },
+  {
+    "id": "http://arxiv.org/abs/2512.07152v1",
+    "title": "Higgs bundle, isomonodromic leaves and minimal surfaces",
+    "authors": [
+      "Brian Collier",
+      "Jérémy Toulisse",
+      "Richard Wentworth"
+    ],
+    "published": "2025-12-08T04:31:22Z",
+    "summary": "In this paper we give a gauge theoretic construction of the joint moduli space of stable G-Higgs bundles on closed Riemann surfaces, where the Riemann surface structure is allowed to vary in the Teichmüller space of the underlying smooth surface. This joint moduli space has many interesting structures that are preserved by the mapping class group of the surface. We describe a surprising relationship between four key objects: the isomonodromic foliation, a canonical hermitian form arising from the Atiyah-Bott-Goldman symplectic structure on the character variety, a canonical holomorphic form which vertically lifts vector fields on Teichmüller space, and the energy function for equivariant harmonic maps. One consequence of this work is the construction of pseudo-Kähler metrics on many examples of components of character varieties which include rank two higher Teichmüller spaces. This recovers some of the recent work on the subject by various authors.",
+    "topic": "riemannian",
+    "score": 2
+  },
+  {
+    "id": "http://arxiv.org/abs/2512.06698v1",
+    "title": "Clairaut semi-slant/hemi-slant Riemannian maps to Kähler manifolds",
+    "authors": [
+      "Jyoti Yadav",
+      "Gauree Shanker"
+    ],
+    "published": "2025-12-07T07:21:24Z",
+    "summary": "The aim of this paper is to study Clairaut semi-slant(hemi-slant) Riemannian maps to Kähler manifolds.",
+    "topic": "riemannian",
+    "score": 2
+  },
+  {
+    "id": "http://arxiv.org/abs/2512.05173v1",
+    "title": "Weakly Einstein conformal products",
+    "authors": [
+      "Andrzej Derdzinski",
+      "JeongHyeong Park",
+      "Wooseok Shin"
+    ],
+    "published": "2025-12-04T17:00:29Z",
+    "summary": "One says that a Riemannian four-manifold is \\emph{weakly Einstein} if the three-index contraction of its curvature tensor against itself equals a function times the metric. Since this includes all four-manifolds that are Einstein, or conformally flat and scalar-flat, the term \\emph{proper} may be used for weakly Einstein manifolds (or metrics) not belonging to the latter two classes. We establish two classification-type results about proper weakly Einstein metrics conformal to Riemannian products. This includes constructions of new examples, among them -- some of (local) cohomogeneity two, in contrast with the two previously known narrow classes of examples, having cohomogeneity zero and one. We also exhibit a simple coordinate description of one of the known examples, the EPS space, which shows that it is a conformal product and constitutes a single local-homothety type. Finally, we prove that there exist no proper weakly Einstein manifolds with harmonic curvature.",
+    "topic": "riemannian",
+    "score": 2
+  },
+  {
+    "id": "http://arxiv.org/abs/2512.04968v1",
+    "title": "Spectral flow and the Atiyah-Patodi-Singer index theorem",
+    "authors": [
+      "Christian Baer",
+      "Remo Ziemke"
+    ],
+    "published": "2025-12-04T16:36:39Z",
+    "summary": "We establish a formula for the spectral flow of a smooth family of twisted Dirac operators on a closed odd-dimensional Riemannian spin manifold, generalizing a result by Getzler. The spectral flow is expressed in terms of the $\\hat{A}$-form of the manifold, the odd Chern character form of the family of connections, and the $ξ$-invariants of the initial and final operators. Our proof is based on a reduction to the Atiyah-Patodi-Singer index theorem for manifolds with boundary, which provides a conceptually very simple approach to the problem. As an application, we give a proof of Llarull's rigidity theorem for scalar curvature of strictly convex hypersurfaces in Euclidean space which works the same in even and odd dimensions.",
+    "topic": "riemannian",
+    "score": 2
+  },
+  {
+    "id": "http://arxiv.org/abs/2512.02305v1",
+    "title": "Remarks on Kähler Orbifolds of non-negative Ricci curvature",
+    "authors": [
+      "Yuguang Zhang"
+    ],
+    "published": "2025-12-02T00:58:28Z",
+    "summary": "This note proves orbifold versions of Kobayashi's theorem. The main result asserts that a compact Kähler orbifold with non-negative Ricci curvature, along with certain conditions regarding singularities, is simply connected.",
+    "topic": "riemannian",
+    "score": 2
+  },
+  {
+    "id": "http://arxiv.org/abs/2512.01691v1",
+    "title": "Hessian geometry and Frobenius manifolds with curvature",
+    "authors": [
+      "Andreas Vollmer"
+    ],
+    "published": "2025-12-01T13:58:23Z",
+    "summary": "A Riemannian metric is called Hessian if, locally, it can be written as the Hessian of a function called the Hessian potential. A (flat) Manin-Frobenius manifold is a flat Riemannian manifold furnished with a commutative and associative product compatible with the metric, such that a certain potentiality property is satisfied. Curved Frobenius manifolds generalize this concept to spaces with non-vanishing curvature, and they have applications in supersymmetric mechanics and within the theory of submanifolds.   Curved Frobenius manifolds naturally arise from Hessian metrics, and we find that they, conceptually, are the typical non-trivial examples. We obtain that Curved Frobenius structures on constant curvature spaces are consistent with a Hessian structure, if they satisfy a closed prolongation system of finite type. Consistency means that the Frobenius potential and the Hessian potential can be identified.   As an application, we show that certain second-order maximally superintegrable systems correspond 1-to-1 to Curved Frobenius structures that are consistent with a Hessian structure.",
+    "topic": "riemannian",
+    "score": 2
+  },
+  {
+    "id": "http://arxiv.org/abs/2512.01620v1",
+    "title": "On the stability of Einstein metrics carrying a special twisted spinor",
+    "authors": [
+      "Diego Artacho"
+    ],
+    "published": "2025-12-01T12:40:42Z",
+    "summary": "We prove linear semi-stability for a large class of Einstein metrics of non-positive scalar curvature. More precisely, we show that any Einstein $n$-manifold with non-positive scalar curvature carrying a parallel twisted pure spin$^r$ spinor is linearly semi-stable, under mild restrictions on $n$ and $r$. We thus extend the parallel spin and spin$^c$ stability results of Dai--Wang--Wei. As an application, our result implies linear semi-stability for all negative quaternion-K{ä}hler manifolds of dimension greater than $8$.",
+    "topic": "riemannian",
+    "score": 2
+  },
+  {
+    "id": "http://arxiv.org/abs/2512.01151v1",
+    "title": "Fiber Bundle Networks: A Geometric Machine Learning Paradigm",
+    "authors": [
+      "Dong Liu"
+    ],
+    "published": "2025-12-01T00:06:17Z",
+    "summary": "We propose Fiber Bundle Networks (FiberNet), a novel machine learning framework integrating differential geometry with machine learning. Unlike traditional deep neural networks relying on black-box function fitting, we reformulate classification as interpretable geometric optimization on fiber bundles, where categories form the base space and wavelet-transformed features lie in the fibers above each category. We introduce two innovations: (1) learnable Riemannian metrics identifying important frequency feature components, (2) variational prototype optimization through energy function minimization. Classification is performed via Voronoi tessellation under the learned Riemannian metric, where each prototype defines a decision region and test samples are assigned to the nearest prototype, providing clear geometric interpretability. This work demonstrates that the integration of fiber bundle with machine learning provides interpretability and efficiency, which are difficult to obtain simultaneously in conventional deep learning.",
+    "topic": "riemannian",
+    "score": 2
+  },
+  {
+    "id": "http://arxiv.org/abs/2512.00196v1",
+    "title": "Emergent Riemannian geometry over learning discrete computations on continuous manifolds",
+    "authors": [
+      "Julian Brandon",
+      "Angus Chadwick",
+      "Arthur Pellegrino"
+    ],
+    "published": "2025-11-28T20:29:06Z",
+    "summary": "Many tasks require mapping continuous input data (e.g. images) to discrete task outputs (e.g. class labels). Yet, how neural networks learn to perform such discrete computations on continuous data manifolds remains poorly understood. Here, we show that signatures of such computations emerge in the representational geometry of neural networks as they learn. By analysing the Riemannian pullback metric across layers of a neural network, we find that network computation can be decomposed into two functions: discretising continuous input features and performing logical operations on these discretised variables. Furthermore, we demonstrate how different learning regimes (rich vs. lazy) have contrasting metric and curvature structures, affecting the ability of the networks to generalise to unseen inputs. Overall, our work provides a geometric framework for understanding how neural networks learn to perform discrete computations on continuous manifolds.",
+    "topic": "riemannian",
+    "score": 2
+  },
+  {
+    "id": "http://arxiv.org/abs/2511.21349v1",
+    "title": "Multiplicity of solutions for Gross-Pitaevskii equations on Riemannian manifolds",
+    "authors": [
+      "Dario Corona",
+      "Stefano Nardulli",
+      "Ramon Oliver-Bonafoux",
+      "Giandomenico Orlandi"
+    ],
+    "published": "2025-11-26T12:56:24Z",
+    "summary": "We provide a multiplicity result for solutions of time-independent Gross-Pitaevskii equations on closed Riemannian manifolds. Such solutions arise as (possibly non-minimizing) critical points of the Ginzburg-Landau energy having prescribed momentum according to a given tangent velocity field. Lower bounds on the multiplicity of solutions are obtained in terms of the topology of the maximum velocity set, in the small momentum and vorticity core size regime. The proof relies on methods from critical point theory and $Γ$-convergence for Ginzburg-Landau functionals as well as on some new results for codimension 2 isoperimetric-type problems in the small flux regime, possibly of independent interest.",
+    "topic": "riemannian",
+    "score": 2
+  },
+  {
+    "id": "http://arxiv.org/abs/2511.21065v1",
+    "title": "Metric Lines in the Space of Curves",
+    "authors": [
+      "Daniella Catalá",
+      "Miriam Vollmayr-Lee",
+      "Alejandro Bravo-Doddoli"
+    ],
+    "published": "2025-11-26T05:11:11Z",
+    "summary": "This paper investigates sub-Riemannian geodesics within the jet space of curves. We establish the existence of two distinct families of metric lines, that is, globally minimizing geodesics, in the $2$-jet space of plane curves. This result provides an initial contribution toward the broader classification of metric lines in jet spaces. Additionally, we present precise criteria, which characterize when a sub-Riemannian geodesic in the $2$-jet space of plane curves can be identified as a metric line.",
+    "topic": "riemannian",
+    "score": 2
+  },
+  {
+    "id": "http://arxiv.org/abs/2511.20568v2",
+    "title": "On the rigidity of special and exceptional geometries with torsion a closed $3$-form",
+    "authors": [
+      "Georgios Papadopoulos"
+    ],
+    "published": "2025-11-25T18:04:02Z",
+    "summary": "We demonstrate that all Riemannian manifolds $(M, g, H)$ that admit a connection $\\hat\\nabla$ with torsion a 3-form $H$, which is both closed $d H=0$ and $\\hat\\nabla$-covariantly constant, are locally isometric to a product $N\\times G$, where $G$ is a semisimple group and $N$ is a Riemannian manifold with $ι_V H=0$ for all tangent vectors $V \\in T_pN\\subset T_pM$, $p\\in M$. If $M$ is simply connected and complete, then by the de Rham theorem $M=N\\times G$ globally. We use this to simplify the proof of similar results for strong KT, CYT and HKT manifolds that obey the above hypotheses and extend them to strong $G_2$ and $\\mathrm{Spin}(7)$ manifolds with torsion. As an application, we describe the geometry of all complete and simply connected $G_2$ and $\\mathrm{Spin}(7)$ manifolds whose torsion satisfies the above conditions.   We also demonstrate that all compact 8-dimensional manifolds with strong HKT structure are locally isometric to one of the following: 8-dimensional hyper-Kähler; $SU(3)$ equipped with the bi-invariant metric and 3-form; or the product $(U(1)\\times SU(2))\\times B^4$, where $B^4$ is either a hyper-Kähler manifold or $U(1)\\times SU(2)$ equipped with an HKT structure.",
+    "topic": "riemannian",
+    "score": 2
+  },
+  {
+    "id": "http://arxiv.org/abs/2511.20035v1",
+    "title": "Constant holomorphic sectional curvature conjecture and Fino-Vezzoni conjecture",
+    "authors": [
+      "Fangyang Zheng"
+    ],
+    "published": "2025-11-25T08:01:34Z",
+    "summary": "In this short essay, we will survey on two conjectures in non-Kähler geometry: the constant holomorphic sectional curvature conjecture and the Fino-Vezzoni conjecture. We aim at the broad audience and assume no expertise in non-Kähler geometry. We will discuss the history and recent developments on these two typical conjectures in the field.",
+    "topic": "riemannian",
+    "score": 2
+  },
+  {
+    "id": "http://arxiv.org/abs/2511.19102v2",
+    "title": "Existence of multiple constant mean curvature hypersurfaces for varying Riemannian metrics",
+    "authors": [
+      "Xiaoxiang Jiao",
+      "Wenduo Zou"
+    ],
+    "published": "2025-11-24T13:37:22Z",
+    "summary": "Given a closed Riemannian manifold $(M^{n+1},g)$,$3\\leq n+1\\leq7$.In this paper,we will prove that for any $c>0$,suppose the number of closed $c-CMC$ hypersurfaces is finite,then there exists a metric $h$ on $M$ such that the $c-CMC$ hypersurfaces in $(M,g)$ are also $c-CMC$ hypersurfaces in $(M,h)$ and the number of $c-CMC$ hypersurfaces in $(M,h)$ is strictly greater than the number of $c-CMC$ hypersurfaces in $(M,g)$.Moreover,we will give a precise upper bound for the $L^{\\frac{n+1}{2}}$ norm of $(g-h)$,which depends on the metric $g$ and the number of $c-CMC$ hypersurfaces in $(M,g)$.",
+    "topic": "riemannian",
+    "score": 2
+  },
+  {
+    "id": "http://arxiv.org/abs/2511.19042v1",
+    "title": "Some aspects of Cheng-Yau gradient estimates",
+    "authors": [
+      "Qixuan Hu",
+      "Chengjie Yu"
+    ],
+    "published": "2025-11-24T12:30:22Z",
+    "summary": "In this note, we extend the rigidity of Cheng-Yau gradient estimate in \\cite{HXY} to surfaces with lower Ricci curvature bound. Motivated by these sharp Cheng-Yau gradient estimates, pointwise Cheng-Yau gradient estimates for higher dimensional Riemannian manifolds are obtained, and as their applications, monotonicity formulas for positive harmonic functions are obtained.",
+    "topic": "riemannian",
+    "score": 2
+  },
+  {
+    "id": "http://arxiv.org/abs/2511.16240v1",
+    "title": "On the Bergman Kernel of hyperbolic Riemann surfaces",
+    "authors": [
+      "Jingzhou Sun"
+    ],
+    "published": "2025-11-20T11:19:23Z",
+    "summary": "We prove an exact formula for the Bergman kernel function of hyperbolic Riemann surfaces either of finite topology or of positive injectivity radius. The formula involves summation over all geodesic loops based at a point, which has a striking analogy with the Selberg trace formula. As an application, we prove a result about the maximum and minimum of the Bergman kernel function. We also prove an estimate of the off-diagonal Bergman kernel.",
+    "topic": "riemannian",
+    "score": 2
+  },
+  {
+    "id": "http://arxiv.org/abs/2511.16146v1",
+    "title": "Pseudo-Conformal actions of semisimple Lie groups",
+    "authors": [
+      "Mehdi Belraouti",
+      "Mohamed Deffaf",
+      "Abdelghani Zeghib"
+    ],
+    "published": "2025-11-20T08:33:12Z",
+    "summary": "We consider the pseudo-Riemannian Lichnerowicz conjecture in the homogeneous setting. In particular, we show that any compact connected pseudo-Riemannian manifold $M$ on which a semisimple group $G$ acts conformally, essentially and transitively, is conformally flat.",
+    "topic": "riemannian",
+    "score": 2
+  },
+  {
+    "id": "http://arxiv.org/abs/2511.16058v1",
+    "title": "Gradient estimates for $(p,V)$-harmonic functions on Riemannian manifolds",
+    "authors": [
+      "Yuxin Dong",
+      "Hezi Lin",
+      "Weihao Zheng"
+    ],
+    "published": "2025-11-20T05:38:06Z",
+    "summary": "In this paper, we study $(p,V)$-harmonic functions on complete Riemannian manifolds using the Moser iteration method. A volume comparison theorem and a Sobolev embedding theorem are established under the Bakry-$\\acute{E}$mery curvature condition. Moreover, we obtain an explicit global gradient estimate for positive entire $(p,V)$-harmonic functions.",
+    "topic": "riemannian",
+    "score": 2
+  },
+  {
+    "id": "http://arxiv.org/abs/2511.15955v1",
+    "title": "Continuity of total curvatures of Riemannian hypersurfaces",
+    "authors": [
+      "Mohammad Ghomi"
+    ],
+    "published": "2025-11-20T01:10:55Z",
+    "summary": "We show that total generalized mean curvatures of hypersurfaces with positive reach in Riemannian manifolds, and convex bodies in Cartan-Hadamard spaces, are continuous with respect to Hausdorff distance.",
+    "topic": "riemannian",
+    "score": 2
+  },
+  {
+    "id": "http://arxiv.org/abs/2511.14735v1",
+    "title": "Weak transcendental base-point freeness and diameter lower bounds for the Kähler-Ricci flow",
+    "authors": [
+      "Junsheng Zhang"
+    ],
+    "published": "2025-11-18T18:26:46Z",
+    "summary": "We prove a weaker version of the transcendental base-point freeness on compact Kähler manifolds. As a consequence, we derive the diameter lower bound for finite time singularities of Kähler-Ricci flow with non-Fano initial data.",
+    "topic": "riemannian",
+    "score": 2
+  },
+  {
+    "id": "http://arxiv.org/abs/2511.13428v1",
+    "title": "On Mañé's Critical Value for Tonelli Lagrangians on Half Lie-Groups",
+    "authors": [
+      "Levin Maier",
+      "Francesco Ruscelli"
+    ],
+    "published": "2025-11-17T14:39:24Z",
+    "summary": "In this article, we introduce Tonelli Lagrangians on half-Lie groups equipped with a strong right-invariant Riemannian metric. These are right-invariant Lagrangians defined on the tangent bundle of a half-Lie group with quadratic growth on each fiber. The main examples of half-Lie groups are groups of $H^s$ or $C^k$ diffeomorphisms of compact manifolds. We show that the Euler--Lagrange flow exists globally. We then introduce three thresholds of the energy, called the Ma~ne critical values, and prove that under mild regularity and completeness assumptions on the half-Lie group, any two points can be connected by a global Tonelli minimizer above the lowest of these energy thresholds. Under an additional assumption on the Lagrangian, such a minimizer is a flow line of the Euler--Lagrange flow. This extends the work of Contreras from closed finite-dimensional manifolds to the infinite-dimensional context. Moreover, our results also extend the recent work of Bauer, Harms, and Michor from geodesic flows to Euler--Lagrange flows of Tonelli Lagrangians. As an application, we obtain global well-posedness of all Euler--Poincare'e equations associated with Tonelli Lagrangians on half-Lie groups equipped with strong right-invariant Riemannian metrics.",
+    "topic": "riemannian",
+    "score": 2
+  },
+  {
+    "id": "http://arxiv.org/abs/2511.12337v1",
+    "title": "A Non-Abelian Approach to Riemann Surfaces Part I: Wronskian Geometry",
+    "authors": [
+      "Mehrzad Ajoodanian"
+    ],
+    "published": "2025-11-15T19:30:37Z",
+    "summary": "We study projectively flat holomorphic vector bundles over Riemann surfaces. To each such bundle, we naturally assign a Wronskian line bundle. The main idea is a notion of the division of two meromorphic sections. Abel's identity is interpreted as the first Chern class of the Wronskian line bundle.",
+    "topic": "riemannian",
+    "score": 2
+  },
+  {
+    "id": "http://arxiv.org/abs/2511.10994v1",
+    "title": "Holomorphic Lie algebroid connections on holomorphic principal bundles on compact Riemann surfaces",
+    "authors": [
+      "Indranil Biswas"
+    ],
+    "published": "2025-11-14T06:33:26Z",
+    "summary": "For a $Γ$--equivariant holomorphic Lie algebroid $(V,\\, φ)$, on a compact Riemann surface $X$ equipped with an action of a finite group $Γ$, we investigate the equivariant holomorphic Lie algebroid connections on holomorphic principal $G$--bundles over $X$, where $G$ is a connected affine complex reductive group. If $(V,\\,φ)$ is nonsplit, then it is proved that every holomorphic principal $G$--bundle admits an equivariant holomorphic Lie algebroid connection. If $(V,\\,φ)$ is split, then it is proved that the following four statements are equivalent:   An equivariant principal $G$--bundle $E_G$ admits an equivariant holomorphic Lie algebroid connection.   The equivariant principal $G$--bundle $E_G$ admits an equivariant holomorphic connection.   The principal $G$--bundle $E_G$ admits a holomorphic connection.   For every triple $(P,\\, L(P),\\, χ)$, where $L(P)$ is a Levi subgroup of a parabolic subgroup $P\\, \\subset\\, G$ and $χ$ is a holomorphic character of $L(P)$, and every $Γ$--equivariant holomorphic reduction of structure group $E_{L(P)}$ of $E_G$ to $L(P)$, the degree of the line bundle over $X$ associated to $E_{L(P)}$ for $χ$ is zero.    The correspondence between $Γ$--equivariant principal $G$--bundles over $X$ and parabolic $G$--bundles on $X/Γ$ translates the above result to the context of parabolic $G$--bundles.",
+    "topic": "riemannian",
+    "score": 2
+  },
+  {
+    "id": "http://arxiv.org/abs/2511.09931v2",
+    "title": "On equivariant isometric embeddings of Riemannian manifolds with symmetries",
+    "authors": [
+      "Hongda Qiu"
+    ],
+    "published": "2025-11-13T03:48:20Z",
+    "summary": "Let $(M,g)$ be a $C^\\infty$-smooth, $n$-dimensional Riemannian manifold which is diffeomorphic to $\\RR^n$ and admit an action of a properly discontinuous and cocompact group. This work proves the existence of a $C^\\infty$ equivariant isometric embedding of $M$ in some Euclidean space $\\RR^q$ where $q = \\max\\{s_n+2n, s_n+n+5\\}$ is the same as the dimension of Matthias Günther's results.",
+    "topic": "riemannian",
+    "score": 2
+  },
+  {
+    "id": "http://arxiv.org/abs/2511.09699v2",
+    "title": "Lie groups with a bi-invariant distance",
+    "authors": [
+      "Gabriel Larotonda",
+      "Iván Rey"
+    ],
+    "published": "2025-11-12T19:57:01Z",
+    "summary": "We show that a Lie group $G$ admitting a bi-invariant distance must be the product $G=H\\times K$ of an abelian group $H$ and a compact group $K$ with discrete center. Moreover, the distance in $G$ must come from the infima of lengths of paths for a unique infinitesimal metric (a Finsler norm) defined in the Lie algebra of $G$. From this we derive the distance minimizing paths which are left or right translations of one-parameter groups (though these are not the unique minizing paths if the norm is not smooth or strictly convex). Then we introduce a notion of sectional curvature $sec(π)$ for a bi-invariant distance, following Milnor's ideas, and we show that this curvature is bounded and non-negative, and it is null when the $2$-plane $π$ is an abelian Lie subalgebra of $Lie(G)$. We show that when the distance is strictly convex, our sectional curvature vanishes if and only if the $2$-plane is abelian. We give finer characterizations for the case of vanishing curvature, for the case of non-strictly convex norms",
+    "topic": "riemannian",
+    "score": 2
+  },
+  {
+    "id": "http://arxiv.org/abs/2511.09393v1",
+    "title": "The qualitative behavior for biharmonic functions on open manifolds",
+    "authors": [
+      "Lin Wang",
+      "Miaomiao Zhu"
+    ],
+    "published": "2025-11-12T15:01:11Z",
+    "summary": "For a complete noncompact Riemannian manifold with nonnegative Ricci curvature, we show that bounded biharmonic functions are constant and the space consists of biharmonic functions with polynomial growth of a fixed rate is finite dimensional. Also, we derive a Weyl type bound for this space. Finally, we present a finite dimensional result for a class of fourth-order operators on $\\mathbb{R}^n$ satisfying certain coefficient conditions.",
+    "topic": "riemannian",
+    "score": 2
+  },
+  {
+    "id": "http://arxiv.org/abs/2511.08446v2",
+    "title": "On the parity of the Betti numbers of 3-manifolds with a parallel vector field",
+    "authors": [
+      "Emmanuel Gnandi",
+      "Raymond A. Hounnonkpe"
+    ],
+    "published": "2025-11-11T16:47:43Z",
+    "summary": "The question of whether a closed, orientable manifold can admit a nontrivial vector field that is parallel with respect to some Riemannian metric is a classical problem in Differential Geometry, first posed by S. S. Chern [11]. In this work, we provide a complete answer to Chern's question in dimension three. Specifically, we show that a closed, orientable 3-manifold admits a nontrivial parallel vector field with respect to some Riemannian metric if and only if it is a Kähler mapping torus. Furthermore, we prove that the Betti numbers of any such 3-manifold are necessarily odd. A full classification of these manifolds is also obtained. Similar results are established for compact orientable Lorentzian 3-manifolds admitting either a parallel timelike vector field or a parallel lightlike vector field.",
+    "topic": "riemannian",
+    "score": 2
+  },
+  {
+    "id": "http://arxiv.org/abs/2511.08413v1",
+    "title": "Harmonic maps into principal bundles and generalized magnetic maps",
+    "authors": [
+      "H. Benziadi",
+      "A. López Almorox",
+      "C. Tejero Prieto"
+    ],
+    "published": "2025-11-11T16:26:15Z",
+    "summary": "We study harmonic mappings from a Riemannian manifold $N$ into a principal $G$-bundle $P$ endowed with a $G$-invariant Riemannian metric (i.e. a Kaluza-Klein metric). These morphisms are called Kaluza-Klein harmonic maps and naturally lead to the notion of generalized magnetic maps for an arbitrary gauge group $G$, which are just their projections onto the base manifold of $P$ and might provide a geometric formulation for the magnetic interaction of extended objects modelled by $N$ under the action of a generalized Lorentz force. We provide a characterization of Kaluza-Klein harmonic maps and show that the space of generalized magnetic maps is a quotient of the space of Kaluza-Klein harmonic maps under an equivalence relation generated by an appropriate gauge group. We establish a necessary condition that they must satisfy, the gauge variation formula and the harmonic gauge fixing equation, also providing a main existence theorem for them. After analyzing how they are influenced by the geometry of the fibers of the principal bundle, we construct several instances of generalized magnetic maps, including two non-trivial one-parameter families of examples based on $α$-twisted spherical harmonic immersions with values in the complex $S^{3}\\longrightarrow S^{2}$ and quaternionic $S^{7}\\longrightarrow S^{4}$ Hopf fibrations, proving that among them the unique uncharged ones are the standard Clifford torus and the standard spherical harmonic immersion of $ S^3\\times S^3$ into $S^7$.",
+    "topic": "riemannian",
+    "score": 2
+  },
+  {
+    "id": "http://arxiv.org/abs/2511.06923v1",
+    "title": "Ricci solitons of special Lorentzian Lie groups with a four-dimensional isometry group",
+    "authors": [
+      "Giovanni Calvaruso",
+      "Lorenzo Pellegrino",
+      "Amirhesam Zaeim"
+    ],
+    "published": "2025-11-10T10:18:07Z",
+    "summary": "In the framework of the study of homogeneous Lorentzian three-manifolds, we consider here the only class of examples which admit a four-dimensional group of isometries but are neither Lorentzian Bianchi-Cartan-Vranceanu spaces nor plane waves. We obtain an explicit description in global coordinates of these special homogeneous Lorentzian manifolds. We then prove that all such examples are non-gradient expanding Ricci solitons.",
+    "topic": "riemannian",
+    "score": 2
+  },
+  {
+    "id": "http://arxiv.org/abs/2511.06370v1",
+    "title": "Hypersurfaces in Riemannian manifolds with torse-forming axes",
+    "authors": [
+      "Muhittin Evren Aydın",
+      "Adela Mihai",
+      "Cihan Özgür"
+    ],
+    "published": "2025-11-09T13:13:11Z",
+    "summary": "In this paper, we study orientable hypersurfaces $N$ in Riemannian manifolds $(M,\\langle , \\rangle)$ for which the inner product $\\langle U, \\mathcal{V} \\rangle$ is constant, where $U$ is the unit normal vector field to $N$ and $\\mathcal{V}$ is a globally defined torse-forming vector field on $M$, called the axis of $N$. When $\\mathcal{V}$ is a unit torse-forming vector field, $N$ becomes a constant angle hypersurface with axis $\\mathcal{V}$, and we classify such hypersufaces. After that, the case when $\\mathcal{V}$ is a torqued vector field is considered and a corresponding classification is given.",
+    "topic": "riemannian",
+    "score": 2
+  },
+  {
+    "id": "http://arxiv.org/abs/2511.05227v1",
+    "title": "On the smooth Lorentzian optimal transport problem",
+    "authors": [
+      "Alec Metsch"
+    ],
+    "published": "2025-11-07T13:23:40Z",
+    "summary": "In this paper, we want to establish some general results in the Lorentzian optimal transport theory that have well-known Riemannian counterparts. As a first result, we will provide non-trivial assumptions on the measures to ensure strong (Kantorovich) duality, i.e. the existence of a maximizing pair in the dual optimal transport formulation. We will also show that, under suitable assumptions, optimality of a causal coupling is characterized by $c$-cyclical monotonicity. The second result deals with the regularity of $c$-convex functions and (weak) Kantorovich potentials. We show that, in general, regularity results known in the Riemannian context do not extend to the Lorentzian setting. Under suitable assumptions on the measures, we will prove nevertheless that these (weak) potentials are locally semconvex on an open set of full measure. As our last result, we will prove that, under quite general assumptions, for any two intermediates measures along a displacement interpolation, there exists a $C^{1,1}_{loc}$-regular maximizing pair in the dual formulation.",
+    "topic": "riemannian",
+    "score": 2
+  },
+  {
+    "id": "http://arxiv.org/abs/2511.08618v2",
+    "title": "On $7$-manifolds with $b_{2}=2$: diffeomorphism classification and nonconnected moduli spaces of positive Ricci curvature metrics",
+    "authors": [
+      "Fupeng Xu"
+    ],
+    "published": "2025-11-07T05:25:32Z",
+    "summary": "We derive the $s$-invariants of certain simply connected $7$-manifolds whose second homology groups are isomorphic to $\\mathbb{Z}^{2}$. We apply the $s$-invariants to give a partial classification of simply connected total spaces of circle bundles over $\\left(\\mathbb{C}P^{1}\\times\\mathbb{C}P^{2}\\right)\\#\\mathbb{C}P^{3}$ up to diffeomorphism. As an application, we show that there is a simply connected $7$-manifold whose space and moduli space of positive Ricci curvature metrics both have infinitely many path components. We also determine bordism groups $Ω_{8}^{Spin}\\left(K_{2}\\right)$ and $Ω_{8}^{Spin}\\left(K_{2};\\mathrm{pr}_{1}^{*}γ^{1}\\right)$ that are required in the deduction of $s$-invariants.",
+    "topic": "riemannian",
+    "score": 2
+  },
+  {
+    "id": "http://arxiv.org/abs/2511.04645v1",
+    "title": "On the foundations and applications of Lorentz-Finsler Geometry",
+    "authors": [
+      "Miguel Sánchez"
+    ],
+    "published": "2025-11-06T18:37:03Z",
+    "summary": "Finslerian extensions of Special and General Relativity -- commonly referred to as Very Special and Very General Relativity -- necessitate the development of a unified Lorentz-Finsler geometry. However, the scope of this geometric framework extends well beyond relativistic physics. Indeed, it offers powerful tools for modeling wave propagation in classical mechanics, discretizing spacetimes in classical and relativistic settings, and supporting effective theories in fundamental physics. Moreover, Lorentz-Finsler geometry provides a versatile setting that facilitates the resolution of problems within Riemannian, Lorentzian, and Finslerian geometries individually. This work presents a plain introduction to the subject, reviewing foundational concepts, key applications, and future prospects.   The reviewed topics include (i) basics on the setting of cones, Finsler and Lorentz-Finsler metrics and their (nonlinear, anisotropic and linear) connections, (ii) the global structure of Lorentz-Finsler manifolds and its space of null geodesics, (iii) links among Riemannian, Finsler and Lorentz geometries, (iv) real world applications for wildfires and seisms, and discretization in classical and relativistic settings with quantum prospects, and (v) Finslerian variational approach to Einstein equations. The new results include the splitting of globally hyperbolic Finsler spacetimes, in addition to the analysis of several extensions as the case of timelike boundaries.",
+    "topic": "riemannian",
+    "score": 2
+  },
+  {
+    "id": "http://arxiv.org/abs/2511.04323v1",
+    "title": "Linear Poisson Equations with Potential on Riemann Surfaces",
+    "authors": [
+      "Jiayu Li",
+      "Xiangrong Zhu"
+    ],
+    "published": "2025-11-06T12:52:38Z",
+    "summary": "We study interior estimates for solutions of the linear Poisson equation: $$ \\triangle u = g u + f $$ where $g$ and $f$ belong to the Zygmund space $L\\ln L$ on a Riemann surface $M$ satisfying the isoperimetric inequality. As applications, we derive corresponding interior estimates, Harnack inequalities, and a global estimate.",
+    "topic": "riemannian",
+    "score": 2
+  },
+  {
+    "id": "http://arxiv.org/abs/2511.11620v1",
+    "title": "A Structural Analysis of Warped Product Yamabe Gradient Solitons",
+    "authors": [
+      "Jahnabi Chakraborti",
+      "Anandateertha Mangasuli"
+    ],
+    "published": "2025-11-06T07:35:27Z",
+    "summary": "We investigate Yamabe gradient solitons, which are warped product manifolds. We show that the fiber of a nontrivial warped product Yamabe gradient soliton has constant scalar curvature. Based on this result, we obtain a specific class of warped products that cannot be nontrivial solitons. Furthermore, we derive estimates of the scalar curvature and the soliton function of warped product solitons.",
+    "topic": "riemannian",
+    "score": 2
+  },
+  {
+    "id": "http://arxiv.org/abs/2511.03672v1",
+    "title": "Uniqueness of the measure of maximal entropy for geodesic flows on coarse hyperbolic manifolds without conjugate points",
+    "authors": [
+      "Gerhard Knieper"
+    ],
+    "published": "2025-11-05T17:38:29Z",
+    "summary": "In this article we study geodesic flows on closed Riemannian manifolds without conjugate points and divergence property of geodesic rays. If the fundamental group is Gromov hyperbolic and residually finite we prove, under appropriate assumptions on the expansive set, that the geodesic flow has a unique measure of maximal entropy. This generalizes corresponding results of Climenhaga, Knieper and War proved under the stronger assumption of the existence of a background metric of negative sectional curvature.",
+    "topic": "riemannian",
+    "score": 2
+  },
+  {
+    "id": "http://arxiv.org/abs/2511.02480v1",
+    "title": "Stability and rigidity of axisymmetric marginally outer trapped two-spheres",
+    "authors": [
+      "Gregory J. Galloway",
+      "Abraão Mendes"
+    ],
+    "published": "2025-11-04T11:09:50Z",
+    "summary": "In [7], H. Bray, S. Brendle, and A. Neves studied rigidity properties of area-minimizing two-spheres in Riemannian three-manifolds with uniformly positive scalar curvature. In [13], these results were extended to marginally outer trapped surfaces (MOTS) in general initial data sets $(M^3,g,K)$ under a natural energy condition. In the present work, we refine the latter results to the setting of axisymmetric MOTS in initial data sets admitting a nontrivial Killing vector field. Conditions for the stability of such MOTS, as well as a new foliation lemma by axisymmetric surfaces of constant outward null expansion, are obtained. Finally, we discuss some aspects of the rotating Nariai spacetimes and their relation to these results.",
+    "topic": "riemannian",
+    "score": 2
+  },
+  {
+    "id": "http://arxiv.org/abs/2511.01130v1",
+    "title": "Boundary estimates for a fully nonlinear Yamabe problem on Riemannian manifolds",
+    "authors": [
+      "Weisong Dong",
+      "Yanyan Li",
+      "Luc Nguyen"
+    ],
+    "published": "2025-11-03T00:39:23Z",
+    "summary": "In this paper, we consider the Dirichlet boundary value problem for fully nonlinear Yamabe equations on Riemannian manifolds with boundary. Assuming the existence of a subsolution, we derive \\emph{a priori} boundary second derivative estimates and consequently obtain the existence of a smooth solution. Moreover, with respect to a family of equations interpolating the fully nonlinear Yamabe equation and the classical semi-linear Yamabe equation, our estimates remain uniform. Finally, an example of a $C^1$ solution which is smooth in the interior but not smooth at the boundary is also given.",
+    "topic": "riemannian",
+    "score": 2
+  },
+  {
+    "id": "http://arxiv.org/abs/2510.27514v1",
+    "title": "Electromagnetic curvature via Jacobi-Maupertuis and beyond",
+    "authors": [
+      "Valerio Assenza",
+      "Giorgia Testolina"
+    ],
+    "published": "2025-10-31T14:41:07Z",
+    "summary": "In the setting of electromagnetic systems, we propose a new definition of electromagnetic Ricci curvature, naturally derived via the classical Jacobi-Maupertuis reparametrization from the recent works of Assenza [IMRN, 2024] and Assenza, Marshall Reber, Terek [Communications in Mathematical Physics, 2025]. On closed manifolds, we show that if the magnetic force is nowhere vanishing and the potential is sufficiently small in the $C^2$ norm, then this Ricci curvature is positive for energies close to the maximum value of the potential $e_0$. As a main application, under these assumptions, we extend the existence of contractible closed orbits at energy levels near $e_0$ from almost every to everywhere.",
+    "topic": "riemannian",
+    "score": 2
+  },
+  {
+    "id": "http://arxiv.org/abs/2512.10845v1",
+    "title": "Uniform RC-positivity of direct image bundles",
+    "authors": [
+      "Kuang-Ru Wu"
+    ],
+    "published": "2025-12-11T17:32:01Z",
+    "summary": "The concept of RC-positivity and uniform RC-positivity is introduced by Xiaokui Yang to solve a conjecture of Yau on projectivity and rational connectedness of a compact Kähler manifold with positive holomorphic sectional curvature. Some main theorems in Yang's proof hold under a weaker condition called weak RC-positivity. It is therefore natural to ask if (uniform) weak RC-positivity implies (uniform) RC-positivity. Another motivation for studying this problem is to understand the relation between rational connectedness of $X$ and (uniform) RC-positivity of the holomorphic tangent bundle $TX$.   In this paper, we obtain results in this direction. In particular, we show that if a vector bundle $E$ is uniformly weakly RC-positive, then $S^kE\\otimes \\det E$ is uniformly RC-positive for any $k\\geq 0$, and $S^kE$ is uniformly RC-positive for $k$ large. We also discuss an approach that might lead to a solution to the question of whether weak RC-positivity of $E$ implies RC-positivity of $E$.",
+    "topic": "riemannian",
+    "score": 1
+  },
+  {
+    "id": "http://arxiv.org/abs/2512.09653v1",
+    "title": "Remarks on potential functions of noncompact quasi-Einstein manifolds",
+    "authors": [
+      "Jaciane Gonçalves"
+    ],
+    "published": "2025-12-10T13:48:41Z",
+    "summary": "In this article, we study the set of potential functions on noncompact quasi-Einstein manifolds. We show that the space of all positive potential functions on a three-dimensional noncompact quasi-Einstein manifold has dimension at most two, and that equality holds if and only if the manifold is isometric to a product $B\\times\\mathbb{R}$, where $B$ is a $λ$-Einstein surface or one of the examples obtained by L. Berard Bergery and described in Besse's book. Moreover, we prove that any asymptotically flat $n$-dimensional quasi-Einstein manifold with $λ=0$ is necessarily Ricci-flat.",
+    "topic": "riemannian",
+    "score": 1
+  },
+  {
+    "id": "http://arxiv.org/abs/2512.09605v1",
+    "title": "Extensions and Applications of Stein-Weiss Operators to Traceless Symmetric Tensor",
+    "authors": [
+      "Sergey Stepanov",
+      "Irina Tsyganok"
+    ],
+    "published": "2025-12-10T12:52:24Z",
+    "summary": "First-order differential operators arising from the representation-theoretic decomposition of the covariant derivative play a central role in Riemannian geometry. In this paper, we study Stein-Weiss $O(n)$-gradients acting on covariant symmetric trace-free tensors of arbitrary rank $p \\ge 2$. By analyzing the decomposition of $T^*M \\otimes S_0^p(M)$ into its $O(n)$-irreducible components, we explicitly describe the corresponding generalized gradients and compute Weitzenbock formulas for their adjoint compositions. These results extend Bouguignon four-dimensional formulas for $p = 2$ and generalize previous work of other authors to higher-rank symmetric tensors. The formulas obtained provide a unified framework for understanding second-order Stein-Weiss operators and yield tools applicable to deformation complexes, curvature estimates, and stability problems in geometric analysis. The article continues the authors' earlier investigations of Stein-Weiss operators on natural tensor bundles.",
+    "topic": "riemannian",
+    "score": 1
+  },
+  {
+    "id": "http://arxiv.org/abs/2512.09569v1",
+    "title": "Equiaffine immersions and pseudo-Riemannian space forms",
+    "authors": [
+      "Nicholas Rungi"
+    ],
+    "published": "2025-12-10T12:02:08Z",
+    "summary": "We introduce an explicit construction that produces immersions into the pseudosphere $\\mathbb{S}^{n,n+1}$ and the pseudohyperbolic space $\\mathbb{H}^{n+1,n}$ starting from equiaffine immersions in $\\mathbb{R}^{n+1}$, and conversely. We describe how these immersions interact with a para-Sasaki metric defined on $\\mathbb{H}^{n+1,n}$ via a principal $\\mathbb{R}$-bundle structure over a para-Kähler manifold. In the case where the immersion in $\\mathbb{R}^{n+1}$ is an $n$-dimensional hyperbolic affine sphere, we obtain spacelike maximal immersions in $\\mathbb{H}^{n+1,n}$ that satisfy a transversality condition with respect to the principal $\\mathbb{R}$-bundle structure. As a first application, we show that, given a certain boundary set $Λ_Ω\\subset \\partial_\\infty \\mathbb{H}^{n+1,n}$, associated with a properly convex subset $Ω\\subset \\mathbb{RP}^n$ and homeomorphic to an $(n-1)$-sphere, there exists an $n$-dimensional maximal spacelike submanifold in $\\mathbb{H}^{n+1,n}$ whose boundary is precisely $Λ_Ω$. As a second application, we show that the Blaschke lift of the hyperbolic affine sphere, introduced by Labourie for $n=2$, into the symmetric space of $\\mathrm{SL}(n+1,\\mathbb{R})$ is a harmonic map.",
+    "topic": "riemannian",
+    "score": 1
+  },
+  {
+    "id": "http://arxiv.org/abs/2512.09490v1",
+    "title": "Isoperimetric Regions in Anisotropically Scaled Product Manifolds",
+    "authors": [
+      "Efstratios Vernadakis"
+    ],
+    "published": "2025-12-10T10:08:03Z",
+    "summary": "Let $M, N$ be compact Riemannian manifolds. Then, for fixed volume fraction, in the product of a sufficiently small homothetic copy of $M$ with $N$, every isoperimetric region is the product of $M$ with an isoperimetric region in $N$, provided the boundaries of the isoperimetric regions in $N$ are smooth.",
+    "topic": "riemannian",
+    "score": 1
+  },
+  {
+    "id": "http://arxiv.org/abs/2512.07039v1",
+    "title": "Anisotropic min-max via phase transitions",
+    "authors": [
+      "Antonio De Rosa",
+      "Alessandro Pigati"
+    ],
+    "published": "2025-12-07T23:06:35Z",
+    "summary": "We develop a PDE-based approach to the min-max construction of nontrivial integer rectifiable varifolds that are stationary with respect to anisotropic surface energies on closed Riemannian manifolds, in codimension one. Specifically, we study the anisotropic analogue of the Allen-Cahn energy and establish a Modica-type gradient bound for its critical points. Using this in conjunction with certain estimates for stable solutions, we then prove that the energy densities of stable or bounded-Morse-index critical points of its rescalings concentrate along an integer rectifiable varifold that is stationary for the underlying anisotropic integrand. As a consequence, we construct a (possibly singular) anisotropic min-max hypersurface via Allen-Cahn, obtaining an analogue of the result of Hutchinson-Tonegawa in the anisotropic setting.",
+    "topic": "riemannian",
+    "score": 1
+  },
+  {
+    "id": "http://arxiv.org/abs/2512.06958v1",
+    "title": "Isometries of the Ebin metric",
+    "authors": [
+      "David Lenze"
+    ],
+    "published": "2025-12-07T18:39:44Z",
+    "summary": "We study the space of Riemannian metrics over a compact manifold equipped with the Ebin metric. We characterize its self-isometries and prove that two such spaces are isometric if and only if their underlying manifolds are diffeomorphic.",
+    "topic": "riemannian",
+    "score": 1
+  },
+  {
+    "id": "http://arxiv.org/abs/2512.06740v1",
+    "title": "Overdetermined Steklov eigenvalue problems on compact surfaces",
+    "authors": [
+      "Hang Chen",
+      "Bohan Wu"
+    ],
+    "published": "2025-12-07T09:10:46Z",
+    "summary": "We consider the overdetermined problem given by   \\begin{equation*}   Δu=0 \\mbox{ in } Ω,\\quad \\frac{\\partial u}{\\partialν} =σ_1 u \\mbox{ on } \\partial Ω, \\quad |\\nabla u|=\\mbox{constant on } \\partial Ω,   \\end{equation*} where $Ω$ is a connected, orientable, compact Riemannian surface with smooth boundary $\\partial Ω$, and $σ_1$ is the first non-zero Steklov eigenvalue of $Ω$. We give a complete characterization of $Ω$ when the overdetermined problem is solvable. Precisely, we prove that the overdetermined problem above admits a (nontrivial) solution if and only if $Ω$ is conformally equivalent to either the flat unit disk or a flat cylinder $[-L,L]\\times S^1$ for certain $L\\ge L_0$ by a conformal transformation which (up to scaling) is an isometry on the boundary. In particular, we completely determine the compact domains in $\\mathbb{R}^2$ or in $\\mathbb{H}^2$ such that the overdetermined problem is solvable.",
+    "topic": "riemannian",
+    "score": 1
+  },
+  {
+    "id": "http://arxiv.org/abs/2512.05769v1",
+    "title": "Scalar-mean rigidity beyond warped product spaces",
+    "authors": [
+      "Jinmin Wang",
+      "Zhizhang Xie"
+    ],
+    "published": "2025-12-05T14:57:39Z",
+    "summary": "The main scalar-mean extremality and rigidity results in the existing literature concern manifolds whose curvature operators are nonnegative, or warped product spaces with a log-concave warping function whose leaves carry metrics of nonnegative curvature operator. In this paper, we establish scalar-mean extremality and rigidity theorems for a broad class of Riemannian manifolds with boundary whose metrics are conformal to ones with nonnegative curvature operator. In particular, our results extend these theorems beyond the warped product setting and yields new families of manifolds exhibiting scalar-mean extremality and rigidity.",
+    "topic": "riemannian",
+    "score": 1
+  },
+  {
+    "id": "http://arxiv.org/abs/2512.04572v1",
+    "title": "Existence of twisted Calabi flow and deformation from the $J$-flow to Calabi flow",
+    "authors": [
+      "Jie He",
+      "Haozhao Li"
+    ],
+    "published": "2025-12-04T08:39:05Z",
+    "summary": "In this paper, we study a family of twisted Calabi flows connecting the $J$-flow and Calabi flow on a compact Kähler manifold with a constant scalar curvature (cscK) metric. We show that for any initial data the twisted Calabi flow near the $J$-flow has long time existence and converges smoothly to the cscK metric. Moreover, we show that if a twisted Calabi flow has long time existence and converges, then the nearby twisted Calabi flow with the same initial data also has long time existence and converges. These results imply the openness of the continuity method to study Chen's long time existence conjecture on (twisted) Calabi flow on cscK manifolds.",
+    "topic": "riemannian",
+    "score": 1
+  },
+  {
+    "id": "http://arxiv.org/abs/2512.04310v1",
+    "title": "RNNs perform task computations by dynamically warping neural representations",
+    "authors": [
+      "Arthur Pellegrino",
+      "Angus Chadwick"
+    ],
+    "published": "2025-12-03T23:01:43Z",
+    "summary": "Analysing how neural networks represent data features in their activations can help interpret how they perform tasks. Hence, a long line of work has focused on mathematically characterising the geometry of such \"neural representations.\" In parallel, machine learning has seen a surge of interest in understanding how dynamical systems perform computations on time-varying input data. Yet, the link between computation-through-dynamics and representational geometry remains poorly understood. Here, we hypothesise that recurrent neural networks (RNNs) perform computations by dynamically warping their representations of task variables. To test this hypothesis, we develop a Riemannian geometric framework that enables the derivation of the manifold topology and geometry of a dynamical system from the manifold of its inputs. By characterising the time-varying geometry of RNNs, we show that dynamic warping is a fundamental feature of their computations.",
+    "topic": "riemannian",
+    "score": 1
+  },
+  {
+    "id": "http://arxiv.org/abs/2512.03731v1",
+    "title": "Critical metrics of the volume functional on complete manifolds",
+    "authors": [
+      "Caio Coimbra",
+      "Rafael Diógenes",
+      "Ernani Ribeiro"
+    ],
+    "published": "2025-12-03T12:20:14Z",
+    "summary": "In this article, we investigate critical metrics of the volume functional on complete manifolds without boundary. We prove that any critical metric of the volume functional on a connected, complete manifold with parallel Ricci tensor is isometric to one of the standard models. Moreover, we show that a Bach-flat critical metric of the volume functional on a complete, simply connected manifold with proper potential function is isometric to one of the following: the standard sphere $\\mathbb{S}^n$, Euclidean space $\\mathbb{R}^n$, hyperbolic space $\\mathbb{H}^n$, or a warped product $\\mathbb{R} \\times_{\\varphi} Σ_c$, where $Σ_c$ is a regular level set of the potential function. In particular, we establish classification results in dimensions three and four under weaker assumptions on the Bach tensor.",
+    "topic": "riemannian",
+    "score": 1
+  },
+  {
+    "id": "http://arxiv.org/abs/2512.03352v1",
+    "title": "Anti-self-dual blowups II",
+    "authors": [
+      "Vsevolod Shevchishin",
+      "Gleb Smirnov"
+    ],
+    "published": "2025-12-03T01:32:08Z",
+    "summary": "Let $X$ be a closed, oriented four-manifold with $b_2^+ \\leq 3$, and suppose $X$ contains a collection of pairwise disjoint embedded $(-2)$-spheres. We prove that there is a Riemannian metric on $X$ such that the Poincare dual of each of these spheres is represented by an anti-self-dual harmonic form. This extends our earlier result for $(-1)$-spheres. The main new ingredient is an application of Eliashberg's $h$-principle for overtwisted contact structures, which we use to construct self-dual harmonic forms on four-orbifolds with prescribed local behaviour near the orbifold singular set.",
+    "topic": "riemannian",
+    "score": 1
+  },
+  {
+    "id": "http://arxiv.org/abs/2512.03212v1",
+    "title": "A Conformal Positive Mass Theorem with Noncompact Boundary",
+    "authors": [
+      "Alex Freire",
+      "Mohammad Tariquel Islam"
+    ],
+    "published": "2025-12-02T20:31:24Z",
+    "summary": "We obtain an integral inequality for asymptotically linear harmonic functions on asymptotically flat 3-manifolds with noncompact boundary, which implies positivity of a convex combination of ADM masses of two conformally related metrics under a positivity condition on a corresponding convex combination of their scalar curvatures and boundary mean curvatures. This generalizes a result of Batista and Lopes de Lima, under conditions that do not assume positivity of scalar curvature.",
+    "topic": "riemannian",
+    "score": 1
+  },
+  {
+    "id": "http://arxiv.org/abs/2512.02451v1",
+    "title": "Twisted Calabi functional and twisted Calabi flow",
+    "authors": [
+      "Jie He",
+      "Haozhao Li"
+    ],
+    "published": "2025-12-02T06:18:59Z",
+    "summary": "This paper investigates the twisted Calabi functional and the associated twisted Calabi flow on compact Kähler manifolds. Our main contributions are threefold: first, we establish the convexity of the twisted Calabi functional at its critical points; second, we prove the short-time existence of the twisted Calabi flow; and third, we demonstrate the stability of this flow in the neighborhood of twisted constant scalar curvature Kähler metrics. These results provide an analytic foundation for studying the twisted Calabi flow and resolve questions about its local behavior.",
+    "topic": "riemannian",
+    "score": 1
+  },
+  {
+    "id": "http://arxiv.org/abs/2512.01430v1",
+    "title": "Around the semi-classical limit of boundary Liouville conformal field theory",
+    "authors": [
+      "Baptiste Cerclé"
+    ],
+    "published": "2025-12-01T09:13:21Z",
+    "summary": "Liouville conformal field theory describes a random geometry that fluctuates around a deterministic one: the unique solution of the problem of finding, within a given conformal class, a Riemannian metric with prescribed scalar and geodesic curvatures as well as conical singularities and corners. The level of randomness in Liouville theory is measured by the coupling constant $γ\\in(0,2)$, the semi-classical limit corresponding to taking $γ\\to0$.   Based on the probabilistic definition of Liouville theory, we prove that this semi-classical limit exists and does give rise to this deterministic geometry. At second order this limit is described in terms of a massive Gaussian free field with Robin boundary conditions.   This in turn allows to implement CFT-inspired techniques in a deterministic setting: in particular we define the classical stress-energy tensor, show that it can be expressed in terms of accessory parameters (written as regularized derivatives of the Liouville action), and that it gives rise to classical higher equations of motion.",
+    "topic": "riemannian",
+    "score": 1
+  },
+  {
+    "id": "http://arxiv.org/abs/2512.01070v2",
+    "title": "Differential Geometry of the Fixed-Rank Core Covariance Manifold",
+    "authors": [
+      "Bongjung Sung"
+    ],
+    "published": "2025-11-30T20:40:05Z",
+    "summary": "We study the differential geometry of the fixed-rank core covariance manifold. According to Hoff, McCormack, and Zhang [J. R. Stat. Soc., B: Stat., 85 (2023), pp. 1659--1679], every covariance matrix $Σ$ of $p_1\\times p_2$ matrix-variate data uniquely decomposes into a separable component $K$ and a core component $C$. Such a decomposition also exists for rank-$r$ $Σ$ if $p_1/p_2+p_2/p_1<r$, with $C$ sharing the same rank. They posed an open question on whether a partial-isotropy structure can be imposed on $C$ for high-dimensional covariance estimation. We address this question by showing that a partial-isotropy rank-$r$ core is a non-trivial convex combination of a rank-$r$ core and $I_p$ for $p:=p_1p_2$, motivating the study of rank-$r$ cores. For fixed $r>p_1/p_2+p_2/p_1$, we prove that the set of rank-$r$ cores, $\\mathcal{C}_{p_1,p_2,r}^+$, is a compact, smooth, embedded submanifold of the set of rank-$r$ positive semi-definite matrices, except for a measure-zero subset associated with canonical decomposability. When $r=p$, the set of full-rank cores $\\mathcal{C}_{p_1,p_2}^{++}$ is itself a smooth manifold. Moreover, the positive definite cone $\\mathcal{S}_p^{++}$ is diffeomorphic to the product of the Kronecker and core covariance manifolds, providing new geometric insight into $\\mathcal{S}_p^{++}$ via separability. Differential geometric quantities, such as the differential of the diffeomorphism, as well as the Riemannian gradient and Hessian operator on $\\mathcal{C}_{p_1,p_2}^{++}$ and the manifolds used in constructing $\\mathcal{C}_{p_1,p_2,r}^+$, are also derived. Lastly, we propose a partial-isotropy core shrinkage estimator for matrix-variate data, supported by numerical illustrations.",
+    "topic": "riemannian",
+    "score": 1
+  },
+  {
+    "id": "http://arxiv.org/abs/2512.00973v1",
+    "title": "Submanifolds of Constant Negative Curvature: A Generalization of Hilbert's Theorem",
+    "authors": [
+      "John Douglas Moore"
+    ],
+    "published": "2025-11-30T16:42:25Z",
+    "summary": "We use the generalized Gauss-Bonnet formula for Riemannian polyhedra discovered by Allendoerfer, Weil and Chern to show that hyperbolic space of dimension $n$ has no isometric immersion into Euclidean space of dimension $2n-1$.",
+    "topic": "riemannian",
+    "score": 1
+  },
+  {
+    "id": "http://arxiv.org/abs/2512.00825v1",
+    "title": "Pinched self-dual Weyl curvature on Einstein four-manifolds",
+    "authors": [
+      "Inyoung Kim"
+    ],
+    "published": "2025-11-30T10:25:15Z",
+    "summary": "We show that a compact oriented riemannian four-manifold with harmonic and pinched self-dual Weyl curvature is anti-self-dual if the type is nonpositive. The main part is to show that there is an almost-Kähler structure outside the zero set of the self-dual Weyl curvature.",
+    "topic": "riemannian",
+    "score": 1
+  },
+  {
+    "id": "http://arxiv.org/abs/2511.23074v1",
+    "title": "Monotonicity of Perelman $\\mathcal{W}$-Entropy of Mean Curvature Flow",
+    "authors": [
+      "Xiang-Dong Li",
+      "Qi Yan"
+    ],
+    "published": "2025-11-28T11:02:34Z",
+    "summary": "In this paper, we study Perelman' s $ \\mathcal{W}$ entropy for mean curvature flow in $\\mathbb{R}^{n+1}$. Analogously to Perelman's $\\mathcal{W}$-entropy defined for Ricci flow, K. Ecker in \\cite{Ecker07} defined a functional $\\mathcal{W}$ for the mean curvature flow in $\\mathbb{R}^{n+1}$ and the region it encloses, and made the conjecture that this functional is monotonically increasing in time. We modify K. Ecker's definition and, using Hamilton's Harnack inequality for mean curvature flow, prove that our redefined $\\mathcal{W}$-entropy is monotonically decreasing in time. Additionally, we provide a rigidity theorem for this $\\mathcal{W}$-entropy.",
+    "topic": "riemannian",
+    "score": 1
+  },
+  {
+    "id": "http://arxiv.org/abs/2511.22255v1",
+    "title": "Heat coefficients of surfaces with curved conic singularities",
+    "authors": [
+      "Dorothee Schueth"
+    ],
+    "published": "2025-11-27T09:31:36Z",
+    "summary": "Let $(M,g)$ be a two-dimensional Riemannian manifold of finite diameter with a conical singularity. Under the assumption that the metric near the cone point $C$ is rotationally invariant, but not necessarily flat, we give an explicit formula for the coefficient $b_{1/2}(C)$ in the heat trace expansion $\\operatorname{tr}(\\operatorname{exp}(-tΔ_g))\\sim_{t\\searrow0} (4πt)^{-1}\\sum_{j=0}^\\infty a_j(M) t^j+\\sum_{j=0}^\\infty b_{j/2}(C)t^{j/2}+\\sum_{j=0}^\\infty c_{j/2}(C) t^{j/2} \\log t$. In the case that the Gaussian curvature $K$ of $(M,g)$ satisfies $|K(p)|\\to\\infty$ as $p\\to C$, we show that $b_{1/2}(C)$ varies irrationally under constant rescalings of the distance circles near the cone point. This is a sharp contrast to the behavior of $b_0(C)$ and of those coefficients $b_j(C)$ which appear in certain known formulas in the case of orbifold cone points or corners of geodesic polygons.",
+    "topic": "riemannian",
+    "score": 1
+  },
+  {
+    "id": "http://arxiv.org/abs/2511.21055v1",
+    "title": "Flows of conformally coclosed $G_2$-structures with dilaton",
+    "authors": [
+      "Spiro Karigiannis",
+      "Sébastien Picard",
+      "Caleb Suan"
+    ],
+    "published": "2025-11-26T04:45:19Z",
+    "summary": "We study flows of $G_2$-structures guided by the principle of dimensional reduction: natural geometric flows in $G_2$-geometry reduce to natural flows in complex geometry. Our main examples are the $G_2$-Laplacian coflow, which lifts the Kähler--Ricci flow, and a 7-dimensional lift of the anomaly flow on complex threefolds. The $G_2$-lift of the anomaly flow deforms conformally coclosed $G_2$-structures. We compare the $G_2$-anomaly flow to the $G_2$-Laplacian coflow, and investigate short-time existence and fixed points.",
+    "topic": "riemannian",
+    "score": 1
+  },
+  {
+    "id": "http://arxiv.org/abs/2511.20176v1",
+    "title": "A Calderón Problem for the Dirac operator with chiral boundary conditions",
+    "authors": [
+      "Carlos Valero"
+    ],
+    "published": "2025-11-25T10:58:40Z",
+    "summary": "We consider on a spin manifold with boundary a Dirac operator $D_A$ with chiral boundary conditions, twisted by a unitary connection $A$. When $m$ is not in the chiral spectrum of $D_A$, we define an analogue of the Dirichlet-to-Neumann map for the Dirac equation $D_A - m$, which we call the boundary conjugation map, and show that it is a pseudodifferential operator of order $0$ on the boundary. We show that in dimension greater than 2, its symbol determines the Taylor series of the metric and connection modulo gauge on the boundary when $m \\neq 0$ and $m^2$ is not in the Dirichlet spectrum of $D_A^2$. We go on to show that a real-analytic Riemannian manifold and twisted spinor bundle with twisted spin connection can be recovered from its boundary conjugation map. Under further hypotheses, one can recover the unitary connection up to global gauge equivalence and the complex spinor bundles. Similar results hold in dimension $2$ when the auxiliary bundle and connection are absent.",
+    "topic": "riemannian",
+    "score": 1
+  },
+  {
+    "id": "http://arxiv.org/abs/2511.19904v1",
+    "title": "Index invariants and Eta invariants determine Differential KO theory in degrees that are multiples of 8",
+    "authors": [
+      "Tan Su"
+    ],
+    "published": "2025-11-25T04:29:46Z",
+    "summary": "Sullivan--Simons developed a Cheeger--Simons differential character analogue for degree (0 mod 2) differential K-theory, giving a complete set of numerical invariants that determine a complex vector bundle with unitary connection on a base manifold X, up to Chern--Simons equivalence of the connection. In this paper we develop a degree (0 mod 8) differential KO-analogue. Namely, given a real vector bundle with orthogonal connection, we construct R/Z -valued eta-invariants in the context of Atiyah--Patodi--Singer and Z2 Atiyah--Singer index invariants that completely determine differential KO-theory in degree (0 mod 8); we call this the differential KO-character. In the second part, for a Riemannian submersion X to B with closed 8k-dimensional spin fibers, we develop two family index theorems in differential KO -theory: one in the differential KO -character model and one in the structured-bundle model. The fact that these two pushforwards agree follows from the Bismut--Cheeger adiabatic limit theorem, providing a new interpretation of that result.",
+    "topic": "riemannian",
+    "score": 1
+  },
+  {
+    "id": "http://arxiv.org/abs/2511.18982v2",
+    "title": "The Willmore energy and curvature concentration",
+    "authors": [
+      "Raz Kupferman",
+      "Cy Maor",
+      "David Padilla-Garza"
+    ],
+    "published": "2025-11-24T10:55:44Z",
+    "summary": "We study isometric immersions of a Riemannian surface $(Ω,\\frak{g})$, where $Ω\\subset \\mathbb{R}^2$, into $\\mathbb{R}^3$. We consider their bending energy, i.e., the square of the $L^2$-norm of their second fundamental form, which is equivalent to the Willmore functional. We obtain two new lower bounds for this energy, one in terms of the Gaussian curvature of the surface, and the other in terms of a Burgers vector -- a measure of non-flatness connected to torsion. These new estimates provide optimal blowup rates of the energy when the curvature is concentrated (e.g., in a conical geometry). In the more subtle case of dipoles of concentrated curvature, we use the Burgers vector estimates to obtain an optimal blowup rate in terms of the size of the system. Our motivation comes from non-Euclidean elasticity, in which cones and curvature-dipoles play a central role. The lower bounds derived in this work directly yield lower bounds for the elastic energy of thin elastic sheets. The derivation of the curvature-based lower bound involves an isoperimetric inequality for framed loops, which we believe to be of independent interest.",
+    "topic": "riemannian",
+    "score": 1
+  },
+  {
+    "id": "http://arxiv.org/abs/2511.17751v1",
+    "title": "Almost positively curved generalized Eschenburg spaces",
+    "authors": [
+      "Jason DeVito",
+      "Joan West"
+    ],
+    "published": "2025-11-21T20:02:42Z",
+    "summary": "In each dimension of the form $4n-1$ with $n\\geq 3$, we construct infinitely many new examples of manifolds admitting metrics with positive sectional curvature almost everywhere. In addition, we show that if $n\\geq 6$, infinitely many of our examples are not homotopy equivalent to any homogeneous space, providing the first infinite family of such examples.",
+    "topic": "riemannian",
+    "score": 1
+  },
+  {
+    "id": "http://arxiv.org/abs/2511.17356v1",
+    "title": "Explicit solutions to the gradient flow of Spin(7)-structures",
+    "authors": [
+      "Joseph Duthie"
+    ],
+    "published": "2025-11-21T16:20:05Z",
+    "summary": "We study the gradient flow of Spin($7$)-structures and construct the first explicit solutions, in the homogeneous setting. As an intermediate step, we obtain formulae expressing the Spin($7$)-torsion tensor and gradient flow in terms of the Spin($7$)-torsion forms, which makes explicit computations more tractable. We use these formulae to find explicit solutions to the gradient flow of Spin($7$)-structures, obtaining a shrinking soliton on $\\mathrm{SU}(3)$ as well as another explicit solution on a certain $T^7$-bundle over $S^1$. We also find an explicit solution to the coupled Ricci-harmonic flow of Spin($7$)-structures. Finally, we consider the question of stability of solitons for the renormalised gradient flow, and show that the soliton on $\\mathrm{SU}(3)$ admits stable directions, unstable directions, and zero modes.",
+    "topic": "riemannian",
+    "score": 1
+  },
+  {
+    "id": "http://arxiv.org/abs/2511.16401v1",
+    "title": "The maximal destabilizers for Chow and K-stability",
+    "authors": [
+      "Yi Yao"
+    ],
+    "published": "2025-11-20T14:18:02Z",
+    "summary": "Donaldson showed that the constant scalar curvature Kähler metrics can be quantized by the balanced Hermitian norms on the spaces of global sections. We explore an analogous problem in the unstable situation. For a K-unstable manifold $(X,L)$, its projective embedding via $\\left|kL\\right|$ will be Chow-unstable when $k$ is sufficiently large and divisible. There is a unique filtration on $\\mathrm{H}^{0}(X,kL)$, that corresponds to the maximal destabilizer for Chow-stability of the embedded variety. On the other hand, there is a maximal destabilizer for K-stability after the work of Xia and Li, which corresponds to the steepest descent direction of K-energy. Based on Boucksom-Jonsson's non-Archimedean pluripotential theory and some idealistic assumptions, we provide a route to show that maximal K-destabilizers are quantized by the maximal Chow-destabilizers.",
+    "topic": "riemannian",
+    "score": 1
+  },
+  {
+    "id": "http://arxiv.org/abs/2511.16305v1",
+    "title": "Full flexibility of isometric immersions of metrics with low Hölder regularity in Poznyak theorem's dimension",
+    "authors": [
+      "Marta Lewicka"
+    ],
+    "published": "2025-11-20T12:35:14Z",
+    "summary": "A classical result by Poznyak asserts that any smooth $2$-dimensional Riemannian metric $g$, posed on the closure of a simply connected domain $ω\\subset\\mathbb{R}^2$, has a smooth isometric immersion into $\\mathbb{R}^4$. Using techniques of convex integration, we prove that for any $2$-dimensional $g\\in\\mathcal{C}^{r,β}$, an isometric immersion of regularity $\\mathcal{C}^{1,α}(\\barω,\\mathbb{R}^4)$ for any $α<\\min\\{\\frac{r+β}{2},1\\}$, may be found arbitrarily close to any short immersion. The fact that this result's regularity reaches $\\mathcal{C}^{1,1-}$ for $g\\in \\mathcal{C}^2$, which is referred to as \"full flexibility\", should be contrasted with: (i) the regularity $\\mathcal{C}^{1,1/3-}$ achieved by Cao, Hirsch and Inauen for isometric immersions into $\\mathbb{R}^{3}$ and the lack of flexibility (rigidity) of such isometric immersions with regularity $\\mathcal{C}^{1, 2/3+}$ proved by Borisov and then by Conti, de Lellis and Szekelyhidi; (ii) the regularity $\\mathcal{C}^{1,1-}$ obtained by Källen for isometric immersions into higher codimensional space; and (iii) the regularity $\\mathcal{C}^{1,\\frac{1}{d(d+1)/k}-}$ achieved by the author in the general case of $d$-dimensional metrics and $(d+k)$-dimensional immersions for the closely related Monge-Ampère system.",
+    "topic": "riemannian",
+    "score": 1
+  },
+  {
+    "id": "http://arxiv.org/abs/2511.16128v1",
+    "title": "Rigidity of five-dimensional quasi-Einstein manifolds with constant scalar curvature",
+    "authors": [
+      "Zhongxian Cao"
+    ],
+    "published": "2025-11-20T08:02:07Z",
+    "summary": "Let $(M^5,g)$ be a five-dimensional non-trivial simply-connected compact quasi-Einstein manifold with boundary. If $M$ has constant scalar $R$, Johnatan Costa, Ernani Ribeiro Jr, and Detang Zhou show that $R$ = $((m-5)k+20)/(m-k+4)λ$ for some $k\\in\\{0,2,3,4\\}$. Both cases of $k=0$ and $k=4$ are already classified. In this paper we will prove that the case $k=3$ is rigid.",
+    "topic": "riemannian",
+    "score": 1
+  },
+  {
+    "id": "http://arxiv.org/abs/2511.15356v1",
+    "title": "An Information-Theoretic Route to Isoperimetric Inequalities via Heat Flow and Entropy Dissipation",
+    "authors": [
+      "Amandip Sangha"
+    ],
+    "published": "2025-11-19T11:33:48Z",
+    "summary": "We develop an information-theoretic approach to isoperimetric inequalities based on entropy dissipation under heat flow. By viewing diffusion as a noisy information channel, we measure how mutual information about set membership decays over time. This decay rate is shown to be determined by the boundary measure of the set, leading to a new proof of the Euclidean isoperimetric inequality with its sharp constant. The method extends to Riemannian manifolds satisfying curvature-dimension conditions, yielding Levy-Gromov and Gaussian isoperimetric results within a single analytic principle. Quantitative and stability bounds follow from refined entropy inequalities linking information loss to geometric rigidity. The approach connects geometric analysis and information theory, revealing how entropy dissipation encodes the geometry of diffusion and boundary.",
+    "topic": "riemannian",
+    "score": 1
+  },
+  {
+    "id": "http://arxiv.org/abs/2511.14729v1",
+    "title": "Removing singularities of minimal surfaces by isotopies",
+    "authors": [
+      "Antonio Alarcon",
+      "Franc Forstneric"
+    ],
+    "published": "2025-11-18T18:20:57Z",
+    "summary": "Given an open Riemann surface $M$, we show that the branch points and the complete ends of finite total curvature of a conformal minimal surface $M\\to{\\mathbb R}^n$, $n\\ge 3$, can be removed by an isotopy through such surfaces. The analogous result holds for null holomorphic curves $M\\to{\\mathbb C}^n$.",
+    "topic": "riemannian",
+    "score": 1
+  },
+  {
+    "id": "http://arxiv.org/abs/2511.14556v1",
+    "title": "The Pestov identity on the frame bundle and associated homogeneous fibrations",
+    "authors": [
+      "Mihajlo Cekić",
+      "Thibault Lefeuvre",
+      "Andrei Moroianu",
+      "Uwe Semmelmann"
+    ],
+    "published": "2025-11-18T14:59:16Z",
+    "summary": "In this short note, we prove a global Pestov identity on the (orthonormal) frame bundle of a Riemannian manifold and deduce similar identities on associated homogeneous fibrations. As a particular example, this provides a concise proof of the Pestov identity on the unit tangent bundle of the manifold.",
+    "topic": "riemannian",
+    "score": 1
+  },
+  {
+    "id": "http://arxiv.org/abs/2511.14151v1",
+    "title": "Decoupling actions of finite-dimensional Lie groups and of groups of diffeomorphisms in the large deformation framework",
+    "authors": [
+      "Rayane Mouhli",
+      "Thomas Pierron"
+    ],
+    "published": "2025-11-18T05:26:25Z",
+    "summary": "In computational anatomy, the Large Deformation Diffeomorphic Metric Mapping (LDDMM) framework has become a central tool for modeling smooth, invertible transformations between shapes such as curves or landmarks. In this paper, we extend this framework by enriching diffeomorphic deformations with transformations induced by finite-dimensional Lie groups (e.g. isometries, scalings), and we develop a registration model that decouples the actions of these two types of deformation on the shape during the matching process. To achieve this, we consider semidirect products between finite-dimensional groups and groups of diffeomorphisms, endowed with a right-invariant sub-Riemannian structure that give rise to new variational problems for shape registration. By exploiting symmetries and reduction theory, we decouple the contributions of each group throughout the matching process. We further extend the framework to incoroporate anisotropic deformations that preferentially favor certain directions during registration. On the numerical side, we propose an algorithm based on a joint optimization over both deformation groups, in contrast to the standard twostage approach that optimizes first over the finite-dimensional component and then over the diffeomorphic one. Experiments on curves and landmarks demonstrate that the proposed joint optimization improves registration accuracy and more effectively disentangles the contributions of the two deformation groups.",
+    "topic": "riemannian",
+    "score": 1
+  },
+  {
+    "id": "http://arxiv.org/abs/2511.14056v1",
+    "title": "Radial Compensation: Stable and Semantically Decoupled Generative Models on Riemannian Manifolds",
+    "authors": [
+      "Marios Papamichals",
+      "Regina Ruane"
+    ],
+    "published": "2025-11-18T02:15:25Z",
+    "summary": "Generative models on curved spaces rely on charts to map Euclidean spaces to manifolds. Exponential maps preserve geodesics but have stiff, radius-dependent Jacobians, while volume-preserving charts maintain densities but distort geodesic distances. Both approaches entangle curvature with model parameters, inflating gradient variance. In high-dimensional latent normalizing flows, the wrapped exponential prior can stretch radii far beyond the curvature scale, leading to poor test likelihoods and stiff solvers. We introduce Radial Compensation (RC), an information-geometric method that selects the base density in the tangent space so that the likelihood depends only on geodesic distance from a pole, decoupling parameter semantics from curvature. RC lets radial parameters retain their usual meaning in geodesic units, while the chart can be tuned as a numerical preconditioner. We extend RC to manifolds with known geodesic polar volume and show that RC is the only construction for geodesic-radial likelihoods with curvature-invariant Fisher information. We derive the Balanced-Exponential (bExp) chart family, balancing volume distortion and geodesic error. Under RC, all bExp settings preserve the same manifold density and Fisher information, with smaller dial values reducing gradient variance and flow cost. Empirically, RC yields stable generative models across densities, VAEs, flows on images and graphs, and protein models. RC improves likelihoods, restores clean geodesic radii, and prevents radius blow-ups in high-dimensional flows, making RC-bExp a robust default for likelihood-trained generative models on manifolds.",
+    "topic": "riemannian",
+    "score": 1
+  },
+  {
+    "id": "http://arxiv.org/abs/2511.13380v2",
+    "title": "Log-Euclidean Lie Groups",
+    "authors": [
+      "Olivier Bisson",
+      "Xavier Pennec"
+    ],
+    "published": "2025-11-17T13:53:53Z",
+    "summary": "We develop a self-contained comprehensive theory of log-Euclidean Lie groups: smooth manifolds diffeomorphic to finite-dimensional vector spaces; extending existing results for symmetric positive-definite (SPD) matrices S+(n) and full-rank correlation matrices Cor+(n). We specify an isometric isomorphism theorem, showing that all log-Euclidean metrics on manifolds of identical dimension are isomorphically Riemannian isometric. Explicit isometries are constructed, linking SPD and correlation matrix manifolds. We further characterize quotient log-Euclidean metrics within a principal-bundle framework. We show that for any n $\\ge$ 3, there is no choice of log-Euclidean metrics on S+(n) and on Cor+(n) for which the inclusion i\\,: Cor+(n) $\\rightarrow$ S+(n) becomes an isometric embedding. These results unify several disparate metrics in geometric statistics.",
+    "topic": "riemannian",
+    "score": 1
+  },
+  {
+    "id": "http://arxiv.org/abs/2511.13215v1",
+    "title": "Mass-capacity inequality modeled on conformally flat manifolds",
+    "authors": [
+      "Yuchen Bi",
+      "Jintian Zhu"
+    ],
+    "published": "2025-11-17T10:28:46Z",
+    "summary": "In the spin case, we can establish a mass-capacity inequality for generalized asymptotically flat manifolds $(M,g,E)$ with nonnegative scalar curvature, where the equality implies that $(M,g)$ is harmonically conformal to $\\mathbb R^n\\setminus S$ for a closed bounded subset $S$ of $\\mathbb R^n$ with Hausdorff dimension no greater than $\\frac{n-2}{2}$.",
+    "topic": "riemannian",
+    "score": 1
+  },
+  {
+    "id": "http://arxiv.org/abs/2511.12775v1",
+    "title": "Null fluid gravitational fields on Kerr manifolds and optical lifts of Sasaki structures",
+    "authors": [
+      "Masoud Ganji",
+      "Cristina Giannotti",
+      "Andrea Spiro"
+    ],
+    "published": "2025-11-16T20:57:56Z",
+    "summary": "Building on the characterisation in [C. D. Hill, J. Lewandowski and P. Nurowski, Indiana Univ. Math. J. 57 (2008), 3131--3176] of 4-dimensional Lorentzian metrics adapted to an optical structure and satisfying the null fluid Einstein equations, we give an explicit parameterisation of this class under the assumption that the optical structure is of Kerr type. As immediate consequences, we obtain: (1) a new method for constructing solutions to the Einstein equations with a null fluid energy momentum tensor, yielding a large family of explicit metrics that naturally includes the classical Kerr black hole metrics and all Ricci flat examples described in [M. Ganji, C. Giannotti, G. Schmalz and A. Spiro, Ann. Physics 75 (2025), Paper No. 169908, 28]; (2) a solution to a conjecture in Hill, Lewandowski and Nurowski's paper on the local existence of smooth optical lifts in the case of Sasaki CR structures.",
+    "topic": "riemannian",
+    "score": 1
+  },
+  {
+    "id": "http://arxiv.org/abs/2511.12527v1",
+    "title": "Isoparametric Hypersurfaces in Products of Simply Connected Space Forms",
+    "authors": [
+      "Ronaldo F. de Lima",
+      "Giuseppe Pipoli"
+    ],
+    "published": "2025-11-16T09:43:34Z",
+    "summary": "Let $\\mathbb Q_{ε_i}^{n_i}$ denote the simply connected space form of dimension $n_i\\ge 2$ and constant sectional curvature $ε_i$. We prove that any connected isoparametric hypersurface of $\\mathbb Q_{ε_1}^{n_1}\\times\\mathbb Q_{ε_2}^{n_2}$ has constant angle function. We then use this property to classify the isoparametric and homogeneous hypersurfaces of $\\mathbb Q_{ε_1}^{n_1}\\times\\mathbb Q_{ε_2}^{n_2}$, $|ε_1|+|ε_2|\\ne 0$, that satisfy a one-point condition.",
+    "topic": "riemannian",
+    "score": 1
+  },
+  {
+    "id": "http://arxiv.org/abs/2511.11469v2",
+    "title": "Harmonic maps to Hadamard spaces and a universal higher Teichmüller space",
+    "authors": [
+      "J. Maxwell Riestenberg",
+      "Peter Smillie"
+    ],
+    "published": "2025-11-14T16:41:49Z",
+    "summary": "We give a sufficient criterion, which we call stability, for a coarse Lipschitz map $f$ from a complete manifold $X$ with Ricci curvature bounded below to a proper Hadamard space $Y$ to be within bounded distance of a harmonic map. We prove uniqueness of the harmonic map under additional assumptions on $X$ and $Y$.   Using this criterion, we prove a significant generalization of the Schoen-Li-Wang conjecture on quasi-isometric embeddings between rank 1 symmetric spaces. In particular, under a natural generalization of the quasi-isometric condition, we remove the assumption that the target has rank 1. This allows us to define a universal Hitchin component for each $\\mathrm{PGL}_d(\\mathbb{R})$, generalizing universal Teichmüller space, and show that it can be described both as a space of quasi-symmetric positive maps from $\\mathbb{RP}^1$ to the flag variety, and as a space of harmonic maps.",
+    "topic": "riemannian",
+    "score": 1
+  },
+  {
+    "id": "http://arxiv.org/abs/2511.10973v1",
+    "title": "A lower bound for the radius of Weinstein's Lagrangian tubular neighborhood",
+    "authors": [
+      "Hikaru Yamamoto"
+    ],
+    "published": "2025-11-14T05:34:52Z",
+    "summary": "For an immersed Lagrangian submanifold $L$ in a Kähler manifold $(M,ω)$, there exists a symplectic local diffeomorphism from a tubular neighborhood of the image of the zero section in the normal bundle $T^{\\bot}L$ of $L$, equipped with a canonical symplectic form $\\tildeω$, to $(M,ω)$ whose restriction to $L$ is the identity map by Weinstein's Lagrangian tubular neighborhood theorem, where the image of the zero section in $T^{\\bot}L$ is identified with $L$. In this paper, we give a lower bound for the supremum of the radii of tubular neighborhoods that have such a symplectic diffeomorphism into $(M,ω)$ from below by a constant explicitly given in terms of up to second derivatives of the Riemannian curvature tensor of $M$ and the second fundamental form of $L$. We also give a similar lower bound in the case where $L$ is compact and embedded.",
+    "topic": "riemannian",
+    "score": 1
+  },
+  {
+    "id": "http://arxiv.org/abs/2511.10922v1",
+    "title": "$L^p$-Boundedness of the Covariant Riesz Transform on Differential Forms for $p>2$",
+    "authors": [
+      "Li-Juan Cheng",
+      "Anton Thalmaier",
+      "Feng-Yu Wang"
+    ],
+    "published": "2025-11-14T03:21:33Z",
+    "summary": "The $L^p$-boundedness for $p>2$ of the covariant Riesz transform on differential forms is proved for a class of non-compact weighted Riemannian manifolds under certain curvature and volume growth conditions, which in particular settles a conjecture of Baumgarth, Devyver and Güneysu~\\cite{BDG-23}. As an application, the Calderón-Zygmund inequality for $p> 2$ is derived on weighted manifolds, which extends the recent work \\cite{CCT} on manifolds without weight.",
+    "topic": "riemannian",
+    "score": 1
+  },
+  {
+    "id": "http://arxiv.org/abs/2511.10545v1",
+    "title": "On smooth approximation of integral cycles mod 2",
+    "authors": [
+      "Gianmarco Caldini"
+    ],
+    "published": "2025-11-13T17:47:09Z",
+    "summary": "We prove that every mod 2 integral cycle $T$ in a Riemannian manifold $\\mathcal{M}$ can be approximated in flat norm by a cycle which is a smooth submanifold $Σ$ of nearly the same area, up to a singular set of codimension 3; in addition, this estimate on the singular set can be refined depending on the codimension of the cycle. Moreover, if the mod 2 homology class $τ$ admits a smooth embedded representative, then $Σ$ can be chosen free of singularities. This article provides the unoriented version of the smooth approximation theorem for integral cycles.",
+    "topic": "riemannian",
+    "score": 1
+  },
+  {
+    "id": "http://arxiv.org/abs/2511.10398v1",
+    "title": "Spectral rigidity of Liouville tori",
+    "authors": [
+      "Joscha Henheik",
+      "Vadim Kaloshin",
+      "Yunzhe Li",
+      "Amir Vig"
+    ],
+    "published": "2025-11-13T15:20:04Z",
+    "summary": "We show that Laplace isospectral deformations within a conformal class of generic Liouville metrics on the two-dimensional torus that are linear in the deformation parameter are necessarily trivial. Two of the main ingredients in our proof are a noncancellation result for the wave trace and an analysis of the second order variational formula for the energy functional associated to closed geodesics. Noncancellation allows us to detect parts of the length spectrum from the Laplace spectrum and conclude rational integrability for the deformed geodesic flow (Liouville metrics are folklorically conjectured to be the only Riemannian metrics with integrable geodesic flow on the torus). We then use the second variational formula to show how the preservation of a single rational torus is sufficient to conclude triviality of the deformation, assuming linearity. We also present some evidence that our hypothesis of linearity may indeed be necessary.",
+    "topic": "riemannian",
+    "score": 1
+  },
+  {
+    "id": "http://arxiv.org/abs/2511.10125v1",
+    "title": "Geometric foundations of thermodynamics in the quantum regime",
+    "authors": [
+      "Álvaro Tejero",
+      "Martín de la Rosa"
+    ],
+    "published": "2025-11-13T09:32:57Z",
+    "summary": "In this work, we present a comprehensive geometrical formulation of quantum thermodynamics based on contact geometry and principal fiber bundles. The quantum thermodynamic state space is modeled as a contact manifold, with equilibrium Gibbs states forming a Legendrian submanifold that encodes the fundamental thermodynamic relations. A principal fiber bundle over the manifold of density operators distinguishes the quantum state structure from thermodynamic labels: its fibers represent non-equilibrium configurations, and their unique intersections with the equilibrium submanifold enforce thermodynamic consistency. Quasistatic processes correspond to minimizing geodesics under the Bures-Wasserstein metric, leading to minimal dissipation, while the divergence of geodesic length toward rank-deficient states geometrically derives the third law. Non-equilibrium extensions, formulated through pseudo-Riemannian metrics and connections on the principal bundle, introduce curvature-induced holonomy that quantifies irreversibility in cyclic processes. In this framework, the thermodynamic laws in the quantum regime emerge naturally as geometric consequences.",
+    "topic": "riemannian",
+    "score": 1
+  },
+  {
+    "id": "http://arxiv.org/abs/2511.10122v1",
+    "title": "The polydisk theorem for Hartogs domains over symmetric domains",
+    "authors": [
+      "Andrea Loi",
+      "Roberto Mossa",
+      "Fabio Zuddas"
+    ],
+    "published": "2025-11-13T09:31:46Z",
+    "summary": "We extend the polydisk theorem of [21], originally established for classical Cartan-Hartogs domains, to Hartogs domains over arbitrary (possibly reducible and exceptional) bounded symmetric domains. We further establish a dual counterpart of this result. As an application, we show that the dual of a Hartogs domain over a bounded symmetric domain admits no totally geodesic immersion into any compact Riemannian manifold, thereby broadening the rigidity phenomena obtained in [13].",
+    "topic": "riemannian",
+    "score": 1
+  },
+  {
+    "id": "http://arxiv.org/abs/2511.09968v1",
+    "title": "Generalized Berwald Projective Weyl metrics",
+    "authors": [
+      "Nasrin Sadeghzadeh"
+    ],
+    "published": "2025-11-13T05:01:47Z",
+    "summary": "This paper introduces a new quantity in Finsler geometry, called the generalized Berwald projective Weyl ($GB\\widetilde{W}$) metric. The $C$-projective invariance of these metrics is demonstrated, and it is shown that they constitute a proper subset of the class of generalized Douglas ($GDW$) metrics. The paper also proves that all $GDW$ metrics with vanishing Landsberg curvature are of R-quadratic type. The class of $GDW$ metrics contains all Finsler metrics of scalar curvature, which provides an extension of the well-known Numata's theorem.",
+    "topic": "riemannian",
+    "score": 1
+  },
+  {
+    "id": "http://arxiv.org/abs/2511.09857v1",
+    "title": "On the structure of locally conformally flat orbifolds and ALE manifolds",
+    "authors": [
+      "Xiaokang Wang"
+    ],
+    "published": "2025-11-13T01:32:08Z",
+    "summary": "In this paper, we prove several structure theorems for locally conformally flat, positive Yamabe orbifolds and nonnegative scalar curvature, ALE manifolds. These two kinds of spaces can be related by conformal blow-up and conformal compactification. For the orbifolds, we prove that such orbifolds admit a manifold cover. For the ALE manifolds, the homomorphism of the fundamental group for the ALE space induced by the embedding of the ALE end is always injective. Using these properties, several classifications of such ALE manifolds and orbifolds are given in low dimensions. As an application to the moduli space, we prove that the football orbifold $\\mathbb{S}^4/Γ$ cannot be realized as the Gromov-Hausdorff limit. In addition, we prove the positive mass theorem of these ALE ends and give a simple proof for the optimal decay rate. Using the positive mass theorem, we can solve the orbifold Yamabe problem in the locally conformally flat case.",
+    "topic": "riemannian",
+    "score": 1
+  },
+  {
+    "id": "http://arxiv.org/abs/2511.08993v1",
+    "title": "Fast $k$-means clustering in Riemannian manifolds via Fréchet maps: Applications to large-dimensional SPD matrices",
+    "authors": [
+      "Ji Shi",
+      "Nicolas Charon",
+      "Andreas Mang",
+      "Demetrio Labate",
+      "Robert Azencott"
+    ],
+    "published": "2025-11-12T05:28:31Z",
+    "summary": "We introduce a novel, efficient framework for clustering data on high-dimensional, non-Euclidean manifolds that overcomes the computational challenges associated with standard intrinsic methods. The key innovation is the use of the $p$-Fréchet map $F^p : \\mathcal{M} \\to \\mathbb{R}^\\ell$ -- defined on a generic metric space $\\mathcal{M}$ -- which embeds the manifold data into a lower-dimensional Euclidean space $\\mathbb{R}^\\ell$ using a set of reference points $\\{r_i\\}_{i=1}^\\ell$, $r_i \\in \\mathcal{M}$. Once embedded, we can efficiently and accurately apply standard Euclidean clustering techniques such as k-means. We rigorously analyze the mathematical properties of $F^p$ in the Euclidean space and the challenging manifold of $n \\times n$ symmetric positive definite matrices $\\mathit{SPD}(n)$. Extensive numerical experiments using synthetic and real $\\mathit{SPD}(n)$ data demonstrate significant performance gains: our method reduces runtime by up to two orders of magnitude compared to intrinsic manifold-based approaches, all while maintaining high clustering accuracy, including scenarios where existing alternative methods struggle or fail.",
+    "topic": "riemannian",
+    "score": 1
+  },
+  {
+    "id": "http://arxiv.org/abs/2511.08906v1",
+    "title": "Kähler geometry on total spaces of vector bundles over elliptic curves",
+    "authors": [
+      "Hanyu Wu",
+      "Bo Yang"
+    ],
+    "published": "2025-11-12T02:32:12Z",
+    "summary": "We study function theory and Kähler geometry on total spaces of vector bundles on an elliptic curve. For rank two vector bundles of degree zero, we show that any two total spaces are biholomorphic if and only if the corresponding vector bundles are isomorphic. We also construct complete Gauduchon Hermitian metrics with flat Chern-Ricci curvature on these total spaces. These metrics are natural in the sense that the corresponding spaces of holomorphic functions of polynomial growth coincide with `polynomials' on these spaces. Moreover, we characterize all complete Kähler metrics with nonnegative bisectional curvature on total spaces of line bundles over an elliptic curve.",
+    "topic": "riemannian",
+    "score": 1
+  },
+  {
+    "id": "http://arxiv.org/abs/2511.07246v1",
+    "title": "Killing (super)algebras for generalised spin manifolds",
+    "authors": [
+      "Andrew D. K. Beckett"
+    ],
+    "published": "2025-11-10T16:00:18Z",
+    "summary": "We define the notion of a Killing (super)algebra for a connection on a spinor bundle associated to a generalised spin structure on a pseudo-Riemannian manifold of any signature. We are led naturally to include in the even subspace not only Killing vectors but also certain infinitesimal gauge transformations, and we show that the definition of the (super)algebra requires, in addition to the spinor connection and a Dirac current, a map to pair spinor fields into infinitesimal gauge transformations. We show that these (super)algebras are filtered subdeformations of (an analogue of) the Poincaré superalgebra extended by the \\(R\\)-symmetry algebra. By employing Spencer cohomology, we study such deformations from a purely algebraic point of view and, at least in the case of Lorentzian signature and high supersymmetry, identify the subclass of deformations to which the Killing superalgebras belong. Finally, we show that, with some caveats, one can reconstruct a supersymmetric background geometry from such a deformation as a homogeneous space on which the deformation is realised as a subalgebra of the Killing superalgebra.",
+    "topic": "riemannian",
+    "score": 1
+  },
+  {
+    "id": "http://arxiv.org/abs/2511.06984v1",
+    "title": "On a class of integrable deformations of the integrable hierarchy of topological type associated to a semisimple Frobenius manifold",
+    "authors": [
+      "Si-Qi Liu",
+      "Paolo Rossi",
+      "Di Yang",
+      "Youjin Zhang"
+    ],
+    "published": "2025-11-10T11:35:19Z",
+    "summary": "Given a semisimple Frobenius manifold, we construct a class of integrable deformations of its hierarchy of topological type. We show that these integrable deformations have polynomial tau-structures, and conjecture that for the one-dimensional Frobenius manifold they give a universal object for integrable deformations of the Riemann--Hopf hierarchy having a tau-structure.",
+    "topic": "riemannian",
+    "score": 1
+  },
+  {
+    "id": "http://arxiv.org/abs/2511.06784v1",
+    "title": "Structure and realizability for rational maps",
+    "authors": [
+      "Zhiqiang Wei"
+    ],
+    "published": "2025-11-10T07:15:53Z",
+    "summary": "We prove that if $\\mathcal{D}$ is a collection of $k$ nontrivial partitions of a positive integer $d$ satisfying the Riemann-Hurwitz formula, and if $k$ is greater than one plus the minimum length among the partitions in $\\mathcal{D}$, then $\\mathcal{D}$ is realizable as the branch data of a rational map $f \\colon S^2 \\to S^2$. As an application, we confirm a conjecture of Zheng [\\textit{Topology Appl.} \\textbf{153} (2006), no.~12, 2124--2134].",
+    "topic": "riemannian",
+    "score": 1
+  },
+  {
+    "id": "http://arxiv.org/abs/2511.05975v1",
+    "title": "Bi-forms Approach to Potential Functions in Information Geometry",
+    "authors": [
+      "Florio M. Ciaglia",
+      "Giuseppe Marmo",
+      "Marco Pacelli",
+      "Luca Schiavone",
+      "Alessandro Zampini"
+    ],
+    "published": "2025-11-08T11:43:12Z",
+    "summary": "Contrast functions play a fundamental role in information geometry, providing a means for generating the geometric structures of a statistical manifold: a pseudo-Riemannian metric and a pair of torsion-free conjugate affine connections. Conventional contrast-based approaches become indeed insufficient within settings where torsion is naturally present, such as quantum information geometry. This paper introduces contrast bi-forms, a generalisation of contrast functions that systematically encode metric and connection data, allowing for arbitrary affine connections regardless of torsion. It will be shown that they provide a unified framework for statistical potentials, offering new insights into the inverse problem in information geometry. As an example, we consider teleparallel manifolds, where torsion is intrinsic to the geometry, and show how bi-forms naturally accommodate these structures.",
+    "topic": "riemannian",
+    "score": 1
+  },
+  {
+    "id": "http://arxiv.org/abs/2511.04651v1",
+    "title": "Generic regularity of intermediate complex structure limits",
+    "authors": [
+      "Yang Li",
+      "Valentino Tosatti"
+    ],
+    "published": "2025-11-06T18:41:14Z",
+    "summary": "We study certain polarized degenerations of Calabi-Yau manifolds near an intermediate complex structure limit, and improve the potential $C^0$-convergence to a metric convergence result on the generic region for the corresponding collapsing Ricci-flat Kähler metrics.",
+    "topic": "riemannian",
+    "score": 1
+  },
+  {
+    "id": "http://arxiv.org/abs/2511.04407v1",
+    "title": "Scalar curvature rigidity for products of spheres and tori",
+    "authors": [
+      "Tsz-Kiu Aaron Chow"
+    ],
+    "published": "2025-11-06T14:34:53Z",
+    "summary": "We prove Llarull-type rigidity for $S^{n-m}\\times\\mathbb{T}^m$ ($3\\le n\\le 7$, $1\\le m\\le n-2$). If a closed spin $(M^n,g)$ admits a degree-nonzero map to $S^{n-m}\\times\\mathbb{T}^m$ whose spherical projection is area non-increasing, and there exists $ψ\\in C^\\infty(M)$ with $-Δ_Mψ-\\frac{1}{2}|D_Mψ|^2+\\frac{1}{2}\\big(R_M-(n-m)(n-m-1)\\big)\\ge0$, then $(M,g)$ is isometrically covered by $S^{n-m}\\times\\mathbb{R}^m$. For bands, we extend Gromov's torical inequality and obtain sharp width bounds: $\\text{dist}(\\partial_-M,\\partial_+M)\\le 2π\\sqrt{n/((n+1)σ)}$ when $R_M\\ge (n-m)(n-m-1)+σ$. The method combines stable weighted slicing with a spectral Dirac operator argument.",
+    "topic": "riemannian",
+    "score": 1
+  },
+  {
+    "id": "http://arxiv.org/abs/2511.04178v2",
+    "title": "Geometric Characterizations of δ-Almost Yam- abe Solitons with QSNM Connections",
+    "authors": [
+      "Rajdip Biswas",
+      "Bijita Biswas",
+      "Arindam Bhattacharyya"
+    ],
+    "published": "2025-11-06T08:30:00Z",
+    "summary": "In this paper, we investigate the geometric structure of δ- almost Yamabe solitons on paracontact metric manifolds endowed with a quarter-symmetric non-metric connection {\\nabla}. We establish a series of classification results under specific assumptions, including collinearity with the Reeb vector fields, infinitesimal contact transformations, torse- forming, conformal and {X}-Ric vector fields on the potential vector field. Furthermore, we derive conditions under which the soliton is expand- ing, steady, or shrinking based on the relationship among the scalar curvature {r}, the soliton function λ and the structure functions of the manifold. Finally, we present an example that illustrates our results.",
+    "topic": "riemannian",
+    "score": 1
+  },
+  {
+    "id": "http://arxiv.org/abs/2511.03795v1",
+    "title": "Generic regularity of isoperimetric regions in dimension eight",
+    "authors": [
+      "Kobe Marshall-Stevens",
+      "Gongping Niu",
+      "Davide Parise"
+    ],
+    "published": "2025-11-05T19:00:47Z",
+    "summary": "We establish generic regularity results for isoperimetric regions in closed Riemannian manifolds of dimension eight. In particular, we show that every isoperimetric region has a smooth nondegenerate boundary for a generic choice of smooth metric and enclosed volume, or for a fixed enclosed volume and a generic choice of smooth metric.",
+    "topic": "riemannian",
+    "score": 1
+  },
+  {
+    "id": "http://arxiv.org/abs/2511.03544v1",
+    "title": "Convexity of the K-energy and Uniqueness of Extremal metrics -- An Expository Introduction",
+    "authors": [
+      "Robert J. Berman",
+      "Bo Berndtsson"
+    ],
+    "published": "2025-11-05T15:23:11Z",
+    "summary": "This article is an expository introduction to our paper Convexity of the K-energy and Uniqueness of Extremal metrics. We present the main ideas behind the proof that Mabuchi's K-energy functional is convex along weak geodesics in the space of Kahler potentials and explain how this leads to the uniqueness of constant scalar curvature Kahler metrics and extremal metrics up to automorphisms. The emphasis is on the conceptual framework and key techniques.",
+    "topic": "riemannian",
+    "score": 1
+  },
+  {
+    "id": "http://arxiv.org/abs/2511.03514v1",
+    "title": "Quasiregular values and cohomology",
+    "authors": [
+      "Susanna Heikkilä",
+      "Ilmari Kangasniemi"
+    ],
+    "published": "2025-11-05T14:45:48Z",
+    "summary": "We prove that the recently shown cohomological obstruction for quasiregular ellipticity has a generalization in the theory of quasiregular values. More specifically, if $M$ is a closed, connected, and oriented Riemannian $n$-manifold, and there exists a map $f \\in C(\\mathbb{R}^n, M) \\cap W^{1,n}_{\\mathrm{loc}}(\\mathbb{R}^n, M)$ satisfying $\\lvert Df(x) \\rvert^n \\le K J_f(x) + \\operatorname{dist}^n(f(x), f(x_0)) Σ(x)$ a.e. in $\\mathbb{R}^n$ with $K \\ge 1$, $x_0 \\in \\mathbb{R}^n$, and $Σ\\in L^1(\\mathbb{R}^n) \\cap L^{1+\\varepsilon}_{\\mathrm{loc}}(\\mathbb{R}^n)$ for some $\\varepsilon > 0$, then the real singular cohomology ring $H^*(M; \\mathbb{R})$ of $M$ embeds into the exterior algebra $\\wedge^* \\mathbb{R}^n$ in a graded manner. We also show a partial version of our result for $M$ with dimension greater than $n$, by using a class of maps that combines properties of quasiregular values and quasiregular curves.",
+    "topic": "riemannian",
+    "score": 1
+  },
+  {
+    "id": "http://arxiv.org/abs/2511.03469v1",
+    "title": "On the non-Archimedean Hitchin map for $\\mathrm{SL}_2(F)$",
+    "authors": [
+      "Jiahuang Chen",
+      "Siqi He"
+    ],
+    "published": "2025-11-05T13:46:03Z",
+    "summary": "Let $F$ be a non-Archimedean valued field, $Σ$ a closed Riemann surface of genus at least two, and $Γ$ its fundamental group. Building on the theory of equivariant harmonic maps into $\\mathbb{R}$-trees, we study the non-Archimedean Hitchin map from the $\\mathrm{SL}_2(F)$-character variety $\\mathcal{X}_F(Γ)$, equipped with the non-Archimedean topology, to the space of holomorphic quadratic differentials on $Σ$. We prove that this map is continuous and that its image is contained in the space of Jenkins--Strebel differentials. Moreover, we establish a dynamical characterization of unbounded representations, showing that the induced action of $Γ$ on the Bruhat--Tits tree of $\\mathrm{SL}_2(F)$ is never small.",
+    "topic": "riemannian",
+    "score": 1
+  },
+  {
+    "id": "http://arxiv.org/abs/2511.02688v1",
+    "title": "Two properties of optimisers for the reverse isoperimetric problem",
+    "authors": [
+      "Deniz M. Hamdy",
+      "Julian Scheuer"
+    ],
+    "published": "2025-11-04T16:12:47Z",
+    "summary": "The reverse isoperimetric problem asks for existence and properties of bounded convex sets in a Riemannian manifold which maximise the perimeter under all those sets of fixed volume which roll freely in a ball of some given radius. If the boundary of the set is of class $C^{2}$, this amounts to a positive lower bound on the principal curvatures and in this class we prove that there are no $C^{2}$-maximisers of perimeter with prescribed volume. In addition, we prove that a given possibly non-$C^{2}$ maximiser has its smallest principal curvature constant in regions where it is of class $C^{2}$. We prove this result in the Euclidean, spherical and hyperbolic space.",
+    "topic": "riemannian",
+    "score": 1
+  },
+  {
+    "id": "http://arxiv.org/abs/2511.02072v1",
+    "title": "Conformal hypersurface invariants and Bach-type Boundary Problems",
+    "authors": [
+      "Samuel Blitz",
+      "A. Rod Gover"
+    ],
+    "published": "2025-11-03T21:18:08Z",
+    "summary": "Using variational considerations, we establish that there exists a new symmetric trace-free tensor conformal invariant of hypersurfaces embeddings in even dimensional conformal manifolds. This conformal invariant completes the family of conformal invariants known as conformal fundamental forms.   The object has important links to global problems. In the context of the even dimensional boundary-value Poincaré--Einstein problem, the image of the Dirichlet--to--Neumann map is conformally invariant. Recent investigations established that this image is the pullback of a particular Riemannian invariant to the odd-dimensional boundary. We show here that, in fact, that image arises as the restriction of the new conformal invariant constructed here. As a consequence of the proof, we are able to construct several new global conformal invariants of the boundary. Finally, we use our variational results to establish that compact Bach-flat manifolds with umbilic boundary must admit a (formal to all orders) Poincaré--Einstein metric in the conformal class of its interior.",
+    "topic": "riemannian",
+    "score": 1
+  },
+  {
+    "id": "http://arxiv.org/abs/2511.02012v1",
+    "title": "Spectral projection estimates restricted to uniformly embedded submanifolds",
+    "authors": [
+      "Zhexing Zhang"
+    ],
+    "published": "2025-11-03T19:35:51Z",
+    "summary": "Let $M$ be a manifold with nonpositive sectional curvature and bounded geometry, and let $Σ$ be a uniformly embedded submanifold of $M.$ We estimate the $L^2(M)\\to L^q(Σ)$ norm of a $\\log$-scale spectral projection operator. It is a generalization of result of X. Chen to noncompact cases. We also prove sharp spectral projection estimates of spectral windows of any small size restricted to nontrapped geodesics on even asymptotically hyperbolic surfaces with bounded geometry and curvature pinched below 0.",
+    "topic": "riemannian",
+    "score": 1
+  },
+  {
+    "id": "http://arxiv.org/abs/2511.01796v1",
+    "title": "Lectures on Immersions with Controlled Curvatures",
+    "authors": [
+      "Misha Gromov"
+    ],
+    "published": "2025-11-03T17:55:54Z",
+    "summary": "Construction of immersions with \"small\" curvatures between Riemannian manifolds and indicating obstructions to such immersions",
+    "topic": "riemannian",
+    "score": 1
+  },
+  {
+    "id": "http://arxiv.org/abs/2511.01722v2",
+    "title": "Toric separable geometries and extremal Kähler metrics",
+    "authors": [
+      "Roland Púček"
+    ],
+    "published": "2025-11-03T16:32:21Z",
+    "summary": "This paper introduces the framework of (local) toric separable geometries, where toric separable Kähler geometries come in families, each uniquely determined by an underlying factorization structure. This unifying framework captures all known explicit Calabi-extremal toric Kähler metrics, previously constructed through diverse methods, as two distinct families corresponding to the simplest factorization structures: the product Segre and the Veronese factorization structure. Crucially, the moduli of typical factorization structures has a positive dimension, revealing an immensely rich and previously untapped landscape of toric separable geometries. The scalar curvature of toric separable geometries is computed explicitly, necessary conditions for the PDE governing extremality are derived, and new extremal metrics are obtained systematically. In particular, for a $2m$-dimensional toric separable geometry, solutions of the PDE are necessarily $m$-tuples of rational functions of one variable belonging to an at most $(m+2)$-dimensional real vector space and whose denominators are determined by the factorization structure. Toric separable geometries serve as a separation of variables technique and are well-suited for the analytic study of geometric PDEs.",
+    "topic": "riemannian",
+    "score": 1
+  },
+  {
+    "id": "http://arxiv.org/abs/2511.01566v1",
+    "title": "First Integrals of Geodesic Flows on Cones",
+    "authors": [
+      "Andrey E. Mironov",
+      "Siyao Yin"
+    ],
+    "published": "2025-11-03T13:32:59Z",
+    "summary": "In this paper we study the behavior of geodesics on cones over arbitrary $C^3$-smooth closed Riemannian manifolds.   We show that the geodesic flow on such cones admits first integrals whose values uniquely determine almost all geodesics except for cone generatrices. This investigation is inspired by our results on billiards inside cones over manifolds where similar results hold true.",
+    "topic": "riemannian",
+    "score": 1
+  },
+  {
+    "id": "http://arxiv.org/abs/2511.00832v1",
+    "title": "Time Separation and Scattering Rigidity for Analytic Lorentzian Manifolds",
+    "authors": [
+      "Yuchao Yi",
+      "Yang Zhang"
+    ],
+    "published": "2025-11-02T06:58:21Z",
+    "summary": "In this work, we prove the following three rigidity results: (i) in a real-analytic globally hyperbolic spacetime $(M,g)$ without boundary, the time separation function restricted to a thin exterior layer of a unknown compact subset $K \\subset M$ determines $K$ up to an analytic isometry, assuming no lightlike cut points in $K$; (ii) in a real-analytic globally hyperbolic spacetime $(M,g)$ with timelike boundary, the boundary time separation function determines $M$ up to an analytic isometry, assuming no lightlike cut points near $M$ and lightlike geodesics are non-trapping; (iii) in a real-analytic Lorentzian manifold $(M,g)$ with timelike boundary, the interior and complete scattering relations near the light cone, each determines $M$ up to an analytic isometry, assuming that lightlike geodesics are non-trapping. We emphasize in all of these three cases we do not assume the convexity of the boundary of the subset or the manifold. Moreover, in (iii) we do not assume causality of the Lorentzian manifold, and allow the existence of cut points. Along the way, we also prove some boundary determination results, the connections between the interior and complete scattering relations, and the connections between the lens data and the scattering relation, for Riemannian manifolds and Lorentzian manifolds with boundaries.",
+    "topic": "riemannian",
+    "score": 1
+  },
+  {
+    "id": "http://arxiv.org/abs/2511.00398v1",
+    "title": "On the Yamabe constants of product manifolds",
+    "authors": [
+      "Chanyoung Sung"
+    ],
+    "published": "2025-11-01T04:42:49Z",
+    "summary": "By using the fiberwise spherical symmetrization we give a comparison theorem of Yamabe constants on warped products and prove the existence of radially-symmetric Yamabe minimizers on Riemannian manifolds given by products with round spheres.",
+    "topic": "riemannian",
+    "score": 1
+  },
+  {
+    "id": "http://arxiv.org/abs/2510.27564v1",
+    "title": "Regularity for quasilinear elliptic equations in metric measure spaces",
+    "authors": [
+      "Simon Schulz",
+      "Ivan Yuri Violo"
+    ],
+    "published": "2025-10-31T15:46:30Z",
+    "summary": "In the present article we prove second-order and Lipschitz regularity for quasilinear elliptic equations in metric spaces endowed with a lower bound on the Ricci curvature. The estimates we obtain are quantitative and cover a large class of elliptic equations with polynomial growth. As a particular case we settle the Lipschitz regularity of $p$-harmonic functions for all values of $p\\in(1,\\infty)$, proving also a Cheng-Yau type inequality. These results are the first in this setting that simultaneously address a wide family of elliptic operators and extend beyond the classical Hölder regularity theory. Our strategy rests on the use of Galerkin's method, which we employ as an alternative to the traditional difference quotients technique.",
+    "topic": "riemannian",
+    "score": 1
+  }
+]

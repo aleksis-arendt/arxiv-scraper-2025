@@ -1,0 +1,242 @@
+[
+  {
+    "id": "http://arxiv.org/abs/2511.23074v1",
+    "title": "Monotonicity of Perelman $\\mathcal{W}$-Entropy of Mean Curvature Flow",
+    "authors": [
+      "Xiang-Dong Li",
+      "Qi Yan"
+    ],
+    "published": "2025-11-28T11:02:34Z",
+    "summary": "In this paper, we study Perelman' s $ \\mathcal{W}$ entropy for mean curvature flow in $\\mathbb{R}^{n+1}$. Analogously to Perelman's $\\mathcal{W}$-entropy defined for Ricci flow, K. Ecker in \\cite{Ecker07} defined a functional $\\mathcal{W}$ for the mean curvature flow in $\\mathbb{R}^{n+1}$ and the region it encloses, and made the conjecture that this functional is monotonically increasing in time. We modify K. Ecker's definition and, using Hamilton's Harnack inequality for mean curvature flow, prove that our redefined $\\mathcal{W}$-entropy is monotonically decreasing in time. Additionally, we provide a rigidity theorem for this $\\mathcal{W}$-entropy.",
+    "topic": "ricci_flow",
+    "score": 13
+  },
+  {
+    "id": "http://arxiv.org/abs/2511.06137v1",
+    "title": "Monotonicity of topological entropy along the Ricci flow near a hyperbolic metric",
+    "authors": [
+      "Karen Butt",
+      "Alena Erchenko",
+      "Tristan Humbert"
+    ],
+    "published": "2025-11-08T21:09:49Z",
+    "summary": "In 2004, Manning showed that the topological entropy of the geodesic flow of a closed surface of non-constant negative curvature is strictly decreasing along the normalized Ricci flow, and he asked if an analogous result holds in higher dimensions for metrics in a neighborhood of a hyperbolic metric. In this paper, we affirmatively answer this question. Namely, we show that the topological entropy of the geodesic flow of a closed Riemannian manifold that carries a hyperbolic metric is indeed strictly decreasing along the normalized Ricci flow starting from a metric of variable negative sectional curvature sufficiently close to the hyperbolic metric.",
+    "topic": "ricci_flow",
+    "score": 6
+  },
+  {
+    "id": "http://arxiv.org/abs/2512.07660v2",
+    "title": "Entropy-Smooth Structures on Topological Manifolds",
+    "authors": [
+      "Amandip Sangha"
+    ],
+    "published": "2025-12-08T15:55:59Z",
+    "summary": "We introduce an information-theoretic framework for smooth structures on topological manifolds, replacing coordinate charts with small-scale entropy data of local probability probes. A concise set of axioms identifies admissible coordinate functions and reconstructs a smooth atlas directly from the quadratic entropy response. We prove that this entropy-smooth structure is equivalent to the classical smooth structure, stable under perturbations, and compatible with products, submanifolds, immersions, and diffeomorphisms. This establishes smoothness as an information-theoretic phenomenon and forms the foundational layer of a broader program linking entropy, diffusion, and differential geometry.",
+    "topic": "ricci_flow",
+    "score": 5
+  },
+  {
+    "id": "http://arxiv.org/abs/2511.12144v1",
+    "title": "Quasi-Einstein Metrics and a curvature identity assoicated to the Ricci flow",
+    "authors": [
+      "Atreyee Bhattacharya",
+      "Sayoojya Prakash"
+    ],
+    "published": "2025-11-15T10:18:12Z",
+    "summary": "Quasi-Einstein manifolds are well-studied generalizations of Einstein manifolds. This includes gradient Ricci solitons and has a natural correspondence with the warped product Einstein manifolds. A quasi-Einstein metric is said to be rigid when it reduces to an Einstein metric. On a different note, Einstein metrics can be viewed as fixed points of the Ricci flow up to homothety. While gradient Ricci solitons are generalized fixed points of the Ricci flow, not much is known, in general, about the evolution of quasi-Einstein metrics under the Ricci flow. In this paper, we employ an identity associated to the evolution of curvature along the Ricci flow, to conclude the rigidity of certain closed quasi-Einstein manifolds.",
+    "topic": "ricci_flow",
+    "score": 5
+  },
+  {
+    "id": "http://arxiv.org/abs/2511.22022v1",
+    "title": "Uniqueness of the measure of maximal entropy for geodesic flows on surfaces",
+    "authors": [
+      "Yuri Lima",
+      "Davi Obata",
+      "Mauricio Poletti"
+    ],
+    "published": "2025-11-27T01:54:33Z",
+    "summary": "We prove that if a geodesic flow on a closed orientable $C^\\infty$ surface is transitive and has positive topological entropy, then it has a unique measure of maximal entropy. This covers all previous results of the literature on the uniqueness of the measure of maximal entropy in this context, as well as it applies to new examples such as the ones constructed by Donnay and Burns-Donnay. We also prove that, in the above context, there is at most one SRB measure.",
+    "topic": "ricci_flow",
+    "score": 4
+  },
+  {
+    "id": "http://arxiv.org/abs/2511.15356v1",
+    "title": "An Information-Theoretic Route to Isoperimetric Inequalities via Heat Flow and Entropy Dissipation",
+    "authors": [
+      "Amandip Sangha"
+    ],
+    "published": "2025-11-19T11:33:48Z",
+    "summary": "We develop an information-theoretic approach to isoperimetric inequalities based on entropy dissipation under heat flow. By viewing diffusion as a noisy information channel, we measure how mutual information about set membership decays over time. This decay rate is shown to be determined by the boundary measure of the set, leading to a new proof of the Euclidean isoperimetric inequality with its sharp constant. The method extends to Riemannian manifolds satisfying curvature-dimension conditions, yielding Levy-Gromov and Gaussian isoperimetric results within a single analytic principle. Quantitative and stability bounds follow from refined entropy inequalities linking information loss to geometric rigidity. The approach connects geometric analysis and information theory, revealing how entropy dissipation encodes the geometry of diffusion and boundary.",
+    "topic": "ricci_flow",
+    "score": 4
+  },
+  {
+    "id": "http://arxiv.org/abs/2511.00435v2",
+    "title": "Stability of volume and area preserving mean curvature flow in asymptotic Schwarzschild space",
+    "authors": [
+      "Yaoting Gui",
+      "Yuqiao Li",
+      "Jun Sun"
+    ],
+    "published": "2025-11-01T07:29:06Z",
+    "summary": "In this paper, we investigate the stability of the volume preserving mean curvature flow (VPMCF) and area preserving mean curvature flow (APMCF) in the Schwarzschild space. We show that if the initial hypersurface is sufficiently close to a coordinate sphere, these flows exist globally and converge smoothly to a constant mean curvature (CMC) hypersurface, namely a coordinate sphere. For asymptotically Schwarzschild space, if the initial hypersurface has pinched curvature outside of some large compact set, or more orecisely sufficiently close to an isoperimetric hypersurface, outside of some large compact set in C^2 sense, we will apply similar method combined with the center manifold analysis to see that the flow still exists for all time and converges to CMC hypersurface exponentially fast. This in particular gives an existence result for a CMC hypersurface in asymptotically flat space.",
+    "topic": "ricci_flow",
+    "score": 3
+  },
+  {
+    "id": "http://arxiv.org/abs/2512.02578v1",
+    "title": "Self-Expanding Solutions to the Mean Curvature Flow for Multiphase Surfaces with Regular Junctions",
+    "authors": [
+      "Wei-Hung Liao"
+    ],
+    "published": "2025-12-02T09:47:55Z",
+    "summary": "We consider a multiphase surface $\\mathcal{C}_0$ in $\\mathbb{R}^3$ consisting of a finite number of surfaces passing through the origin , where all 1-dimensional junctions are regular triple junctions in which three planes meet at the same angle and each surface scales down homothetically to a limit curve of finite length. We prove the existence of self-similar expanding solutions of the mean curvature flow on the multiphase surface initially given by $\\mathcal{C}_0$. For this initial condition, there are multiple solutions that are combinations of the regular triple junctions and regular quadruple points, where four regular triple junctions meet at an angle of approximately $109.5^{\\circ}$.",
+    "topic": "ricci_flow",
+    "score": 2
+  },
+  {
+    "id": "http://arxiv.org/abs/2511.23330v1",
+    "title": "Harnack Inequality for $f$-Mean Curvature Flow",
+    "authors": [
+      "Xiang-Dong Li",
+      "Qi Yan"
+    ],
+    "published": "2025-11-28T16:35:01Z",
+    "summary": "In this paper, we prove a Li-Yau-Hamilton type Harnack estimate for the $f$-mean curvature flow in Euclidean space, which can be viewed as a gradient flow of the weighed area functional with the measure density function $e^{-f}$.",
+    "topic": "ricci_flow",
+    "score": 2
+  },
+  {
+    "id": "http://arxiv.org/abs/2511.21545v1",
+    "title": "Rigidity of Solitons to the Mean Curvature Flow in $\\mathbb{H}^3$ as Translation Surfaces",
+    "authors": [
+      "Tarcios Andrey Ferreira",
+      "João Paulo dos Santos"
+    ],
+    "published": "2025-11-26T16:17:36Z",
+    "summary": "In the half-space model of the hyperbolic three space with the hyperbolic metric, this same space can be seen as the Lie group, hence, a translation surface is a surface that is given by the product of two curves $α$ and $β$ in this group. Here we present the rigidity of this kind of surfaces for some particular products in the context of minimal surfaces and solitons to the Mean Curvature Flow, also known as self-similar solutions.",
+    "topic": "ricci_flow",
+    "score": 2
+  },
+  {
+    "id": "http://arxiv.org/abs/2511.16601v1",
+    "title": "An Information-Theoretic Reconstruction of Curvature",
+    "authors": [
+      "Amandip Sangha"
+    ],
+    "published": "2025-11-20T17:56:42Z",
+    "summary": "We develop an intrinsic information-theoretic approach for recovering Riemannian curvature from the small-time behaviour of heat diffusion. Given a point and a two-plane in the tangent space, we compare the heat mass transported along that plane with its Euclidean counterpart using the relative entropy of finite measures. We show that the leading small-time distortion of this directional entropy encodes precisely the local curvature of the manifold. In particular, the planar information imbalance determines both the scalar curvature and the sectional curvature at a point, and assembling these directional values produces a bilinear tensor that coincides exactly with the classical Riemannian curvature operator.   The method is entirely analytic and avoids Jacobi fields, curvature identities, or variational formulas. Curvature appears solely through the behaviour of heat flow under the exponential map, providing a new viewpoint in which curvature is realized as an infinitesimal information defect of diffusion. This perspective suggests further connections between geometric analysis and information theory and offers a principled analytic mechanism for detecting and reconstructing curvature using only heat diffusion data.",
+    "topic": "ricci_flow",
+    "score": 2
+  },
+  {
+    "id": "http://arxiv.org/abs/2511.15297v1",
+    "title": "Decay order bound for mean curvature flow near compact singularities",
+    "authors": [
+      "Sourav Ghosh"
+    ],
+    "published": "2025-11-19T10:05:32Z",
+    "summary": "We consider the rescaled flow associated with a mean curvature flow that develops a compact singularity of multiplicity one. We prove that the ``decay order'' of such a rescaled flow is uniformly bounded. As a consequence, we prove a unique continuation result.",
+    "topic": "ricci_flow",
+    "score": 2
+  },
+  {
+    "id": "http://arxiv.org/abs/2511.14735v1",
+    "title": "Weak transcendental base-point freeness and diameter lower bounds for the Kähler-Ricci flow",
+    "authors": [
+      "Junsheng Zhang"
+    ],
+    "published": "2025-11-18T18:26:46Z",
+    "summary": "We prove a weaker version of the transcendental base-point freeness on compact Kähler manifolds. As a consequence, we derive the diameter lower bound for finite time singularities of Kähler-Ricci flow with non-Fano initial data.",
+    "topic": "ricci_flow",
+    "score": 2
+  },
+  {
+    "id": "http://arxiv.org/abs/2511.11477v1",
+    "title": "Synthetic approaches to Ricci flows",
+    "authors": [
+      "Matthias Erbar",
+      "Marco Flaim",
+      "Eric Hupp",
+      "Zhenhao Li",
+      "Timo Schultz",
+      "Karl-Theodor Sturm"
+    ],
+    "published": "2025-11-14T16:53:35Z",
+    "summary": "We review different notions of synthetic Ricci flow that apply to time-dependent families of metric measure spaces and which are based on properties of the heat flow, ideas from optimal transport, and the asymptotic behaviour of volumes. Each notion equivalently characterises (weighted) Ricci flow for smooth families of weighted Riemannian manifolds. We discuss the features of the different notions on various examples.",
+    "topic": "ricci_flow",
+    "score": 2
+  },
+  {
+    "id": "http://arxiv.org/abs/2511.03672v1",
+    "title": "Uniqueness of the measure of maximal entropy for geodesic flows on coarse hyperbolic manifolds without conjugate points",
+    "authors": [
+      "Gerhard Knieper"
+    ],
+    "published": "2025-11-05T17:38:29Z",
+    "summary": "In this article we study geodesic flows on closed Riemannian manifolds without conjugate points and divergence property of geodesic rays. If the fundamental group is Gromov hyperbolic and residually finite we prove, under appropriate assumptions on the expansive set, that the geodesic flow has a unique measure of maximal entropy. This generalizes corresponding results of Climenhaga, Knieper and War proved under the stronger assumption of the existence of a background metric of negative sectional curvature.",
+    "topic": "ricci_flow",
+    "score": 2
+  },
+  {
+    "id": "http://arxiv.org/abs/2512.08966v2",
+    "title": "A Dynamical Approach to the Berezin--Li--Yau Inequality",
+    "authors": [
+      "Anton Alexa"
+    ],
+    "published": "2025-12-01T11:35:01Z",
+    "summary": "We develop a dynamical method for proving the sharp Berezin--Li--Yau inequality. The approach is based on the volume-preserving mean curvature flow and a new monotonicity principle for the Riesz mean $R_Λ(Ω_t)$. For convex domains we show that $R_Λ$ is monotone non-decreasing along the flow. The key input is a geometric correlation inequality between the boundary spectral density $Q_Λ$ and the mean curvature $H$, established in all dimensions: in $d=2$ via circular symmetrization, and in $d\\ge 3$ via the boundary Weyl expansion together with the Laugesen--Morpurgo trace minimization principle. Since the flow converges smoothly to the ball, the monotonicity implies the sharp Berezin--Li--Yau bound for every smooth convex domain. As an application, we obtain a sharp dynamical Cesàro--Pólya inequality for eigenvalue averages.",
+    "topic": "ricci_flow",
+    "score": 1
+  },
+  {
+    "id": "http://arxiv.org/abs/2512.01290v1",
+    "title": "Equilibrium measures of manifolds without conjugate points having visibility covering",
+    "authors": [
+      "Edhin Mamani"
+    ],
+    "published": "2025-12-01T05:23:01Z",
+    "summary": "In this paper we study the equilibrium measures of geodesic flows of closed manifolds without conjugate points which have a visibility universal covering. Specifically, the uniqueness problem for Bowen potentials which are constants on some sets--intersection of horospheres-- and satisfy a weak pressure gap. Moreover, we study some ergodic properties of these measures such as the K-mixing property, weighted equidistribution of closed geodesics, the Gibbs property, large deviations and the entropy density of ergodic measures. Assuming, furthermore continuity of Green bundles, existence of a hyperbolic closed geodesic and a Gromov hyperbolic universal covering we prove that the above potentials always satisfy the weak pressure gap.",
+    "topic": "ricci_flow",
+    "score": 1
+  },
+  {
+    "id": "http://arxiv.org/abs/2511.21055v1",
+    "title": "Flows of conformally coclosed $G_2$-structures with dilaton",
+    "authors": [
+      "Spiro Karigiannis",
+      "Sébastien Picard",
+      "Caleb Suan"
+    ],
+    "published": "2025-11-26T04:45:19Z",
+    "summary": "We study flows of $G_2$-structures guided by the principle of dimensional reduction: natural geometric flows in $G_2$-geometry reduce to natural flows in complex geometry. Our main examples are the $G_2$-Laplacian coflow, which lifts the Kähler--Ricci flow, and a 7-dimensional lift of the anomaly flow on complex threefolds. The $G_2$-lift of the anomaly flow deforms conformally coclosed $G_2$-structures. We compare the $G_2$-anomaly flow to the $G_2$-Laplacian coflow, and investigate short-time existence and fixed points.",
+    "topic": "ricci_flow",
+    "score": 1
+  },
+  {
+    "id": "http://arxiv.org/abs/2511.13473v1",
+    "title": "Kähler-Ricci flows coming out of metric spaces",
+    "authors": [
+      "Alix Deruelle",
+      "Vincent Guedj",
+      "Henri Guenancia",
+      "Ahmed Zeriahi"
+    ],
+    "published": "2025-11-17T15:12:16Z",
+    "summary": "Given a compact Kähler manifold $X$ and a closed, positive $(1,1)$-current $T$ on $X$, we find sufficient conditions for $T$ to induce a metric structure $(X,d_T)$ which is the Gromov-Hausdorff limit of compact Kähler manifolds either in a \"static\" way or at time zero of smooth Kähler-Ricci flows. In dimension $1$ we extend works of T. Richard and M. Simon, showing that any oriented compact Alexandrov surface with bounded integral curvature and without cusp is the initial datum of a Kähler-Ricci flow.",
+    "topic": "ricci_flow",
+    "score": 1
+  },
+  {
+    "id": "http://arxiv.org/abs/2511.01263v2",
+    "title": "Minimal Degrees, Volume Growth, and Curvature Decay on Complete Kähler Manifolds",
+    "authors": [
+      "Yuang Shi"
+    ],
+    "published": "2025-11-03T06:18:44Z",
+    "summary": "We consider noncompact complete Kähler manifolds with nonnegative bisectional curvature. Our main results are: 1. Precise relations among refined minimal degree of polynomial growth holomorphic functions and holomorphic volume forms, $\\operatorname{AVR}$ (asymptotic volume ratio) and $\\operatorname{ASCD}$ (average of scalar curvature decay) are established. 2. The Lyapunov asymptotic behavior of the Kähler-Ricci flow can be described in terms of polynomial growth holomorphic functions. This provides a unifying perspective that bridges the two distinct proofs of Yau's uniformization conjecture by Liu and Chau-Lee-Tam. These resolve two conjectures made by Yang. 3. The link of any tangent cone is homeomorphic to a sphere, providing a Kähler analogue of a result of Kapovitch in the Riemannian case.",
+    "topic": "ricci_flow",
+    "score": 1
+  }
+]

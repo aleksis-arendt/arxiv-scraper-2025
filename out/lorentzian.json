@@ -1,0 +1,674 @@
+[
+  {
+    "id": "http://arxiv.org/abs/2512.05842v1",
+    "title": "Conformal transformations of metric spaces and Lorentzian pre-length spaces",
+    "authors": [
+      "Miguel Manzano",
+      "Karim Mosani",
+      "Clemens Sämann",
+      "Omar Zoghlami"
+    ],
+    "published": "2025-12-05T16:16:30Z",
+    "summary": "We introduce conformal transformations in the synthetic setting of metric spaces and Lorentzian (pre-)length spaces. Our main focus lies on the Lorentzian case, where, motivated by the need to extend classical notions to spaces of low regularity, we provide the first consistent notion of conformal length, and analyse its fundamental properties. We prove that the conformal time separation function $τ_Ω$ (and the causal structure it induces) yields a Lorentzian pre-length structure if the original space is intrinsic and strongly causal. This allows us to construct a notion of conformal transformation between spaces within this class, yielding an equivalence relation. As applications, we show that the conformal length functional agrees with the standard conformal length of (strongly causal) spacetimes. We also prove conformal invariance of angles and causality conditions, give a characterisation of global hyperbolicity via finiteness of $τ_Ω$ for all conformal factors, and establish the behaviour of the Lorentzian Hausdorff measure defined in [MS22a] under conformal changes. Moreover, we apply the same methods to the metric case, which is of interest in its own right. This is exemplified by proving an analog of the Nomizu--Ozeki theorem for metric length spaces, which has the advantage that the resulting complete space is conformally related to the original space.",
+    "topic": "lorentzian",
+    "score": 9
+  },
+  {
+    "id": "http://arxiv.org/abs/2511.21892v1",
+    "title": "On Compact Quasi-Einstein Metrics of Constant Scalar Curvature",
+    "authors": [
+      "Eric Cochran"
+    ],
+    "published": "2025-11-26T20:15:22Z",
+    "summary": "We show that all compact quasi-Einstein metrics of constant scalar curvature in dimension three are locally homogeneous. We accomplish this by using the equivalence of constant scalar curvature quasi-Einstein metrics $(M,g,X)$ and quasi-Einstein metrics with $X$ Killing in the compact case to make a connection to Sasakian geometry in dimension three. In higher dimensions, there are examples which are non-locally homogeneous with constant scalar curvature. Such examples were constructed by Kunduri-Lucietti as circle bundles over a compact Kähler-Einstein base. We then ask when compact quasi-Einstein metrics of constant scalar curvature can be constructed as circle bundles over Einstein metrics, and prove that the base must in fact be Kähler-Einstein, assuming a conjecture due to Goldberg. These spaces, in fact, admit one parameter families of quasi-Einstein metrics by considering the canonical variation, which we study further.",
+    "topic": "lorentzian",
+    "score": 9
+  },
+  {
+    "id": "http://arxiv.org/abs/2511.12144v1",
+    "title": "Quasi-Einstein Metrics and a curvature identity assoicated to the Ricci flow",
+    "authors": [
+      "Atreyee Bhattacharya",
+      "Sayoojya Prakash"
+    ],
+    "published": "2025-11-15T10:18:12Z",
+    "summary": "Quasi-Einstein manifolds are well-studied generalizations of Einstein manifolds. This includes gradient Ricci solitons and has a natural correspondence with the warped product Einstein manifolds. A quasi-Einstein metric is said to be rigid when it reduces to an Einstein metric. On a different note, Einstein metrics can be viewed as fixed points of the Ricci flow up to homothety. While gradient Ricci solitons are generalized fixed points of the Ricci flow, not much is known, in general, about the evolution of quasi-Einstein metrics under the Ricci flow. In this paper, we employ an identity associated to the evolution of curvature along the Ricci flow, to conclude the rigidity of certain closed quasi-Einstein manifolds.",
+    "topic": "lorentzian",
+    "score": 9
+  },
+  {
+    "id": "http://arxiv.org/abs/2511.04645v1",
+    "title": "On the foundations and applications of Lorentz-Finsler Geometry",
+    "authors": [
+      "Miguel Sánchez"
+    ],
+    "published": "2025-11-06T18:37:03Z",
+    "summary": "Finslerian extensions of Special and General Relativity -- commonly referred to as Very Special and Very General Relativity -- necessitate the development of a unified Lorentz-Finsler geometry. However, the scope of this geometric framework extends well beyond relativistic physics. Indeed, it offers powerful tools for modeling wave propagation in classical mechanics, discretizing spacetimes in classical and relativistic settings, and supporting effective theories in fundamental physics. Moreover, Lorentz-Finsler geometry provides a versatile setting that facilitates the resolution of problems within Riemannian, Lorentzian, and Finslerian geometries individually. This work presents a plain introduction to the subject, reviewing foundational concepts, key applications, and future prospects.   The reviewed topics include (i) basics on the setting of cones, Finsler and Lorentz-Finsler metrics and their (nonlinear, anisotropic and linear) connections, (ii) the global structure of Lorentz-Finsler manifolds and its space of null geodesics, (iii) links among Riemannian, Finsler and Lorentz geometries, (iv) real world applications for wildfires and seisms, and discretization in classical and relativistic settings with quantum prospects, and (v) Finslerian variational approach to Einstein equations. The new results include the splitting of globally hyperbolic Finsler spacetimes, in addition to the analysis of several extensions as the case of timelike boundaries.",
+    "topic": "lorentzian",
+    "score": 9
+  },
+  {
+    "id": "http://arxiv.org/abs/2511.00832v1",
+    "title": "Time Separation and Scattering Rigidity for Analytic Lorentzian Manifolds",
+    "authors": [
+      "Yuchao Yi",
+      "Yang Zhang"
+    ],
+    "published": "2025-11-02T06:58:21Z",
+    "summary": "In this work, we prove the following three rigidity results: (i) in a real-analytic globally hyperbolic spacetime $(M,g)$ without boundary, the time separation function restricted to a thin exterior layer of a unknown compact subset $K \\subset M$ determines $K$ up to an analytic isometry, assuming no lightlike cut points in $K$; (ii) in a real-analytic globally hyperbolic spacetime $(M,g)$ with timelike boundary, the boundary time separation function determines $M$ up to an analytic isometry, assuming no lightlike cut points near $M$ and lightlike geodesics are non-trapping; (iii) in a real-analytic Lorentzian manifold $(M,g)$ with timelike boundary, the interior and complete scattering relations near the light cone, each determines $M$ up to an analytic isometry, assuming that lightlike geodesics are non-trapping. We emphasize in all of these three cases we do not assume the convexity of the boundary of the subset or the manifold. Moreover, in (iii) we do not assume causality of the Lorentzian manifold, and allow the existence of cut points. Along the way, we also prove some boundary determination results, the connections between the interior and complete scattering relations, and the connections between the lens data and the scattering relation, for Riemannian manifolds and Lorentzian manifolds with boundaries.",
+    "topic": "lorentzian",
+    "score": 9
+  },
+  {
+    "id": "http://arxiv.org/abs/2511.07867v1",
+    "title": "Completeness conditions for spacetimes with low-regularity metrics",
+    "authors": [
+      "Keita Takahashi"
+    ],
+    "published": "2025-11-11T06:07:13Z",
+    "summary": "We extend Beem's three completeness notions -- finite compactness, timelike Cauchy completeness, and Condition A -- originally defined for spacetimes, to Lorentzian length spaces and study their relationships.   We prove that finite compactness implies timelike Cauchy completeness and that   timelike Cauchy completeness implies Condition A for globally hyperbolic Lorentzian length spaces.   Furthermore, for globally hyperbolic $C^{1}$-spacetimes under suitable assumptions   ensuring good behavior of causal geodesics, we show that the three conditions are equivalent.   These results can be regarded as a Hopf-Rinow type theorem for low-regularity Lorentzian geometry.   The appendix presents examples of $C^{1}$-spacetimes -- where geodesic uniqueness may fail -- in which causal geodesics nevertheless behave well, illustrating the scope of our results.",
+    "topic": "lorentzian",
+    "score": 7
+  },
+  {
+    "id": "http://arxiv.org/abs/2512.09253v1",
+    "title": "Massless Majorana spinors in the Kerr spacetime",
+    "authors": [
+      "Tianyuan Cai",
+      "Xiao Zhang"
+    ],
+    "published": "2025-12-10T02:15:01Z",
+    "summary": "In this paper, we show that massive Majorana spinors \\eqref{1.2} do not exist if they are $t$-dependent or $φ$-dependent in Kerr, or Kerr-(A)dS spacetimes. For massless Majorana spinors in the non-extreme Kerr spacetime, the Dirac equation can be separated into radial and angular equations, parameterized by two complex constants $ε_1$, $ε_2$. If at least one of $ε_1$, $ε_2$ is zero, massless Majorana spinors can be solved explicitly. If $ε_1$, $ε_2$ are nonzero, we prove the nonexistence of massless time-periodic Majorana spinors in the non-extreme Kerr spacetime which are $L^p$ outside the event horizon for $ 0<p\\le\\frac{6}{|ε_1|+|ε_2| +2}$. We then provide the Hamiltonian formulation for massless Majorana spinors and prove that the self-adjointness of the Hamiltonian leads to the angular momentum $a=0$ and spacetime reduces to the Schwarzschild spacetime, moreover, the massless Majorana spinor must be $φ$-independent. Finally, we show that, in the Schwarzschild spacetime, for initial data with $L^2$ decay at infinity, the probability of the massless Majorana spinors to be in any compact region of space tends to zero as time tends to infinity.",
+    "topic": "lorentzian",
+    "score": 6
+  },
+  {
+    "id": "http://arxiv.org/abs/2512.05173v1",
+    "title": "Weakly Einstein conformal products",
+    "authors": [
+      "Andrzej Derdzinski",
+      "JeongHyeong Park",
+      "Wooseok Shin"
+    ],
+    "published": "2025-12-04T17:00:29Z",
+    "summary": "One says that a Riemannian four-manifold is \\emph{weakly Einstein} if the three-index contraction of its curvature tensor against itself equals a function times the metric. Since this includes all four-manifolds that are Einstein, or conformally flat and scalar-flat, the term \\emph{proper} may be used for weakly Einstein manifolds (or metrics) not belonging to the latter two classes. We establish two classification-type results about proper weakly Einstein metrics conformal to Riemannian products. This includes constructions of new examples, among them -- some of (local) cohomogeneity two, in contrast with the two previously known narrow classes of examples, having cohomogeneity zero and one. We also exhibit a simple coordinate description of one of the known examples, the EPS space, which shows that it is a conformal product and constitutes a single local-homothety type. Finally, we prove that there exist no proper weakly Einstein manifolds with harmonic curvature.",
+    "topic": "lorentzian",
+    "score": 6
+  },
+  {
+    "id": "http://arxiv.org/abs/2512.04017v1",
+    "title": "Canonical metrics on families of vector bundles",
+    "authors": [
+      "Shing Tak Lam"
+    ],
+    "published": "2025-12-03T17:54:06Z",
+    "summary": "We introduce a geometric partial differential equation for families of holomorphic vector bundles, generalising the theory of Hermite--Einstein metrics. We consider families of holomorphic vector bundles which each admit Hermite--Einstein metrics, together with a first order deformation. On such families, we define the family Hermite--Einstein equation for Hermitian metrics, which we view as a notion of a canonical metric in this setting.   We prove two main results concerning family Hermite--Einstein metrics. Firstly, we construct Hermite--Einstein metrics in adiabatic classes on product manifolds, assuming the existence of a family Hermite--Einstein metric. Secondly, we prove that the associated parabolic flow admits a unique smooth solution for all time, and use this to show that the Dirichlet problem always admits a unique solution.",
+    "topic": "lorentzian",
+    "score": 6
+  },
+  {
+    "id": "http://arxiv.org/abs/2512.09653v1",
+    "title": "Remarks on potential functions of noncompact quasi-Einstein manifolds",
+    "authors": [
+      "Jaciane Gonçalves"
+    ],
+    "published": "2025-12-10T13:48:41Z",
+    "summary": "In this article, we study the set of potential functions on noncompact quasi-Einstein manifolds. We show that the space of all positive potential functions on a three-dimensional noncompact quasi-Einstein manifold has dimension at most two, and that equality holds if and only if the manifold is isometric to a product $B\\times\\mathbb{R}$, where $B$ is a $λ$-Einstein surface or one of the examples obtained by L. Berard Bergery and described in Besse's book. Moreover, we prove that any asymptotically flat $n$-dimensional quasi-Einstein manifold with $λ=0$ is necessarily Ricci-flat.",
+    "topic": "lorentzian",
+    "score": 5
+  },
+  {
+    "id": "http://arxiv.org/abs/2512.07812v1",
+    "title": "Caustics in the spherically symmetric Einstein-dust system",
+    "authors": [
+      "David Bick"
+    ],
+    "published": "2025-12-08T18:46:49Z",
+    "summary": "Caustics-envelopes formed by the trajectories of fluid particles-arise in proposed dynamical extensions for shell-crossing singularities occurring in the Einstein-dust system. In this study, a local existence result is established, describing the dynamics in a neighbourhood of such caustics. Specifically, we obtain spherically symmetric spacetimes $(M,g_{μν})$ containing a caustic $\\mathcal{C}$, which, in the quotient $M/SO(3)$, is a timelike curve forming a singular boundary between a 2-dust region and a vacuum region. The spacetimes are constructed from solutions to a PDE problem posed with a spacelike direction of evolution. Curvature invariants and energy densities diverge as the caustic is approached. Consequently the metric has limited regularity $g\\in C^{1,1/2}$ and is shown to satisfy Einstein's equation weakly. On the complement of the caustic, the metric is smooth and satisfies Einstein's equation classically. A (degenerate) coordinate system is identified in which the dynamical variables are smooth with extension to the caustic. Finally, a novel family of static, spherically symmetric spacetimes is identified, complementing the local construction above. Each spacetime contains an eternal annular 2-dust region bounded by a pair of caustics.",
+    "topic": "lorentzian",
+    "score": 5
+  },
+  {
+    "id": "http://arxiv.org/abs/2511.13422v1",
+    "title": "On the uniqueness of continuous spacetime extensions in 1+1 dimensions with applications to weak null singularities",
+    "authors": [
+      "Peter Cameron",
+      "Jan Sbierski"
+    ],
+    "published": "2025-11-17T14:34:31Z",
+    "summary": "Motivated by weak null singularities in black hole interiors, we study 1+1 dimensional Lorentzian manifolds $(M,g)$ which admit a continuous spacetime extension across a null boundary $v=0$, where $v<0$ is a null coordinate. We study the degree to which such extensions are unique up to the boundary. Firstly, we find that in general not even the $C^0$-structure of the extension is uniquely determined by the assumption that the metric extends continuously. However, we exhibit an interesting local-global relation regarding the $C^0$-structure which in particular entails its rigidity for ''strongly spherically symmetric'' continuous extensions across the Cauchy horizon of the Reissner-Nordström spacetime. Secondly, we construct continuous extensions which have the same $C^0$-structure, but do not have equivalent $C^1$-structures. This construction also carries over to weak null singularities in 3+1 dimensions. Understanding the uniqueness properties of continuous spacetime extensions to the boundary is of importance for the study of low-regularity inextendibility problems.",
+    "topic": "lorentzian",
+    "score": 5
+  },
+  {
+    "id": "http://arxiv.org/abs/2512.10423v1",
+    "title": "Rotational Weingarten surfaces in Lorentz-Minkowski space",
+    "authors": [
+      "Paula Carretero",
+      "Ildefonso Castro",
+      "Ildefonso Castro-Infantes"
+    ],
+    "published": "2025-12-11T08:35:59Z",
+    "summary": "We propose a new approach to the study of rotational surfaces in Lorentz-Minkowski space based on the notion of the geometric linear momentum of the generatrix curves with respect to the axes of revolution. This technique allows us to reduce any Weingarten condition on the surface to a first-order ordinary differential equation for the momentum as a function of the distance to the corresponding axis, providing a unified framework that encompasses the three causal types of rotation axes. As a direct application, we classify important families of rotational Weingarten surfaces in this setting, including some linear and quadratic cases. Furthermore, we introduce the non-degenerate quadric surfaces of revolution in Lorentz-Minkowski space and characterize them in terms of a specific cubic Weingarten relation.",
+    "topic": "lorentzian",
+    "score": 4
+  },
+  {
+    "id": "http://arxiv.org/abs/2512.09532v1",
+    "title": "Bochner's technique in Einstein's non-symmetric geometry",
+    "authors": [
+      "Vladimir Rovenski"
+    ],
+    "published": "2025-12-10T11:13:41Z",
+    "summary": "A. Einstein considered a manifold with a non-symmetric (0,2)-tensor $G$ and a linear connection $\\nabla=(Γ^k_{ij})$ satisfying the condition $\\dfrac{\\partial G_{ij}}{\\partial x^k} = Γ^p_{ik}G_{pj} +Γ^p_{kj}G_{ip}$. Guided by the construction of an almost Lie algebroid (on a vector bundle), we define the following concepts of Bochner's technique for the Einstein's non-symmetric geometry: the $\\nabla^{f}$-connection, Bochner and Hodge $f$-Laplacians on tensors, the $f$-curvature operator and the Weitzenböck type curvature operator of Einstein's connection. We prove Weitzenböck type decomposition formula and obtain vanishing results about the null space of the Bochner and Hodge $f$-Laplacians.",
+    "topic": "lorentzian",
+    "score": 4
+  },
+  {
+    "id": "http://arxiv.org/abs/2512.03617v1",
+    "title": "Kähler-Einstein toric submanifolds of the projective space",
+    "authors": [
+      "Antonio J. Di Scala",
+      "Martín Sombra"
+    ],
+    "published": "2025-12-03T09:48:32Z",
+    "summary": "We show that the Kähler-Einstein metrics on the four families of examples of symmetric toric Fano manifolds presented by Batyrev and Selivanova cannot be realized as metrics induced by immersions into projective spaces equipped with Fubini-Study metrics. We obtain a similar conclusion for the non-symmetric examples discovered by Nill and Paffenholz. A consequence is that a centrally symmetric toric Fano manifold admits a Kähler-Einstein metric induced by a projective immersion if and only if it is a product of projective lines. These results provide evidence for a broader conjecture characterizing which Kähler-Einstein metrics can be induced by projective immersions.",
+    "topic": "lorentzian",
+    "score": 4
+  },
+  {
+    "id": "http://arxiv.org/abs/2511.22013v1",
+    "title": "Quasi-Einstein manifolds with Harmonic Weyl curvature",
+    "authors": [
+      "Huai-Dong Cao",
+      "Fengjiang Li",
+      "James Siene"
+    ],
+    "published": "2025-11-27T01:30:51Z",
+    "summary": "In this paper, we classify $n$-dimensional ($n\\geq 5$) quasi-Einstein manifolds with harmonic Weyl curvature, thus extending the work of Shin \\cite{Shin} in dimension four for quasi-Einstein manifolds and refining the work of He-Petersen-Wylie \\cite{HPW}. As a consequence, we provide new examples of quasi-Einstein manifolds which are neither locally conformally flat nor D-flat in the sense of \\cite{CC12}.",
+    "topic": "lorentzian",
+    "score": 4
+  },
+  {
+    "id": "http://arxiv.org/abs/2511.06923v1",
+    "title": "Ricci solitons of special Lorentzian Lie groups with a four-dimensional isometry group",
+    "authors": [
+      "Giovanni Calvaruso",
+      "Lorenzo Pellegrino",
+      "Amirhesam Zaeim"
+    ],
+    "published": "2025-11-10T10:18:07Z",
+    "summary": "In the framework of the study of homogeneous Lorentzian three-manifolds, we consider here the only class of examples which admit a four-dimensional group of isometries but are neither Lorentzian Bianchi-Cartan-Vranceanu spaces nor plane waves. We obtain an explicit description in global coordinates of these special homogeneous Lorentzian manifolds. We then prove that all such examples are non-gradient expanding Ricci solitons.",
+    "topic": "lorentzian",
+    "score": 4
+  },
+  {
+    "id": "http://arxiv.org/abs/2511.05447v1",
+    "title": "Stability of Homogeneous minimal hypersurfaces in the Page space and $Y^{p,q}$ Sasaki-Einstein manifolds",
+    "authors": [
+      "Natalia Gherghel",
+      "Hari K. Kunduri"
+    ],
+    "published": "2025-11-07T17:35:21Z",
+    "summary": "We investigate the stability of homogeneous minimal submanifolds in two families of closed Einstein manifolds, the Page space $\\mathbb{CP}^2 \\# \\overline{\\mathbb{CP}^2}$ and the Sasaki-Einstein spaces $Y^{p,q}$, which are equipped with cohomogeneity-one Einstein metrics admitting the isometric action of $SU(2) \\times U(1)$ and $U(1) \\times U(1) \\times SU(2)$ respectively. We determine all the homogeneous, minimal hypersurfaces and explicitly compute the spectrum of their associated stability operators and determine their index.",
+    "topic": "lorentzian",
+    "score": 4
+  },
+  {
+    "id": "http://arxiv.org/abs/2511.05227v1",
+    "title": "On the smooth Lorentzian optimal transport problem",
+    "authors": [
+      "Alec Metsch"
+    ],
+    "published": "2025-11-07T13:23:40Z",
+    "summary": "In this paper, we want to establish some general results in the Lorentzian optimal transport theory that have well-known Riemannian counterparts. As a first result, we will provide non-trivial assumptions on the measures to ensure strong (Kantorovich) duality, i.e. the existence of a maximizing pair in the dual optimal transport formulation. We will also show that, under suitable assumptions, optimality of a causal coupling is characterized by $c$-cyclical monotonicity. The second result deals with the regularity of $c$-convex functions and (weak) Kantorovich potentials. We show that, in general, regularity results known in the Riemannian context do not extend to the Lorentzian setting. Under suitable assumptions on the measures, we will prove nevertheless that these (weak) potentials are locally semconvex on an open set of full measure. As our last result, we will prove that, under quite general assumptions, for any two intermediates measures along a displacement interpolation, there exists a $C^{1,1}_{loc}$-regular maximizing pair in the dual formulation.",
+    "topic": "lorentzian",
+    "score": 4
+  },
+  {
+    "id": "http://arxiv.org/abs/2511.01368v2",
+    "title": "8D conformal gravity with Einstein sector, and its relation to the Q-curvature",
+    "authors": [
+      "Nicolas Boulanger",
+      "Davide Rovere"
+    ],
+    "published": "2025-11-03T09:11:33Z",
+    "summary": "We first streamline the construction of the unique six-dimensional conformal gravity action found by Lü, Pang and Pope, that admits Einstein metrics as solutions to the field equations. We then prove that there exists a unique eight-dimensional conformal gravity action that admits Einstein metrics as solutions to the field equations, and explicitly build the corresponding action. Finally, we relate these results to Branson's Q-curvature and the Fefferman-Graham obstruction tensor, to conclude that on every even-dimensional space there exists a unique -- up to boundary terms -- conformally-invariant gravity theory that is extremised by Einstein metrics.",
+    "topic": "lorentzian",
+    "score": 4
+  },
+  {
+    "id": "http://arxiv.org/abs/2512.07257v1",
+    "title": "Mass and volume of four-dimensional Einstein metrics",
+    "authors": [
+      "Matthew Gursky",
+      "Andrea Malchiodi"
+    ],
+    "published": "2025-12-08T07:51:06Z",
+    "summary": "Let $(M^4,\\bar{g})$ be an Einstein manifold, where $M^4$ is a smooth, closed, oriented four-manifold $M^4$ and $\\bar{g}$ has positive Einstein constant. Given a point $0 \\in M^4$, let $G$ denote the (positive) Green's function $G$ of the conformal laplacian $L_{\\bar{g}}$; then $g = G^2 \\bar{g}$ is a complete, scalar-flat, asymptotically flat metric on $\\widehat{M} = M \\setminus \\{ 0 \\}$. We first show that the ADM mass of $g$ can be expressed as an integral over $\\widehat{M}$, then use this identity to prove a lower bound for the mass of $g$ in terms of the volume of $\\bar{g}$. As corollaries, we prove a 'mass times volume' inequality, plus various mass gap theorems characterizing the round metric on $S^4$ and the Fubini-Study metric on $\\mathbb{CP}^2$.",
+    "topic": "lorentzian",
+    "score": 3
+  },
+  {
+    "id": "http://arxiv.org/abs/2512.01670v1",
+    "title": "Horizon Data: Existence Results and a Near-Horizon Equation on General Null Hypersurfaces",
+    "authors": [
+      "Miguel Manzano",
+      "Marc Mars"
+    ],
+    "published": "2025-12-01T13:40:17Z",
+    "summary": "In a spacetime $(\\mathcal{M},g)$, a horizon is a null hypersurface where the deformation tensor $\\mathcal{K}:=£_ηg$ of a null and tangent vector $η$ satisfies certain restrictions. In this work, we develop a formalism to study the geometry of \\textit{general} horizons (i.e. characterized by any $\\mathcal{K}$), based on encoding the zeroth and first transverse derivatives of $\\mathcal{K}$ on null hypersurfaces detached from any ambient spacetime. We introduce the notions of \\textit{$\\mathcal{K}$-tuple} and \\textit{non-isolation tensor}. The former encodes the order zero of $\\mathcal{K}$, while the latter is a symmetric $2$-covariant tensor that codifies the ``degree of isolation\" of a horizon. In particular, the non-isolation tensor vanishes for homothetic, Killing and isolated horizons. As an application we derive a \\textit{generalized near-horizon equation}, i.e., an identity that holds on any horizon (regardless of its topology or whether it contains fixed points), which relates the non-isolation tensor, a certain torsion one-form, and curvature terms. By restricting this equation to a cross-section one can recover the near-horizon equation of isolated horizons and the master equation of multiple Killing horizons. Our formalism allows us to prove two existence theorems for horizons. Specifically, we establish the necessary and sufficient conditions for a non-degenerate totally geodesic horizon with any prescribed non-isolation tensor to be embeddable in a spacetime satisfying any (non-necessarily $Λ$-vacuum) field equations. We treat first the case of arbitrary topology, and then show how the result can be strengthened when the horizon admits a cross-section.",
+    "topic": "lorentzian",
+    "score": 3
+  },
+  {
+    "id": "http://arxiv.org/abs/2512.01620v1",
+    "title": "On the stability of Einstein metrics carrying a special twisted spinor",
+    "authors": [
+      "Diego Artacho"
+    ],
+    "published": "2025-12-01T12:40:42Z",
+    "summary": "We prove linear semi-stability for a large class of Einstein metrics of non-positive scalar curvature. More precisely, we show that any Einstein $n$-manifold with non-positive scalar curvature carrying a parallel twisted pure spin$^r$ spinor is linearly semi-stable, under mild restrictions on $n$ and $r$. We thus extend the parallel spin and spin$^c$ stability results of Dai--Wang--Wei. As an application, our result implies linear semi-stability for all negative quaternion-K{ä}hler manifolds of dimension greater than $8$.",
+    "topic": "lorentzian",
+    "score": 3
+  },
+  {
+    "id": "http://arxiv.org/abs/2511.12775v1",
+    "title": "Null fluid gravitational fields on Kerr manifolds and optical lifts of Sasaki structures",
+    "authors": [
+      "Masoud Ganji",
+      "Cristina Giannotti",
+      "Andrea Spiro"
+    ],
+    "published": "2025-11-16T20:57:56Z",
+    "summary": "Building on the characterisation in [C. D. Hill, J. Lewandowski and P. Nurowski, Indiana Univ. Math. J. 57 (2008), 3131--3176] of 4-dimensional Lorentzian metrics adapted to an optical structure and satisfying the null fluid Einstein equations, we give an explicit parameterisation of this class under the assumption that the optical structure is of Kerr type. As immediate consequences, we obtain: (1) a new method for constructing solutions to the Einstein equations with a null fluid energy momentum tensor, yielding a large family of explicit metrics that naturally includes the classical Kerr black hole metrics and all Ricci flat examples described in [M. Ganji, C. Giannotti, G. Schmalz and A. Spiro, Ann. Physics 75 (2025), Paper No. 169908, 28]; (2) a solution to a conjecture in Hill, Lewandowski and Nurowski's paper on the local existence of smooth optical lifts in the case of Sasaki CR structures.",
+    "topic": "lorentzian",
+    "score": 3
+  },
+  {
+    "id": "http://arxiv.org/abs/2511.06932v1",
+    "title": "Helix surfaces in Lorentzian Heisenberg group",
+    "authors": [
+      "Lorenzo Pellegrino"
+    ],
+    "published": "2025-11-10T10:26:59Z",
+    "summary": "In this work we investigate constant angle surfaces in the Lorentzian Heisenberg group $\\htt$. After providing a complete description of the geometry of the ambient space, we perform the full classification of minimal and CMC helix surfaces in $\\htt$, giving their explicit parametrizations. In addition, we investigate the constant angle spacelike and timelike surfaces for a Lorentzian metric on the Heisenberg group $H_3$ not treated before in the literature, first showing that such surfaces have constant Gaussian curvature and then obtaining their complete characterization.",
+    "topic": "lorentzian",
+    "score": 3
+  },
+  {
+    "id": "http://arxiv.org/abs/2511.06133v1",
+    "title": "Black holes and black regions, horizons and barriers in Lorentzian manifolds",
+    "authors": [
+      "Cristina Giannotti",
+      "Andrea Spiro"
+    ],
+    "published": "2025-11-08T20:51:05Z",
+    "summary": "We prove that if S is a time-oriented null hypersurface of a Lorentzian n-manifold (M, g), the causal world-lines, which intersect transversally S and are time-oriented in a compatible way, cross the hypersurface all in the same direction, the other being forbidden. Even if it is known that a smooth event horizon (in the sense of Penrose, Hawking and Ellis) is a null hypersurface and has the above semi-permeability property, at the best of our knowledge, it was not known so far that the latter is a mere consequence of the former. Our result leads to the concepts of barriers (= null hypersurfaces separating the space-time into disjoint regions) and black regions (= time-oriented regions bounded by barriers). These objects naturally include (smooth) event horizons and (smoothly bounded) black holes. Since barriers are defined by two simple properties -- the merely local property of \"nullity\" combined with the global property of \"separating the space-time\" -- we expect they may be used to simplify computations for locating static and/or dynamic horizons in numerical computations.",
+    "topic": "lorentzian",
+    "score": 3
+  },
+  {
+    "id": "http://arxiv.org/abs/2511.05847v1",
+    "title": "Limit curve theorems for incomplete metric spaces and the null distance on Lorentzian manifolds",
+    "authors": [
+      "Adam Rennie",
+      "Ben Whale"
+    ],
+    "published": "2025-11-08T04:33:56Z",
+    "summary": "We prove a limit curve theorem for incomplete metric spaces. Our main application is to Sormani and Vegas' null distance, where our results give strong control on the Lorentzian lengths of limit curves. We also show that regular cosmological time functions and the surface function of a Cauchy surface in a globally hyperbolic manifold define such a null distance.",
+    "topic": "lorentzian",
+    "score": 3
+  },
+  {
+    "id": "http://arxiv.org/abs/2511.03713v1",
+    "title": "A local Lorentzian Ferrand-Obata theorem for conformal vector fields",
+    "authors": [
+      "Sorin Dumitrescu",
+      "Charles Frances",
+      "Karin Melnick",
+      "Vincent Pecastaing",
+      "Abdelghani Zeghib"
+    ],
+    "published": "2025-11-05T18:43:58Z",
+    "summary": "For a conformal vector field on a closed, real-analytic, Lorentzian manifold we prove that the flow is locally isometric -- that it preserves a metric in the conformal class on a neighborhood of any point -- or the metric is everywhere conformally flat. The main theorem can be viewed as a local version of the Lorentzian Lichnerowicz conjecture in the real-analytic setting. The key result is an optimal improvement of the local normal forms for conformal vector fields of [FM13], which focused on non-linearizable singularities. This article is primarily concerned with essential linearizable singularities, and the proofs include global arguments which rely on the compactness assumption.",
+    "topic": "lorentzian",
+    "score": 3
+  },
+  {
+    "id": "http://arxiv.org/abs/2512.10699v1",
+    "title": "A simplified proof of a cosmological singularity theorem",
+    "authors": [
+      "Gregory J. Galloway",
+      "Eric Ling"
+    ],
+    "published": "2025-12-11T14:40:59Z",
+    "summary": "In a previous paper [9], we proved the following singularity theorem applicable to cosmological models with a positive cosmological constant: if a four-dimensional spacetime satisfying the null energy condition contains a compact Cauchy surface which is expanding in all directions, then the spacetime is past null geodesically incomplete unless the Cauchy surface is topologically a spherical space. The proof in [9] made use of the positive resolution of the surface subgroup conjecture [15]. In this note, we demonstrate how the less-broadly-known positive resolution of the virtual positive first Betti number conjecture [1] provides a more streamlined and unified approach to the proof. We illustrate the theorem with some examples and analyze its rigidity under null geodesic completeness.",
+    "topic": "lorentzian",
+    "score": 2
+  },
+  {
+    "id": "http://arxiv.org/abs/2512.10200v1",
+    "title": "Symmetries of extremal horizons",
+    "authors": [
+      "Alex Colling"
+    ],
+    "published": "2025-12-11T01:39:35Z",
+    "summary": "We prove an intrinsic analogue of Hawking's rigidity theorem for extremal horizons in arbitrary dimensions: any compact cross-section of a rotating extremal horizon in a spacetime satisfying the null energy condition must admit a Killing vector field. If the dominant energy condition is satisfied for null vectors, it follows that an extension of the near-horizon geometry admits an enhanced isometry group containing $SO(2,1)$ or the 2D Poincaré group $\\mathbb{R}^2 \\rtimes SO(1,1)$. In the latter case, the associated Aretakis instability for a massless scalar field is shifted by one order in the derivatives of the field transverse to the horizon. We consider a broad class of examples including Einstein-Maxwell(-Chern-Simons) theory and Yang-Mills theory coupled to charged matter. In these examples we show that the symmetries are inherited by the matter fields.",
+    "topic": "lorentzian",
+    "score": 2
+  },
+  {
+    "id": "http://arxiv.org/abs/2512.08776v1",
+    "title": "Brachistochrone-ruled timelike surfaces in Newtonian and relativistic spacetimes",
+    "authors": [
+      "Ferhat Taş"
+    ],
+    "published": "2025-12-09T16:30:58Z",
+    "summary": "We introduce and study \\emph{brachistochrone-ruled timelike surfaces} in Newtonian and relativistic spacetimes. Starting from the classical cycloidal brachistochrone in a constant gravitational field, we construct a Newtonian ``brachistochrone-ruled worldsheet'' whose rulings are time-minimizing trajectories between pairs of endpoints. We then generalize this construction to stationary Lorentzian spacetimes by exploiting the reduction of arrival-time functionals to Finsler- or Jacobi-type length functionals on a spatial manifold. In this framework, relativistic brachistochrones arise as geodesics of an associated Finsler structure, and brachistochrone-ruled timelike surfaces are timelike surfaces ruled by these time-minimizing worldlines. We work out explicit examples in Minkowski spacetime and in the Schwarzschild exterior: in the flat case, for a bounded-speed time functional, the brachistochrones are straight timelike lines and a simple family of brachistochrone-ruled surfaces turns out to be totally geodesic; in the Schwarzschild case, we show how coordinate-time minimization at fixed energy reduces to geodesics of a Jacobi metric on the spatial slice, and outline a numerical scheme for constructing brachistochrone-ruled timelike surfaces. Finally, we discuss basic geometric properties of such surfaces and identify natural Jacobi fields along the rulings.",
+    "topic": "lorentzian",
+    "score": 2
+  },
+  {
+    "id": "http://arxiv.org/abs/2512.06576v1",
+    "title": "Boundary structure of gauge fields on asymptotically AdS spaces",
+    "authors": [
+      "Maxim Grigoriev",
+      "Mikhail Markov"
+    ],
+    "published": "2025-12-06T21:39:28Z",
+    "summary": "We study boundary structure of asymptotically AdS gravity and (gauge) fields defined on this background by employing the gauge PDE approach. The essential step of the construction is the incorporation of the boundary-defining function among the fields of the theory, which allows us to realise the asymptotic boundary as a space-time submanifold by employing the gauge PDE implementation of Penrose's concept of asymptotically-simple space. In so doing the gauge PDE describing the boundary structure is obtained by restricting to the boundary of spacetime and simultaneously restricting to the boundary of the field space by setting the boundary defining function to zero. To implement this step systematically we introduce a notion of $Q$-boundary which seems to be new. The main concrete result of this work is the construction of the efficient boundary calculus, which gives a recursive procedure to obtain the explicit form of the equations satisfied by the boundary fields and their gauge transformations for boundary dimension $d \\geq 3$. These include obstruction equations (such as Bach equation or Yang-Mills equation for $d=4$) and generalised conservation equations in the subleading sector. In particular, we derive the explicit form of the higher conformal Yang-Mills equation for $d=8$. The approach is very general and, in principle, applies to generic (gauge) fields on the Einstein gravity background producing a conformally-invariant gauge theory on the boundary, which describes their boundary structure. It can be considered as an extension of the Fefferman-Graham construction that takes into account both the leading and the subleading sector of the bulk fields.",
+    "topic": "lorentzian",
+    "score": 2
+  },
+  {
+    "id": "http://arxiv.org/abs/2512.03587v1",
+    "title": "The Dirichlet-to-Neumann map on asymptotically anti-de Sitter spaces and holography",
+    "authors": [
+      "Alberto Enciso",
+      "Gunther Uhlmann",
+      "Michał Wrochna"
+    ],
+    "published": "2025-12-03T09:14:27Z",
+    "summary": "We consider the Klein-Gordon equation on asymptotically anti-de Sitter spacetimes, and show that the forward Dirichlet-to-Neumann map (or scattering matrix) is a fractional power of the boundary wave operator modulo lower order terms in the sense of paired Lagrangian distributions. We use it to show that, outside of a countable set of mass parameters, the Dirichlet-to-Neumann map determines the Taylor series of the bulk metric at the boundary, and hence allows the recovery of a real analytic metric or Einstein metric modulo isometries. Furthermore, we prove a Lorentzian version of the Graham-Zworski theorem relating poles of the Dirichlet-to-Neumann map to conformally invariant powers of the boundary wave operator.",
+    "topic": "lorentzian",
+    "score": 2
+  },
+  {
+    "id": "http://arxiv.org/abs/2512.01593v1",
+    "title": "Constant curvature curves in dual affine and dual Lorentz-Minkowski planes",
+    "authors": [
+      "Muhittin Evren Aydın",
+      "Nursemin Çavdar",
+      "Mahmut Ergüt"
+    ],
+    "published": "2025-12-01T12:08:58Z",
+    "summary": "In this paper, we first study invariants of curves parametrized by a real variable in the dual plane $\\mathbb{D}^2$ under equiaffine transformations. We then obtain explicit equations for all curves in $\\mathbb{D}^2$ whose equiaffine curvature is a dual constant. In particular, we prove that when the equiaffine curvature is a pure real constant, both the real and dual parts of the curve in $\\mathbb{D}^2$ are quadratic curves. In addition, we provide a complete classification of spacelike and timelike curves parametrized by a real variable in the dual Lorentz--Minkowski plane $\\mathbb{D}^2_1$ whose curvature is a dual constant.",
+    "topic": "lorentzian",
+    "score": 2
+  },
+  {
+    "id": "http://arxiv.org/abs/2511.16128v1",
+    "title": "Rigidity of five-dimensional quasi-Einstein manifolds with constant scalar curvature",
+    "authors": [
+      "Zhongxian Cao"
+    ],
+    "published": "2025-11-20T08:02:07Z",
+    "summary": "Let $(M^5,g)$ be a five-dimensional non-trivial simply-connected compact quasi-Einstein manifold with boundary. If $M$ has constant scalar $R$, Johnatan Costa, Ernani Ribeiro Jr, and Detang Zhou show that $R$ = $((m-5)k+20)/(m-k+4)λ$ for some $k\\in\\{0,2,3,4\\}$. Both cases of $k=0$ and $k=4$ are already classified. In this paper we will prove that the case $k=3$ is rigid.",
+    "topic": "lorentzian",
+    "score": 2
+  },
+  {
+    "id": "http://arxiv.org/abs/2511.14463v1",
+    "title": "First Laplace eigenvalue of strongly isotropy irreducible spaces",
+    "authors": [
+      "Emilio A. Lauret",
+      "Fiorela Rossi Bertone",
+      "Alejandro Tolcachier"
+    ],
+    "published": "2025-11-18T13:04:28Z",
+    "summary": "We study the smallest positive eigenvalue $λ_1$ of the Laplace-Beltrami operator associated with any compact strongly isotropy irreducible space. We provide an explicit expression for all simply connected cases. Furthermore, every strongly isotropy irreducible space is automatically an Einstein manifold, and we prove for each of them that $E<λ_1\\leq 16E$, where $E$ denotes the corresponding Einstein constant.",
+    "topic": "lorentzian",
+    "score": 2
+  },
+  {
+    "id": "http://arxiv.org/abs/2511.10867v1",
+    "title": "$Γ$-convergence of a diffeomorphism-natural MDL functional to Einstein-Hilbert with Gibbons-Hawking-York boundary term",
+    "authors": [
+      "Marko Lela"
+    ],
+    "published": "2025-11-14T00:32:36Z",
+    "summary": "We prove a \\(Γ\\)-convergence result for a diffeomorphism-natural discrete MDL-type functional to the Einstein-Hilbert action with the Gibbons-Hawking-York boundary term. On boundary-fitted, shape-regular meshes we establish interior and boundary blow-ups, identify the Carathéodory densities \\(f_{\\mathrm{in}}=α_0+α_1 R\\) and \\(f_{\\mathrm{bdry}}=β_1 K\\), and obtain the \\(\\liminf/\\limsup\\) bounds via a recovery sequence based on reflected Fermi smoothing. A boundary first-layer asymptotics shows that boundary cells contribute at order \\(h^{d-1}\\), yielding a global \\(O(h)\\) boundary remainder, while the interior remainder is \\(O(h^2)\\). The paper is foundational; Appendix~E specifies a reproducible protocol for rate checks and calibration of \\(α_0,α_1,β_1\\).",
+    "topic": "lorentzian",
+    "score": 2
+  },
+  {
+    "id": "http://arxiv.org/abs/2511.09508v2",
+    "title": "Dynamical Formation of Apparent Horizons due to Boundary Effect in Vacuum Einstein Gravity",
+    "authors": [
+      "Puskar Mondal",
+      "Shing-Tung Yau"
+    ],
+    "published": "2025-11-12T17:46:48Z",
+    "summary": "We prove that an apparent horizon can form as a result of Einsteinian evolution in pure vacuum spacetime starting from regular initial data free of apparent horizons due to pure boundary effects. We adapt a Cauchy-double-null framework and use the boundary generalized mean curvature condition for the existence of an interior apparent horizon imposed by the author S-T Yau in \\cite{yau}. In particular, we prove that the condition of \\cite{yau} can be met dynamically starting from a configuration that does not verify the same through a focusing mechanism. This is the first part of a two-part sequence, and in the sequel, we will focus on explicitly constructing the Cauchy data.",
+    "topic": "lorentzian",
+    "score": 2
+  },
+  {
+    "id": "http://arxiv.org/abs/2511.03060v1",
+    "title": "The Curved Spacetime of Transformer Architectures",
+    "authors": [
+      "Riccardo Di Sipio",
+      "Jairo Diaz-Rodriguez",
+      "Luis Serrano"
+    ],
+    "published": "2025-11-04T22:58:40Z",
+    "summary": "We present a geometric framework for understanding Transformer-based language models, drawing an explicit analogy to General Relativity. Queries and keys induce an effective metric on representation space, and attention acts as a discrete connection that implements parallel transport of value vectors across tokens. Stacked layers provide discrete time-slices through which token representations evolve on this curved manifold, while backpropagation plays the role of a least-action principle that shapes loss-minimizing trajectories in parameter space. If this analogy is correct, token embeddings should not traverse straight paths in feature space; instead, their layer-wise steps should bend and reorient as interactions mediated by embedding space curvature. To test this prediction, we design experiments that expose both the presence and the consequences of curvature: (i) we visualize a curvature landscape for a full paragraph, revealing how local turning angles vary across tokens and layers; (ii) we show through simulations that excess counts of sharp/flat angles and longer length-to-chord ratios are not explainable by dimensionality or chance; and (iii) inspired by Einstein's eclipse experiment, we probe deflection under controlled context edits, demonstrating measurable, meaning-consistent bends in embedding trajectories that confirm attention-induced curvature.",
+    "topic": "lorentzian",
+    "score": 2
+  },
+  {
+    "id": "http://arxiv.org/abs/2511.02072v1",
+    "title": "Conformal hypersurface invariants and Bach-type Boundary Problems",
+    "authors": [
+      "Samuel Blitz",
+      "A. Rod Gover"
+    ],
+    "published": "2025-11-03T21:18:08Z",
+    "summary": "Using variational considerations, we establish that there exists a new symmetric trace-free tensor conformal invariant of hypersurfaces embeddings in even dimensional conformal manifolds. This conformal invariant completes the family of conformal invariants known as conformal fundamental forms.   The object has important links to global problems. In the context of the even dimensional boundary-value Poincaré--Einstein problem, the image of the Dirichlet--to--Neumann map is conformally invariant. Recent investigations established that this image is the pullback of a particular Riemannian invariant to the odd-dimensional boundary. We show here that, in fact, that image arises as the restriction of the new conformal invariant constructed here. As a consequence of the proof, we are able to construct several new global conformal invariants of the boundary. Finally, we use our variational results to establish that compact Bach-flat manifolds with umbilic boundary must admit a (formal to all orders) Poincaré--Einstein metric in the conformal class of its interior.",
+    "topic": "lorentzian",
+    "score": 2
+  },
+  {
+    "id": "http://arxiv.org/abs/2511.01713v1",
+    "title": "On energy and its positivity in spacetimes with an expanding flat de Sitter background",
+    "authors": [
+      "Rodrigo Avalos",
+      "Eric Ling",
+      "Annachiara Piubello"
+    ],
+    "published": "2025-11-03T16:21:37Z",
+    "summary": "The positive energy theorems are a fundamental pillar in mathematical general relativity. Originally proved by Schoen-Yau and later Witten, these theorems were established for asymptotically flat manifolds where the metric tends to the standard Euclidean metric and whose second fundamental form decays to zero at infinity. This ansatz on the metric and second fundamental form is motivated by the desire to model an isolated gravitational system with a Minkowski space background for the spacetime. However, actual astrophysical massive objects are not truly isolated but rather exist within an expanding cosmological universe, where the second fundamental form is umbilic. With this in mind, we seek a notion of energy for initial data sets with an umbilic second fundamental form. In this work, we present a definition of energy in such an expanding cosmological setting. Instead of Minkowski space, we take de Sitter space as the background spacetime, which, when written in flat-expanding coordinates, is foliated by umbilic hypersurfaces each isometric to Euclidean 3-space. This cosmological setting necessitates a quasi-local energy definition, as the presence of a cosmological horizon in de Sitter space obstructs a global one. We define energy in this quasi-local setting by adapting the Liu-Yau energy to our framework and establish positivity of this energy for certain bounded values of the cosmological constant.",
+    "topic": "lorentzian",
+    "score": 2
+  },
+  {
+    "id": "http://arxiv.org/abs/2512.08275v1",
+    "title": "On the Bergman metric of a pseudoconvex domain with a strongly pseudoconvex polyhedral boundary point",
+    "authors": [
+      "Xiaojun Huang",
+      "Scott James",
+      "Xiaoshan Li"
+    ],
+    "published": "2025-12-09T06:08:50Z",
+    "summary": "Let $D\\subset\\mathbb{C}^n$ with $n>1$ be a pseudoconvex domain, possibly unbounded, that contains a non-smooth strongly pseudoconvex polyhedral boundary point. We show that the Bergman metric of $D$ is not Einstein.",
+    "topic": "lorentzian",
+    "score": 1
+  },
+  {
+    "id": "http://arxiv.org/abs/2512.07278v1",
+    "title": "Rigidity of the gradient estimate for Einstein manifolds",
+    "authors": [
+      "Sanghoon Lee",
+      "Jiewon Park"
+    ],
+    "published": "2025-12-08T08:18:17Z",
+    "summary": "We study the rigidity of Ricci-flat manifolds with quadratic curvature decay under conditions on the Green function. We show that if the gradient of the Green function is uniformly bounded from below, then the manifold is flat. Furthermore, we prove that for a Ricci-flat manifold with quadratic curvature decay and Euclidean volume growth, the curvature is in $L^p$ for any $p \\ge 2$. Combining with Cheeger-Tian \\cite{CT} and Kröncke-Szabó \\cite{KS}, we obtain that the manifold must be ALE of optimal order.",
+    "topic": "lorentzian",
+    "score": 1
+  },
+  {
+    "id": "http://arxiv.org/abs/2512.01844v1",
+    "title": "Cauchy data for multiple collapsing boson stars",
+    "authors": [
+      "Elena Giorgi",
+      "Dawei Shen",
+      "Jingbo Wan"
+    ],
+    "published": "2025-12-01T16:30:24Z",
+    "summary": "We construct Cauchy initial data for the Einstein-Maxwell-Klein-Gordon (EMKG) system, which evolves in finite time into spacetimes containing multiple trapped surfaces. From a physical perspective, this corresponds to preparing multiple well-separated boson stars, each of which collapses to form a spacelike black hole region. In particular, this extends the result of the second and third named authors on the formation of multiple trapped surfaces in vacuum to the EMKG system.",
+    "topic": "lorentzian",
+    "score": 1
+  },
+  {
+    "id": "http://arxiv.org/abs/2512.00825v1",
+    "title": "Pinched self-dual Weyl curvature on Einstein four-manifolds",
+    "authors": [
+      "Inyoung Kim"
+    ],
+    "published": "2025-11-30T10:25:15Z",
+    "summary": "We show that a compact oriented riemannian four-manifold with harmonic and pinched self-dual Weyl curvature is anti-self-dual if the type is nonpositive. The main part is to show that there is an almost-Kähler structure outside the zero set of the self-dual Weyl curvature.",
+    "topic": "lorentzian",
+    "score": 1
+  },
+  {
+    "id": "http://arxiv.org/abs/2512.00540v1",
+    "title": "Classification of Willmore $2$-spheres in $S^n$",
+    "authors": [
+      "Xiang Ma",
+      "Franz Pedit",
+      "Peng Wang"
+    ],
+    "published": "2025-11-29T16:20:01Z",
+    "summary": "This paper resolves a long-standing open problem by providing a classification of Willmore $2$-spheres in $S^n$. We show that any such $2$-sphere is either totally isotropic--originating from the projection of a special twistor curve in the twistor bundle over an even-dimensional sphere--or strictly $k$-isotropic, obtained via $(m-k)$ steps of adjoint transforms of a strictly $m$-isotropic minimal surface in $\\mathbb{R}^n$, where $0\\leq k\\leq m\\leq[n/2]-2$. Our approach hinges on the construction of a harmonic sequence in the real Grassmannian over the Lorentz space, derived from the harmonic conformal Gauss map of the original Willmore sphere. This sequence terminates finitely and generalizes, in part, the classical theory of harmonic sequences for harmonic $2$-spheres in complex Grassmannians.",
+    "topic": "lorentzian",
+    "score": 1
+  },
+  {
+    "id": "http://arxiv.org/abs/2511.22672v2",
+    "title": "Noncommutative Geometry of Gravity, Strings and Fields: A Panoramic Overview",
+    "authors": [
+      "Richard J. Szabo"
+    ],
+    "published": "2025-11-27T18:16:16Z",
+    "summary": "These are expanded lecture notes of a mini-course whose objectives were to introduce the basic concepts, constructions and techniques of noncommutative geometry, as well as their uses as a framework for modelling quantum spacetime. Key mathematical approaches presented include operator algebras such as $C^*$-algebras, K-theory, spectral geometry, quantum groups, and deformation quantization. Physical application areas considered include string theory, quantum field theory, and the Standard Model, as well as certain condensed matter systems.",
+    "topic": "lorentzian",
+    "score": 1
+  },
+  {
+    "id": "http://arxiv.org/abs/2511.18389v1",
+    "title": "Intrinsic Timed Hausdorff Convergence and Its Implications",
+    "authors": [
+      "R. Perales"
+    ],
+    "published": "2025-11-23T10:28:06Z",
+    "summary": "Sakovich--Sormani introduced several notions of distance between certain classes of Lorentzian manifolds. These distances use the Hausdorff and Gromov--Hausdorff distances and therefore extend naturally to a broader class of spaces. Here we show that, for timed metric spaces, intrinsic timed--Hausdorff convergence implies (timeless) Gromov--Hausdorff convergence as well as big bang convergence, among other related implications.",
+    "topic": "lorentzian",
+    "score": 1
+  },
+  {
+    "id": "http://arxiv.org/abs/2511.16173v2",
+    "title": "Gibbs polystability of Fano manifolds, stability thresholds and symmetry breaking",
+    "authors": [
+      "Rolf Andreasson",
+      "Robert J. Berman",
+      "Ludvig Svensson"
+    ],
+    "published": "2025-11-20T09:22:15Z",
+    "summary": "We extend the probabilistic approach for constructing Kahler-Einstein metrics on log Fano manifolds - involving random point processes - to the case of non-discrete automorphism groups, by explicitly breaking the symmetry. This yields a new algebraic notion of Gibbs polystability, conjecturally equivalent to K-polystability. The definition involves a limit of log canonical thresholds on the GIT semistable locus of the N-fold products of the Fano manifold that we conjecture coincides with an analytic reduced stability threshold encoding the coercivity of the K-energy functional modulo automorphisms. These conjectures follow from an overarching conjectural Large Deviation Principle for the limit when N tends to infinity. We prove several of our conjectures for log Fano curves. By imposing a moment constraint, we derive a strengthened form of the sharp logarithmic Hardy-Littlewood-Sobolev inequality on the two-sphere, that implies the sharp form of Aubin's refinement of the Moser-Trudinger inequality. In companion papers we will present applications to Onsager's point vortex model on the two-sphere and the AdS/CFT correspondence.",
+    "topic": "lorentzian",
+    "score": 1
+  },
+  {
+    "id": "http://arxiv.org/abs/2511.08446v2",
+    "title": "On the parity of the Betti numbers of 3-manifolds with a parallel vector field",
+    "authors": [
+      "Emmanuel Gnandi",
+      "Raymond A. Hounnonkpe"
+    ],
+    "published": "2025-11-11T16:47:43Z",
+    "summary": "The question of whether a closed, orientable manifold can admit a nontrivial vector field that is parallel with respect to some Riemannian metric is a classical problem in Differential Geometry, first posed by S. S. Chern [11]. In this work, we provide a complete answer to Chern's question in dimension three. Specifically, we show that a closed, orientable 3-manifold admits a nontrivial parallel vector field with respect to some Riemannian metric if and only if it is a Kähler mapping torus. Furthermore, we prove that the Betti numbers of any such 3-manifold are necessarily odd. A full classification of these manifolds is also obtained. Similar results are established for compact orientable Lorentzian 3-manifolds admitting either a parallel timelike vector field or a parallel lightlike vector field.",
+    "topic": "lorentzian",
+    "score": 1
+  },
+  {
+    "id": "http://arxiv.org/abs/2511.08413v1",
+    "title": "Harmonic maps into principal bundles and generalized magnetic maps",
+    "authors": [
+      "H. Benziadi",
+      "A. López Almorox",
+      "C. Tejero Prieto"
+    ],
+    "published": "2025-11-11T16:26:15Z",
+    "summary": "We study harmonic mappings from a Riemannian manifold $N$ into a principal $G$-bundle $P$ endowed with a $G$-invariant Riemannian metric (i.e. a Kaluza-Klein metric). These morphisms are called Kaluza-Klein harmonic maps and naturally lead to the notion of generalized magnetic maps for an arbitrary gauge group $G$, which are just their projections onto the base manifold of $P$ and might provide a geometric formulation for the magnetic interaction of extended objects modelled by $N$ under the action of a generalized Lorentz force. We provide a characterization of Kaluza-Klein harmonic maps and show that the space of generalized magnetic maps is a quotient of the space of Kaluza-Klein harmonic maps under an equivalence relation generated by an appropriate gauge group. We establish a necessary condition that they must satisfy, the gauge variation formula and the harmonic gauge fixing equation, also providing a main existence theorem for them. After analyzing how they are influenced by the geometry of the fibers of the principal bundle, we construct several instances of generalized magnetic maps, including two non-trivial one-parameter families of examples based on $α$-twisted spherical harmonic immersions with values in the complex $S^{3}\\longrightarrow S^{2}$ and quaternionic $S^{7}\\longrightarrow S^{4}$ Hopf fibrations, proving that among them the unique uncharged ones are the standard Clifford torus and the standard spherical harmonic immersion of $ S^3\\times S^3$ into $S^7$.",
+    "topic": "lorentzian",
+    "score": 1
+  },
+  {
+    "id": "http://arxiv.org/abs/2511.07246v1",
+    "title": "Killing (super)algebras for generalised spin manifolds",
+    "authors": [
+      "Andrew D. K. Beckett"
+    ],
+    "published": "2025-11-10T16:00:18Z",
+    "summary": "We define the notion of a Killing (super)algebra for a connection on a spinor bundle associated to a generalised spin structure on a pseudo-Riemannian manifold of any signature. We are led naturally to include in the even subspace not only Killing vectors but also certain infinitesimal gauge transformations, and we show that the definition of the (super)algebra requires, in addition to the spinor connection and a Dirac current, a map to pair spinor fields into infinitesimal gauge transformations. We show that these (super)algebras are filtered subdeformations of (an analogue of) the Poincaré superalgebra extended by the \\(R\\)-symmetry algebra. By employing Spencer cohomology, we study such deformations from a purely algebraic point of view and, at least in the case of Lorentzian signature and high supersymmetry, identify the subclass of deformations to which the Killing superalgebras belong. Finally, we show that, with some caveats, one can reconstruct a supersymmetric background geometry from such a deformation as a homogeneous space on which the deformation is realised as a subalgebra of the Killing superalgebra.",
+    "topic": "lorentzian",
+    "score": 1
+  },
+  {
+    "id": "http://arxiv.org/abs/2511.05774v2",
+    "title": "Rigidity of Gradient Shrinking Ricci Solitons with Bach-like Flatness and Related Variational Formulas",
+    "authors": [
+      "James Siene"
+    ],
+    "published": "2025-11-08T00:24:42Z",
+    "summary": "The classical Bach tensor in four dimensions can be expressed as a linear combination of two independent, symmetric, divergence-free, quadratic in curvature tensors U and V. Several classification results for gradient-shrinking Ricci solitons have been obtained under the assumption that the Bach tensor vanishes. We define a Bach-like tensor to be any other linear combination of U and V. We prove that, except along the Bach line, the vanishing of a Bach-like tensor forces a four-dimensional complete gradient-shrinking Ricci soliton to be either Einstein or isometric to the Gaussian soliton. Finally, we show that Bach-like tensors arise as Euler-Lagrange equations of a two-parameter family of quadratic curvature functionals and compute the corresponding first and second variation formulas.",
+    "topic": "lorentzian",
+    "score": 1
+  },
+  {
+    "id": "http://arxiv.org/abs/2511.05257v1",
+    "title": "SU(n)-structures through quotient by torus actions",
+    "authors": [
+      "Quentin Peres"
+    ],
+    "published": "2025-11-07T14:16:21Z",
+    "summary": "We show that if $(X,g,J,ω)$ is a Kähler manifold with an $SU(n+s)$-structure and a Hamiltonian holomorphic action of a compact torus $T^s$, then the usual symplectic quotient $Y$ inherits an $SU(n)$-structure provided the existence of special $1$-forms on $X$, called twist forms. We then give several applications of our results: on complex projective spaces, on cones over Fano Kähler-Einstein manifold and on toric $\\mathbb{C}\\mathbb{P}^1$ bundles. We also study the geometry behind these structures in the case of $n=3$.",
+    "topic": "lorentzian",
+    "score": 1
+  },
+  {
+    "id": "http://arxiv.org/abs/2511.01640v1",
+    "title": "Mixed Killing vector field and almost coKähler manifolds",
+    "authors": [
+      "Paritosh Ghosh"
+    ],
+    "published": "2025-11-03T14:49:06Z",
+    "summary": "A vector field $V$ on any (semi-)Riemannian manifold is said to be mixed Killing if for some nonzero smooth function $f$, it satisfies $L_VL_Vg=fL_Vg$, where $L_V$ is the Lie derivative along $V$. This class of vector fields, as a generalization of Killing vector fields, not only identify the isometries of the manifolds, but broadly also contain the class of homothety transformations. We prove an essential curvature identity along those fields on any (semi-)Riemannian manifold and thus generalize the Bochner's theorem for Killing vector fields in this setting. Later we study it in the framework of almost coKähler structure and we prove that the Reeb vector field $ξ$ on an almost coKähler manifold is mixed Killing if and only if the operator $h=0$. Moving further, we completely classify almost coKähler manifolds with $ξ$ mixed Killing vector field in dimension 3. In particular, if $ξ$ on an $η$-Einstein almost coKähler manifold is mixed Killing, then the manifold is of constant scalar curvature with $h=0$. Also we show that on any $(κ,μ)$-almost coKähler manifold, $ξ$ is mixed Killing if and only if the manifold is coKähler. In the end we present few model examples in this context.",
+    "topic": "lorentzian",
+    "score": 1
+  },
+  {
+    "id": "http://arxiv.org/abs/2511.00178v1",
+    "title": "Regularity of conformal structures on closed 3-manifolds",
+    "authors": [
+      "Rodrigo Avalos",
+      "Albachiara Cogo",
+      "Andoni Royo Abrego"
+    ],
+    "published": "2025-10-31T18:30:08Z",
+    "summary": "It is well known in Riemannian geometry that the metric components have the best regularity in harmonic coordinates. These can be used to characterize the most regular element in the isometry class of a rough Riemannian metric. In this work, we study the conformal analogue problem on closed 3-manifolds: given a Riemannian metric $g$ of class $W^{2,q}$ with $q > 3$, we characterize when a more regular representative exists in its conformal class. We highlight a deep link to the Yamabe problem for rough metrics and present some immediate applications to conformally flat, static and Einstein manifolds.",
+    "topic": "lorentzian",
+    "score": 1
+  }
+]

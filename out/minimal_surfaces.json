@@ -1,0 +1,332 @@
+[
+  {
+    "id": "http://arxiv.org/abs/2511.00435v2",
+    "title": "Stability of volume and area preserving mean curvature flow in asymptotic Schwarzschild space",
+    "authors": [
+      "Yaoting Gui",
+      "Yuqiao Li",
+      "Jun Sun"
+    ],
+    "published": "2025-11-01T07:29:06Z",
+    "summary": "In this paper, we investigate the stability of the volume preserving mean curvature flow (VPMCF) and area preserving mean curvature flow (APMCF) in the Schwarzschild space. We show that if the initial hypersurface is sufficiently close to a coordinate sphere, these flows exist globally and converge smoothly to a constant mean curvature (CMC) hypersurface, namely a coordinate sphere. For asymptotically Schwarzschild space, if the initial hypersurface has pinched curvature outside of some large compact set, or more orecisely sufficiently close to an isoperimetric hypersurface, outside of some large compact set in C^2 sense, we will apply similar method combined with the center manifold analysis to see that the flow still exists for all time and converges to CMC hypersurface exponentially fast. This in particular gives an existence result for a CMC hypersurface in asymptotically flat space.",
+    "topic": "minimal_surfaces",
+    "score": 5
+  },
+  {
+    "id": "http://arxiv.org/abs/2512.00540v1",
+    "title": "Classification of Willmore $2$-spheres in $S^n$",
+    "authors": [
+      "Xiang Ma",
+      "Franz Pedit",
+      "Peng Wang"
+    ],
+    "published": "2025-11-29T16:20:01Z",
+    "summary": "This paper resolves a long-standing open problem by providing a classification of Willmore $2$-spheres in $S^n$. We show that any such $2$-sphere is either totally isotropic--originating from the projection of a special twistor curve in the twistor bundle over an even-dimensional sphere--or strictly $k$-isotropic, obtained via $(m-k)$ steps of adjoint transforms of a strictly $m$-isotropic minimal surface in $\\mathbb{R}^n$, where $0\\leq k\\leq m\\leq[n/2]-2$. Our approach hinges on the construction of a harmonic sequence in the real Grassmannian over the Lorentz space, derived from the harmonic conformal Gauss map of the original Willmore sphere. This sequence terminates finitely and generalizes, in part, the classical theory of harmonic sequences for harmonic $2$-spheres in complex Grassmannians.",
+    "topic": "minimal_surfaces",
+    "score": 4
+  },
+  {
+    "id": "http://arxiv.org/abs/2511.23074v1",
+    "title": "Monotonicity of Perelman $\\mathcal{W}$-Entropy of Mean Curvature Flow",
+    "authors": [
+      "Xiang-Dong Li",
+      "Qi Yan"
+    ],
+    "published": "2025-11-28T11:02:34Z",
+    "summary": "In this paper, we study Perelman' s $ \\mathcal{W}$ entropy for mean curvature flow in $\\mathbb{R}^{n+1}$. Analogously to Perelman's $\\mathcal{W}$-entropy defined for Ricci flow, K. Ecker in \\cite{Ecker07} defined a functional $\\mathcal{W}$ for the mean curvature flow in $\\mathbb{R}^{n+1}$ and the region it encloses, and made the conjecture that this functional is monotonically increasing in time. We modify K. Ecker's definition and, using Hamilton's Harnack inequality for mean curvature flow, prove that our redefined $\\mathcal{W}$-entropy is monotonically decreasing in time. Additionally, we provide a rigidity theorem for this $\\mathcal{W}$-entropy.",
+    "topic": "minimal_surfaces",
+    "score": 4
+  },
+  {
+    "id": "http://arxiv.org/abs/2511.10553v1",
+    "title": "Sign-changing solutions to the Escobar problem on manifolds with boundary",
+    "authors": [
+      "Mónica Clapp",
+      "Benedetta Pellacci",
+      "Angela Pistoia"
+    ],
+    "published": "2025-11-13T17:54:30Z",
+    "summary": "Let $(M, g)$ be a $n-$dimensional compact Riemannian manifold with boundary. The Escobar problem concerning the existence of a metric conformally equivalent to $g$ having constant scalar curvature on $M$ and constant mean curvature on its boundary is equivalent, in analytic terms, to finding a positive solution to a nonlinear boundary-value problem with critical growth. While the existence of positive solutions to this problem is by now well understood, the existence of sign-changing (nodal) solutions remains largely open. In this work we establish the existence of least-energy sign-changing solutions in two particular cases: the scalar-flat problem, where the scalar curvature on $M$ is zero and the mean curvature of its boundary is constant, and the minimal boundary problem, where the mean curvature of the boundary vanishes and the scalar curvature of $M$ is constant. More precisely, we prove that if $n\\ge7$ and $M$ has a nonumbilic boundary point, then both problems admit least-energy nodal solutions. In addition, we show that when $n\\ge5$, the minimal boundary problem possesses infinitely many sign-changing solutions on the unit ball. Our approach is variational and relies on the analysis of suitable conformal invariants and sharp energy estimates derived from Escobar's work.",
+    "topic": "minimal_surfaces",
+    "score": 4
+  },
+  {
+    "id": "http://arxiv.org/abs/2512.08342v1",
+    "title": "Chern Conjecture on Minimal Willmore Hypersurfaces with Constant Scalar Curvature",
+    "authors": [
+      "Jianquan Ge",
+      "Huixin Tan",
+      "Wenjiao Yan",
+      "Yunheng Zhang"
+    ],
+    "published": "2025-12-09T08:12:20Z",
+    "summary": "In this paper, we prove that for an $n$-dimensional closed minimal Willmore hypersurface $M^n$ with constant scalar curvature in the unit sphere $\\mathbb{S}^{n+1}$, the squared norm $S$ of the second fundamental form of $M^n$ satisfies $S\\geqslant n+\\frac{4n+9-\\sqrt{4 n^{2}+60 n+81}}{2}$ if $S>n$. This proves, in the approximate sense, the Chern conjecture about the second gap ($S\\geqslant 2n$ if $S>n$), which will be fully verified under a further inequality condition about the 4-th mean curvature.",
+    "topic": "minimal_surfaces",
+    "score": 3
+  },
+  {
+    "id": "http://arxiv.org/abs/2511.21545v1",
+    "title": "Rigidity of Solitons to the Mean Curvature Flow in $\\mathbb{H}^3$ as Translation Surfaces",
+    "authors": [
+      "Tarcios Andrey Ferreira",
+      "João Paulo dos Santos"
+    ],
+    "published": "2025-11-26T16:17:36Z",
+    "summary": "In the half-space model of the hyperbolic three space with the hyperbolic metric, this same space can be seen as the Lie group, hence, a translation surface is a surface that is given by the product of two curves $α$ and $β$ in this group. Here we present the rigidity of this kind of surfaces for some particular products in the context of minimal surfaces and solitons to the Mean Curvature Flow, also known as self-similar solutions.",
+    "topic": "minimal_surfaces",
+    "score": 3
+  },
+  {
+    "id": "http://arxiv.org/abs/2512.07852v1",
+    "title": "The higher-order Henneberg-type minimal surfaces family in $\\mathbb{R}^4$",
+    "authors": [
+      "Erhan Güler",
+      "Magdalena Toda"
+    ],
+    "published": "2025-11-26T02:26:16Z",
+    "summary": "We consider a higher-order Henneberg-type minimal surfaces family using the generalized Weierstrass--Enneper representation in four-dimensional space $\\mathbb{R}^4$. We derive explicit parametric equations for the surface and determine its differential geometric characteristics, including the normal vector fields $\\mathbf{n}_1$ and $\\mathbf{n}_2$, as well as the Gauss curvature. Furthermore, by projecting these parametric forms from four to three dimensions, we generate visualizations that reveal the geometric structure of the Henneberg-type minimal surface. In addition, we examine the integral-free form and derive the corresponding algebraic function for this family of surfaces.",
+    "topic": "minimal_surfaces",
+    "score": 3
+  },
+  {
+    "id": "http://arxiv.org/abs/2511.19681v1",
+    "title": "Quantitative Stability of the Clifford Torus as a Willmore Minimizer",
+    "authors": [
+      "Yuchen Bi",
+      "Jie Zhou"
+    ],
+    "published": "2025-11-24T20:33:58Z",
+    "summary": "For an integral $2$-varifold $V\\subset \\mathbb{S}^3$ with square-integrable mean curvature, unit density, and support of genus at least $1$, assume that its Willmore energy satisfies \\[ \\mathcal{W}(V)\\le 2π^2+δ^2,\\qquad δ<δ_0\\ll1. \\] We show that the support $Σ=\\operatorname{spt}V$ is, after applying a suitable conformal transformation of $\\mathbb{S}^3$, quantitatively close to the Clifford torus. More precisely, under an appropriate conformal normalization, the surface $Σ$ admits a $W^{2,2}$ conformal parametrization by the flat torus whose conformal factor and metric coefficients differ from those of the Clifford torus by at most $Cδ$.",
+    "topic": "minimal_surfaces",
+    "score": 3
+  },
+  {
+    "id": "http://arxiv.org/abs/2511.16295v1",
+    "title": "Genus two embedded minimal surfaces in $\\mathbb{S}^3$ with bidihedral symmetry",
+    "authors": [
+      "José M. Espinar",
+      "Joaquín Pérez"
+    ],
+    "published": "2025-11-20T12:18:23Z",
+    "summary": "The isometry group of the classical Lawson embedded minimal surface $ξ_{2,1}\\subset \\mathbb{S}^3$ of genus 2 is isomorphic to the group $O_{48}$ of isometries of a regular octahedron, of order 48. $O_{48}$ has a subgroup of index 3 isomorphic to the bidihedral group $D_{4h}=\\mathbb{Z}_2\\times D_4$, where $D_4$ is the dihedral group of order 8. We prove that $ξ_{2,1}$ is the unique closed embedded minimal surface of genus 2 in $\\mathbb{S}^3$ whose isometry group contains $D_{4h}$.",
+    "topic": "minimal_surfaces",
+    "score": 3
+  },
+  {
+    "id": "http://arxiv.org/abs/2512.07734v1",
+    "title": "Index and nullity of minimal surface doublings, I",
+    "authors": [
+      "Nikolaos Kapouleas",
+      "Jiahua Zou"
+    ],
+    "published": "2025-12-08T17:21:56Z",
+    "summary": "We prove that for any large enough $m \\in\\mathbb{N}$, the genus $γ=m+1$ equator-poles minimal surface doubling of the equatorial two-sphere $Σ^0 = \\mathbb{S}^2_{\\mathrm{eq}}$ in the round three-sphere $\\mathbb{S}^3$, which has two catenoidal bridges at the poles and $m$ bridges equidistributed along the equatorial circle $\\mathscr{C}$ of $Σ^0 $ and was discovered in earlier work of Kapouleas, has index $2γ+5=2m+7$ and nullity $6$, and so it has no exceptional Jacobi fields and is $C^1$-isolated.",
+    "topic": "minimal_surfaces",
+    "score": 2
+  },
+  {
+    "id": "http://arxiv.org/abs/2512.02578v1",
+    "title": "Self-Expanding Solutions to the Mean Curvature Flow for Multiphase Surfaces with Regular Junctions",
+    "authors": [
+      "Wei-Hung Liao"
+    ],
+    "published": "2025-12-02T09:47:55Z",
+    "summary": "We consider a multiphase surface $\\mathcal{C}_0$ in $\\mathbb{R}^3$ consisting of a finite number of surfaces passing through the origin , where all 1-dimensional junctions are regular triple junctions in which three planes meet at the same angle and each surface scales down homothetically to a limit curve of finite length. We prove the existence of self-similar expanding solutions of the mean curvature flow on the multiphase surface initially given by $\\mathcal{C}_0$. For this initial condition, there are multiple solutions that are combinations of the regular triple junctions and regular quadruple points, where four regular triple junctions meet at an angle of approximately $109.5^{\\circ}$.",
+    "topic": "minimal_surfaces",
+    "score": 2
+  },
+  {
+    "id": "http://arxiv.org/abs/2512.08966v2",
+    "title": "A Dynamical Approach to the Berezin--Li--Yau Inequality",
+    "authors": [
+      "Anton Alexa"
+    ],
+    "published": "2025-12-01T11:35:01Z",
+    "summary": "We develop a dynamical method for proving the sharp Berezin--Li--Yau inequality. The approach is based on the volume-preserving mean curvature flow and a new monotonicity principle for the Riesz mean $R_Λ(Ω_t)$. For convex domains we show that $R_Λ$ is monotone non-decreasing along the flow. The key input is a geometric correlation inequality between the boundary spectral density $Q_Λ$ and the mean curvature $H$, established in all dimensions: in $d=2$ via circular symmetrization, and in $d\\ge 3$ via the boundary Weyl expansion together with the Laugesen--Morpurgo trace minimization principle. Since the flow converges smoothly to the ball, the monotonicity implies the sharp Berezin--Li--Yau bound for every smooth convex domain. As an application, we obtain a sharp dynamical Cesàro--Pólya inequality for eigenvalue averages.",
+    "topic": "minimal_surfaces",
+    "score": 2
+  },
+  {
+    "id": "http://arxiv.org/abs/2511.23330v1",
+    "title": "Harnack Inequality for $f$-Mean Curvature Flow",
+    "authors": [
+      "Xiang-Dong Li",
+      "Qi Yan"
+    ],
+    "published": "2025-11-28T16:35:01Z",
+    "summary": "In this paper, we prove a Li-Yau-Hamilton type Harnack estimate for the $f$-mean curvature flow in Euclidean space, which can be viewed as a gradient flow of the weighed area functional with the measure density function $e^{-f}$.",
+    "topic": "minimal_surfaces",
+    "score": 2
+  },
+  {
+    "id": "http://arxiv.org/abs/2511.19102v2",
+    "title": "Existence of multiple constant mean curvature hypersurfaces for varying Riemannian metrics",
+    "authors": [
+      "Xiaoxiang Jiao",
+      "Wenduo Zou"
+    ],
+    "published": "2025-11-24T13:37:22Z",
+    "summary": "Given a closed Riemannian manifold $(M^{n+1},g)$,$3\\leq n+1\\leq7$.In this paper,we will prove that for any $c>0$,suppose the number of closed $c-CMC$ hypersurfaces is finite,then there exists a metric $h$ on $M$ such that the $c-CMC$ hypersurfaces in $(M,g)$ are also $c-CMC$ hypersurfaces in $(M,h)$ and the number of $c-CMC$ hypersurfaces in $(M,h)$ is strictly greater than the number of $c-CMC$ hypersurfaces in $(M,g)$.Moreover,we will give a precise upper bound for the $L^{\\frac{n+1}{2}}$ norm of $(g-h)$,which depends on the metric $g$ and the number of $c-CMC$ hypersurfaces in $(M,g)$.",
+    "topic": "minimal_surfaces",
+    "score": 2
+  },
+  {
+    "id": "http://arxiv.org/abs/2511.18982v2",
+    "title": "The Willmore energy and curvature concentration",
+    "authors": [
+      "Raz Kupferman",
+      "Cy Maor",
+      "David Padilla-Garza"
+    ],
+    "published": "2025-11-24T10:55:44Z",
+    "summary": "We study isometric immersions of a Riemannian surface $(Ω,\\frak{g})$, where $Ω\\subset \\mathbb{R}^2$, into $\\mathbb{R}^3$. We consider their bending energy, i.e., the square of the $L^2$-norm of their second fundamental form, which is equivalent to the Willmore functional. We obtain two new lower bounds for this energy, one in terms of the Gaussian curvature of the surface, and the other in terms of a Burgers vector -- a measure of non-flatness connected to torsion. These new estimates provide optimal blowup rates of the energy when the curvature is concentrated (e.g., in a conical geometry). In the more subtle case of dipoles of concentrated curvature, we use the Burgers vector estimates to obtain an optimal blowup rate in terms of the size of the system. Our motivation comes from non-Euclidean elasticity, in which cones and curvature-dipoles play a central role. The lower bounds derived in this work directly yield lower bounds for the elastic energy of thin elastic sheets. The derivation of the curvature-based lower bound involves an isoperimetric inequality for framed loops, which we believe to be of independent interest.",
+    "topic": "minimal_surfaces",
+    "score": 2
+  },
+  {
+    "id": "http://arxiv.org/abs/2511.15297v1",
+    "title": "Decay order bound for mean curvature flow near compact singularities",
+    "authors": [
+      "Sourav Ghosh"
+    ],
+    "published": "2025-11-19T10:05:32Z",
+    "summary": "We consider the rescaled flow associated with a mean curvature flow that develops a compact singularity of multiplicity one. We prove that the ``decay order'' of such a rescaled flow is uniformly bounded. As a consequence, we prove a unique continuation result.",
+    "topic": "minimal_surfaces",
+    "score": 2
+  },
+  {
+    "id": "http://arxiv.org/abs/2511.14729v1",
+    "title": "Removing singularities of minimal surfaces by isotopies",
+    "authors": [
+      "Antonio Alarcon",
+      "Franc Forstneric"
+    ],
+    "published": "2025-11-18T18:20:57Z",
+    "summary": "Given an open Riemann surface $M$, we show that the branch points and the complete ends of finite total curvature of a conformal minimal surface $M\\to{\\mathbb R}^n$, $n\\ge 3$, can be removed by an isotopy through such surfaces. The analogous result holds for null holomorphic curves $M\\to{\\mathbb C}^n$.",
+    "topic": "minimal_surfaces",
+    "score": 2
+  },
+  {
+    "id": "http://arxiv.org/abs/2511.08228v1",
+    "title": "Pairs of Embedded Spheres with Pinched Prescribed Mean Curvature",
+    "authors": [
+      "Liam Mazurowski",
+      "Xin Zhou"
+    ],
+    "published": "2025-11-11T13:30:27Z",
+    "summary": "Assume $h$ is a positive function on the unit three-sphere which satisfies the pinching condition $h < h_0 \\approx 0.547$. We prove the existence of at least two embedded two-spheres with prescribed mean curvature $h$. The same result holds for sign-changing functions $h$ satisfying $\\vert h\\vert < h_0$ under a mild assumption on the zero set.",
+    "topic": "minimal_surfaces",
+    "score": 2
+  },
+  {
+    "id": "http://arxiv.org/abs/2511.01765v1",
+    "title": "The Regularity of Critical Points to the Dirichlet Energy of the Mean Curvature in Dimension 4",
+    "authors": [
+      "Yann Bernard",
+      "Tian Lan",
+      "Dorian Martino",
+      "Tristan Rivière"
+    ],
+    "published": "2025-11-03T17:21:51Z",
+    "summary": "We prove that weak immersions of four dimensional manifolds in $\\mathbb{R}^5$ which are critical points to the Dirichlet Energy of the Mean Curvature are analytic in any given local harmonic chart. This variational problem is a model case for the large family of scaling invariant Lagrangians, hence critical, of curvature energies in 4 dimensions depending on the first and the second fundamental form. Because of the criticality of this variational problem, the regularity result is obtained through an abundant use of methods from integrability by compensation theory such as interpolation spaces estimates.",
+    "topic": "minimal_surfaces",
+    "score": 2
+  },
+  {
+    "id": "http://arxiv.org/abs/2512.07152v1",
+    "title": "Higgs bundle, isomonodromic leaves and minimal surfaces",
+    "authors": [
+      "Brian Collier",
+      "Jérémy Toulisse",
+      "Richard Wentworth"
+    ],
+    "published": "2025-12-08T04:31:22Z",
+    "summary": "In this paper we give a gauge theoretic construction of the joint moduli space of stable G-Higgs bundles on closed Riemann surfaces, where the Riemann surface structure is allowed to vary in the Teichmüller space of the underlying smooth surface. This joint moduli space has many interesting structures that are preserved by the mapping class group of the surface. We describe a surprising relationship between four key objects: the isomonodromic foliation, a canonical hermitian form arising from the Atiyah-Bott-Goldman symplectic structure on the character variety, a canonical holomorphic form which vertically lifts vector fields on Teichmüller space, and the energy function for equivariant harmonic maps. One consequence of this work is the construction of pseudo-Kähler metrics on many examples of components of character varieties which include rank two higher Teichmüller spaces. This recovers some of the recent work on the subject by various authors.",
+    "topic": "minimal_surfaces",
+    "score": 1
+  },
+  {
+    "id": "http://arxiv.org/abs/2512.01602v2",
+    "title": "Uniqueness of the Bonnet problem in Thurston geometries",
+    "authors": [
+      "José S. Santiago"
+    ],
+    "published": "2025-12-01T12:19:57Z",
+    "summary": "We study the Bonnet problem in Bianchi--Cartan--Vrănceanu spaces and in $\\mathrm{Sol}_3$. Our main contribution is to establish the uniqueness of Bonnet mates, which leads us to address the problem of determining when an isometric immersion can be continuously deformed through isometric immersions that preserve the principal curvatures -- a question originally posed in $\\mathbb{R}^3$ by Chern~\\cite{Chern}. For Bianchi--Cartan--Vrănceanu spaces, we complete the local classification of Bonnet pairs by studying the uniqueness of the results obtained by Gálvez, Martínez and Mira~\\cite{GMM}, and we provide new examples of Bonnet mates that were not previously considered. In particular, we prove that the aforesaid continuous deformations only exist for minimal surfaces in the product spaces $\\mathbb{S}^2\\times\\mathbb{R}$ and $\\mathbb{H}^2\\times\\mathbb{R}$ and otherwise only for surfaces with constant principal curvatures. In the case of $\\mathrm{Sol}_3$, we give a characterization of Bonnet mates via a system of two differential equations, addressing a problem proposed in~\\cite{GMM}. We conclude that the only surfaces admitting continuous isometric deformations that preserve the principal curvatures in $\\mathrm{Sol}_3$ are those with constant left-invariant Gauss map.",
+    "topic": "minimal_surfaces",
+    "score": 1
+  },
+  {
+    "id": "http://arxiv.org/abs/2512.01029v1",
+    "title": "Minimal surfaces over the Pitot quadrilaterals",
+    "authors": [
+      "Vladimir Dragović",
+      "David Kalaj"
+    ],
+    "published": "2025-11-30T18:56:25Z",
+    "summary": "We develop a fully explicit framework for constructing Scherk-type minimal graphs over the Pitot quadrilaterals (i.e. such that the two pairs of opposite sides have the same total length). For any Pitot quadrilateral \\(Q\\), we first produce a harmonic diffeomorphism of the unit disk onto \\(Q\\), whose dilatation is the square of a Möbius automorphism determined directly by the vertices of \\(Q\\). Using this map as the Weierstrass data, we obtain a minimal graph \\(Σ\\) whose Gauss map is a univalent Möbius transformation and whose height function exhibits alternating blow-up behavior along opposite sides of \\(Q\\), mirroring the classical Scherk surfaces. We further construct an associated canonical surface \\(Σ^\\diamond\\), with the same boundary asymptotics, and prove a sharp curvature comparison theorem: at the harmonic center of \\(Q\\), among all bounded minimal graphs with matching normal direction and mixed derivative, \\(Σ^\\diamond\\) uniquely maximizes the absolute Gaussian curvature. This provides a complete and constructive description of Scherk-type minimal graphs over all, both convex or concave, Pitot quadrilaterals.",
+    "topic": "minimal_surfaces",
+    "score": 1
+  },
+  {
+    "id": "http://arxiv.org/abs/2511.21943v1",
+    "title": "Stability of Minkowski inequality for nearly spherical sets",
+    "authors": [
+      "Yi Wang",
+      "Shuhan Yang"
+    ],
+    "published": "2025-11-26T22:08:30Z",
+    "summary": "In this paper, we study the stability of Minkowski inequality for nearly spherical domains that are $C^1$ close to the ball. We show the stability inequalities between the positive part of the $σ_k$ curvature integrals for $C^1$ perturbations of a ball; we also establish the stability inequalities for axially symmetric $C^1$ perturbations of a ball. Finally, we construct a counterexample, illustrating that the inequalities become invalid if we do not compensate the integral with the negative part of the curvature. Our work generalizes Glaudo's results on the mean curvature integral to the fully nonlinear cases.",
+    "topic": "minimal_surfaces",
+    "score": 1
+  },
+  {
+    "id": "http://arxiv.org/abs/2511.13688v4",
+    "title": "Geometric Solution of the Loop Equation and Quark Confinement in QCD",
+    "authors": [
+      "Alexander Migdal"
+    ],
+    "published": "2025-11-17T18:41:04Z",
+    "summary": "We present an exact analytic confining area law for pure $\\mathrm{SU}(N_c)$ Yang--Mills theory, satisfying the hierarchy of multiloop equations for arbitrary regular loops and any number of colors $N_c$. The solution is constructed using a quaternionic Hodge-dual minimal surface in a 16-dimensional auxiliary space. Unlike random surfaces, this construction defines an effectively topological string theory where the bulk dynamics reduces to the area of a conformal map of the 2D disk, with all nontrivial dynamics encoded in the boundary loop.   The Wilson loop factorizes into a confining dressing factor and a perturbative term: $W[C] = W_{\\text{pert}}[C]\\, e^{-κS[C]}$. We show that the geometric factor $e^{-κS[C]}$ is an exact multiplicative zero mode of the loop-space diffusion operator and of the full MM multiloop hierarchy for any finite $N_c$, extending the planar area law to the physical case $N_c=3$. The functional $S[C]$ obeys the inequality $S[C] \\ge \\sqrt{2}\\,A[C]$ (where $A[C]$ is the Euclidean minimal area), providing a sufficient condition for confinement.   The area law is given explicitly by the spectral formula $S[C] = 2\\sqrt{2}\\,(λ_3 + λ_4)$, using the two largest eigenvalues of the Douglas--Gram matrix. We demonstrate that this functional is an exact additive zero mode of the loop diffusion operator, protected algebraically by the Bianchi identity, and globally defined for regular loops $C \\in H^{1/2}(\\mathbb{S}^1,\\mathbb{R}^4)$. Matching this factor with the gluon condensate via the OPE determines the physical string tension $κ\\sim Λ_{\\text{QCD}}^2$. This framework yields a first-principles derivation of confinement in QCD and new tools for the high-lying meson spectrum.",
+    "topic": "minimal_surfaces",
+    "score": 1
+  },
+  {
+    "id": "http://arxiv.org/abs/2511.09508v2",
+    "title": "Dynamical Formation of Apparent Horizons due to Boundary Effect in Vacuum Einstein Gravity",
+    "authors": [
+      "Puskar Mondal",
+      "Shing-Tung Yau"
+    ],
+    "published": "2025-11-12T17:46:48Z",
+    "summary": "We prove that an apparent horizon can form as a result of Einsteinian evolution in pure vacuum spacetime starting from regular initial data free of apparent horizons due to pure boundary effects. We adapt a Cauchy-double-null framework and use the boundary generalized mean curvature condition for the existence of an interior apparent horizon imposed by the author S-T Yau in \\cite{yau}. In particular, we prove that the condition of \\cite{yau} can be met dynamically starting from a configuration that does not verify the same through a focusing mechanism. This is the first part of a two-part sequence, and in the sequel, we will focus on explicitly constructing the Cauchy data.",
+    "topic": "minimal_surfaces",
+    "score": 1
+  },
+  {
+    "id": "http://arxiv.org/abs/2511.04431v1",
+    "title": "Deterministic--Distance Couplings of Brownian Motions on Radially Isoparametric Manifolds",
+    "authors": [
+      "Gunhee Cho",
+      "Hyun Chul Jang",
+      "Taeik Kim"
+    ],
+    "published": "2025-11-06T15:06:01Z",
+    "summary": "We develop a unified geometric framework for coadapted Brownian couplings on radially isoparametric manifolds (RIM)--spaces whose geodesic spheres have principal curvatures $κ_1(r),\\dots,κ_{n-1}(r)$ depending only on the geodesic radius $r$. The mean curvature of such a geodesic sphere is denoted by $A(r) = \\mathrm{Tr}(S_r) = \\sum_{i=1}^{n-1} κ_i(r)$, where $S_r$ is the shape operator of the sphere of radius $r$.   Within the stochastic two--point Itô formalism, we derive an intrinsic drift--window inequality \\[ A(r) - \\sum_i |κ_i(r)| \\;\\le\\; ρ'(t) \\;\\le\\; A(r) + \\sum_i |κ_i(r)|, \\] governing the deterministic evolution of the inter--particle distance $ρ_t = d(X_t, Y_t)$ under all coadapted couplings. We prove that this bound is both necessary and sufficient for the existence of a coupling realizing any prescribed distance law $ρ(t)$, thereby extending the constant--curvature classification of Pascu--Popescu (2018) to all RIM.   The endpoints of the drift window correspond to the synchronous and reflection couplings, providing geometric realizations of extremal stochastic drifts. Applications include stationary fixed--distance couplings on compact--type manifolds, linear escape laws on asymptotically hyperbolic spaces, and rigidity of rank--one symmetric geometries saturating the endpoint bounds. This establishes a direct correspondence between radial curvature data and stochastic coupling dynamics, linking Riccati comparison geometry with probabilistic coupling theory.",
+    "topic": "minimal_surfaces",
+    "score": 1
+  },
+  {
+    "id": "http://arxiv.org/abs/2511.01777v1",
+    "title": "The Analysis of Willmore Surfaces and its Generalizations in Higher Dimensions",
+    "authors": [
+      "Tian Lan",
+      "Dorian Martino",
+      "Tristan Rivière"
+    ],
+    "published": "2025-11-03T17:31:29Z",
+    "summary": "We review recent progress concerning the analysis of Lagrangians on immersions into $\\mathbb{R}^d$ depending on the first and second fundamental forms and their covariant derivatives.",
+    "topic": "minimal_surfaces",
+    "score": 1
+  }
+]

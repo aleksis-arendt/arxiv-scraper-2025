@@ -1,0 +1,335 @@
+[
+  {
+    "id": "http://arxiv.org/abs/2512.02998v1",
+    "title": "Stability of knot equivalence at low regularity, and symmetric critical knots for the Möbius energy",
+    "authors": [
+      "Simon Blatt",
+      "Alexandra Gilsbach",
+      "Philipp Reiter",
+      "Heiko von der Mosel"
+    ],
+    "published": "2025-12-02T18:22:47Z",
+    "summary": "We present sufficient criteria for the equivalence of tame knots at low regularity. To this end, we introduce a localized version of Gromov's distortion for any closed path-connected subset of $\\R^n$. If two such sets have local Gromov distortion below a universal dimension-dependent constant $g_n$ at some scale, and if their Hausdorff-distance is less than one quarter of that scale, we can show that the fundamental groups of their complements are isomorphic. In addition, we construct this isomorphism so that it restricts to the corresponding peripheral subgroups as an isomorphism as well.   Applied to the images of one-dimensional knots it follows that two knots are equivalent if their Hausdorff-distance is bounded in terms of the scale under which their local Gromov distortion is controlled. From that we deduce novel stability results for knot equivalence in the Lipschitz category, and in the setting of fractional Sobolev regularity below $C^1$. Moreover, we prove a compactness theorem of knot equivalence classes with respect to weak $W^{3/2,2}$-convergence.   As an application we show that the Möbius energy introduced by O'Hara~\\cite{ohara_1991a} can be minimized within arbitrary prime knot classes under a symmetry constraint, and that these minimizers are in fact critical points and therefore smooth and even real analytic. In particular, in every torus knot class there are at least two distinct critical knots for the Möbius energy.",
+    "topic": "geometric_analysis",
+    "score": 4
+  },
+  {
+    "id": "http://arxiv.org/abs/2512.01566v1",
+    "title": "Completeness of reparametrization-invariant Sobolev metrics on the space of surfaces",
+    "authors": [
+      "Martin Bauer",
+      "Cy Maor",
+      "Benedikt Wirth"
+    ],
+    "published": "2025-12-01T11:39:08Z",
+    "summary": "We study reparametrization-invariant Sobolev-type Riemannian metrics on the space of immersed surfaces and establish conditions ensuring metric and geodesic completeness as well as the existence of minimizing geodesics. This provides the first extension of completeness results for immersed curves, originating from works of Bruveris, Michor, and Mumford, and validates an earlier conjecture of Mumford on completeness properties of general spaces of immersions in this important case.   The result is obtained by recasting earlier approaches to completeness on manifolds of mappings as a general completeness criterion for infinite-dimensional Riemannian manifolds that are open subsets of a complete Riemannian manifold and by combining it with geometric estimates based on the Michael--Simon--Sobolev inequality to establish the completeness for specific Sobolev metrics on immersed surfaces.",
+    "topic": "geometric_analysis",
+    "score": 4
+  },
+  {
+    "id": "http://arxiv.org/abs/2512.06576v1",
+    "title": "Boundary structure of gauge fields on asymptotically AdS spaces",
+    "authors": [
+      "Maxim Grigoriev",
+      "Mikhail Markov"
+    ],
+    "published": "2025-12-06T21:39:28Z",
+    "summary": "We study boundary structure of asymptotically AdS gravity and (gauge) fields defined on this background by employing the gauge PDE approach. The essential step of the construction is the incorporation of the boundary-defining function among the fields of the theory, which allows us to realise the asymptotic boundary as a space-time submanifold by employing the gauge PDE implementation of Penrose's concept of asymptotically-simple space. In so doing the gauge PDE describing the boundary structure is obtained by restricting to the boundary of spacetime and simultaneously restricting to the boundary of the field space by setting the boundary defining function to zero. To implement this step systematically we introduce a notion of $Q$-boundary which seems to be new. The main concrete result of this work is the construction of the efficient boundary calculus, which gives a recursive procedure to obtain the explicit form of the equations satisfied by the boundary fields and their gauge transformations for boundary dimension $d \\geq 3$. These include obstruction equations (such as Bach equation or Yang-Mills equation for $d=4$) and generalised conservation equations in the subleading sector. In particular, we derive the explicit form of the higher conformal Yang-Mills equation for $d=8$. The approach is very general and, in principle, applies to generic (gauge) fields on the Einstein gravity background producing a conformally-invariant gauge theory on the boundary, which describes their boundary structure. It can be considered as an extension of the Fefferman-Graham construction that takes into account both the leading and the subleading sector of the bulk fields.",
+    "topic": "geometric_analysis",
+    "score": 3
+  },
+  {
+    "id": "http://arxiv.org/abs/2512.03349v1",
+    "title": "Logarithmic Sobolev inequalities on infinite-dimensional reduced Heisenberg groups",
+    "authors": [
+      "Maria Gordina",
+      "Liangbing Luo"
+    ],
+    "published": "2025-12-03T01:29:14Z",
+    "summary": "We construct a family of infinite-dimensional reduced Heisenberg groups which can be viewed as infinite-dimensional homogeneous spaces. Such a space is an analogue of finite-dimensional reduced Heisenberg groups in infinite dimensions. We study properties of the hypoelliptic heat kernel measure on this space, including hypoelliptic logarithmic Sobolev inequalities there.",
+    "topic": "geometric_analysis",
+    "score": 3
+  },
+  {
+    "id": "http://arxiv.org/abs/2511.18389v1",
+    "title": "Intrinsic Timed Hausdorff Convergence and Its Implications",
+    "authors": [
+      "R. Perales"
+    ],
+    "published": "2025-11-23T10:28:06Z",
+    "summary": "Sakovich--Sormani introduced several notions of distance between certain classes of Lorentzian manifolds. These distances use the Hausdorff and Gromov--Hausdorff distances and therefore extend naturally to a broader class of spaces. Here we show that, for timed metric spaces, intrinsic timed--Hausdorff convergence implies (timeless) Gromov--Hausdorff convergence as well as big bang convergence, among other related implications.",
+    "topic": "geometric_analysis",
+    "score": 2
+  },
+  {
+    "id": "http://arxiv.org/abs/2511.16127v1",
+    "title": "A novel way of computing the shape derivative for a class of non-smooth PDEs and its impact on deriving necessary conditions for locally optimal shapes",
+    "authors": [
+      "Livia Betz"
+    ],
+    "published": "2025-11-20T08:02:05Z",
+    "summary": "We derive necessary conditions for locally optimal shapes of a design problem governed by a non-smooth PDE. The main particularity of the state system is the lack of differentiability of the nonlinearity. We work in the framework of the functional variational approach (FVA), which has the capacity to transfer geometric optimization problems into optimal control problems, the set of admissible shapes being parametrized by a large class of continuous mappings. In the FVA setting, we introduce a sensitivity analysis technique that is novel even for smooth PDEs. We emphasize that we do not resort to extensions on the hold-all domain or any kind of approximation of the original PDE. The computation of the directional derivative of the state w.r.t. functional variations results in a new way of computing the shape derivative. The presented approach allows us to handle in the objective pointwise observation and derivatives of the state on an observation set as well as distributed observation terms. In addition, we introduce the concept of locally optimal shapes and we put into evidence its connection to locally minimizers of the corresponding control problem. With directional differentiability results for the control-to-state map at our disposal, we can then state necessary conditions for locally optimal shapes in general non-smooth settings.",
+    "topic": "geometric_analysis",
+    "score": 2
+  },
+  {
+    "id": "http://arxiv.org/abs/2511.01722v2",
+    "title": "Toric separable geometries and extremal Kähler metrics",
+    "authors": [
+      "Roland Púček"
+    ],
+    "published": "2025-11-03T16:32:21Z",
+    "summary": "This paper introduces the framework of (local) toric separable geometries, where toric separable Kähler geometries come in families, each uniquely determined by an underlying factorization structure. This unifying framework captures all known explicit Calabi-extremal toric Kähler metrics, previously constructed through diverse methods, as two distinct families corresponding to the simplest factorization structures: the product Segre and the Veronese factorization structure. Crucially, the moduli of typical factorization structures has a positive dimension, revealing an immensely rich and previously untapped landscape of toric separable geometries. The scalar curvature of toric separable geometries is computed explicitly, necessary conditions for the PDE governing extremality are derived, and new extremal metrics are obtained systematically. In particular, for a $2m$-dimensional toric separable geometry, solutions of the PDE are necessarily $m$-tuples of rational functions of one variable belonging to an at most $(m+2)$-dimensional real vector space and whose denominators are determined by the factorization structure. Toric separable geometries serve as a separation of variables technique and are well-suited for the analytic study of geometric PDEs.",
+    "topic": "geometric_analysis",
+    "score": 2
+  },
+  {
+    "id": "http://arxiv.org/abs/2512.07812v1",
+    "title": "Caustics in the spherically symmetric Einstein-dust system",
+    "authors": [
+      "David Bick"
+    ],
+    "published": "2025-12-08T18:46:49Z",
+    "summary": "Caustics-envelopes formed by the trajectories of fluid particles-arise in proposed dynamical extensions for shell-crossing singularities occurring in the Einstein-dust system. In this study, a local existence result is established, describing the dynamics in a neighbourhood of such caustics. Specifically, we obtain spherically symmetric spacetimes $(M,g_{μν})$ containing a caustic $\\mathcal{C}$, which, in the quotient $M/SO(3)$, is a timelike curve forming a singular boundary between a 2-dust region and a vacuum region. The spacetimes are constructed from solutions to a PDE problem posed with a spacelike direction of evolution. Curvature invariants and energy densities diverge as the caustic is approached. Consequently the metric has limited regularity $g\\in C^{1,1/2}$ and is shown to satisfy Einstein's equation weakly. On the complement of the caustic, the metric is smooth and satisfies Einstein's equation classically. A (degenerate) coordinate system is identified in which the dynamical variables are smooth with extension to the caustic. Finally, a novel family of static, spherically symmetric spacetimes is identified, complementing the local construction above. Each spacetime contains an eternal annular 2-dust region bounded by a pair of caustics.",
+    "topic": "geometric_analysis",
+    "score": 1
+  },
+  {
+    "id": "http://arxiv.org/abs/2512.07069v1",
+    "title": "Blown-up singular Riemannian foliations",
+    "authors": [
+      "Francisco C. Caramello",
+      "Laura Ribeiro dos Santos"
+    ],
+    "published": "2025-12-08T00:58:05Z",
+    "summary": "In this paper we investigate new properties of the blow-up desingularization method in the context of singular Riemannian foliations. First, we relate the dynamics of such a foliation, which is governed by the so called Molino sheaf, with that of its blow-up. In the particular case of singular Killing foliations, this leads to a strong constraint under mild topological assumptions: namely, the leaves of such foliations are all closed, provided the Euler characteristic of its ambient manifold is non-vanishing and its singular strata are all odd-codimensional. Next, we relate the basic cohomology of a singular Riemannian foliation with that of its blow-up, generalizing well-known, classical analogous results in algebraic and complex geometry. Finally, we show that the space of leaf closures of a singular Killing foliation is the Gromov--Hausdorff limit of a sequence of orbifolds, whose dimensions are the codimension of the foliation.",
+    "topic": "geometric_analysis",
+    "score": 1
+  },
+  {
+    "id": "http://arxiv.org/abs/2512.07039v1",
+    "title": "Anisotropic min-max via phase transitions",
+    "authors": [
+      "Antonio De Rosa",
+      "Alessandro Pigati"
+    ],
+    "published": "2025-12-07T23:06:35Z",
+    "summary": "We develop a PDE-based approach to the min-max construction of nontrivial integer rectifiable varifolds that are stationary with respect to anisotropic surface energies on closed Riemannian manifolds, in codimension one. Specifically, we study the anisotropic analogue of the Allen-Cahn energy and establish a Modica-type gradient bound for its critical points. Using this in conjunction with certain estimates for stable solutions, we then prove that the energy densities of stable or bounded-Morse-index critical points of its rescalings concentrate along an integer rectifiable varifold that is stationary for the underlying anisotropic integrand. As a consequence, we construct a (possibly singular) anisotropic min-max hypersurface via Allen-Cahn, obtaining an analogue of the result of Hutchinson-Tonegawa in the anisotropic setting.",
+    "topic": "geometric_analysis",
+    "score": 1
+  },
+  {
+    "id": "http://arxiv.org/abs/2512.05797v1",
+    "title": "Floer sections in multisymplectic geometry",
+    "authors": [
+      "Ronen Brilleslijper",
+      "Oliver Fabert"
+    ],
+    "published": "2025-12-05T15:22:59Z",
+    "summary": "In symplectic geometry, Floer theory is the most important tool to prove the existence of time-periodic solutions in Hamiltonian mechanics. The core observation is that the $L^2$-gradient lines of the symplectic action functional are pseudo-holomorphic curves, enabling the use of elliptic PDE methods. Multisymplectic geometry is the geometric framework underlying Hamiltonian field theory, where the time line is replaced by higher-dimensional manifolds. In the case of two dimensions and using complex structures, we introduce a novel multisymplectic framework that is fit for the generalization of the elliptic methods from symplectic geometry. Besides proving a Darboux theorem, we show that the $L^2$-gradient lines of our multisymplectic action functional are now pseudo-Fueter curves defined using a compatible almost hyperkähler structure.",
+    "topic": "geometric_analysis",
+    "score": 1
+  },
+  {
+    "id": "http://arxiv.org/abs/2512.04667v1",
+    "title": "Random walks on rank one symmetric spaces of noncompact type",
+    "authors": [
+      "Fedor Gnetov",
+      "Valentin Konakov"
+    ],
+    "published": "2025-12-04T10:58:29Z",
+    "summary": "We establish a central limit theorem, a local limit theorem, and a law of large numbers for a natural random walk on a symmetric space $M$ of non-compact type and rank one. This class of spaces, which includes the complex and quaternionic hyperbolic spaces and the Cayley hyperbolic plane, generalizes the real hyperbolic space $\\mathbb{H}^{n}$. Our approach introduces a unified algebraic framework that generalizes the Möbius addition, previously used for the constant curvature case, to define the random walk via a non-Euclidean summation of variables. We demonstrate that the renormalized walk converges to the heat kernel associated with the Laplace-Beltrami operator on $M$, which plays the role of the limiting normal law. The proofs leverage the harmonic analysis of spherical functions on symmetric spaces. To the best of our knowledge, these results are new in the context of rank one symmetric spaces.",
+    "topic": "geometric_analysis",
+    "score": 1
+  },
+  {
+    "id": "http://arxiv.org/abs/2512.01290v1",
+    "title": "Equilibrium measures of manifolds without conjugate points having visibility covering",
+    "authors": [
+      "Edhin Mamani"
+    ],
+    "published": "2025-12-01T05:23:01Z",
+    "summary": "In this paper we study the equilibrium measures of geodesic flows of closed manifolds without conjugate points which have a visibility universal covering. Specifically, the uniqueness problem for Bowen potentials which are constants on some sets--intersection of horospheres-- and satisfy a weak pressure gap. Moreover, we study some ergodic properties of these measures such as the K-mixing property, weighted equidistribution of closed geodesics, the Gibbs property, large deviations and the entropy density of ergodic measures. Assuming, furthermore continuity of Green bundles, existence of a hyperbolic closed geodesic and a Gromov hyperbolic universal covering we prove that the above potentials always satisfy the weak pressure gap.",
+    "topic": "geometric_analysis",
+    "score": 1
+  },
+  {
+    "id": "http://arxiv.org/abs/2511.19357v1",
+    "title": "The multivalued inverse of a quasiregular map is a quasiregular curve",
+    "authors": [
+      "Elefterios Soultanis"
+    ],
+    "published": "2025-11-24T17:56:14Z",
+    "summary": "We observe that a proper quasiregular map $f:Ω\\to \\mathbb{R}^n$ of finite degree $d$ has a natural multivalued inverse $F:f(Ω)\\to \\mathcal{A}_d(\\mathbb{R}^n)$ taking values in the space $\\mathcal{A}_d(\\mathbb{R}^n)$ of unordered $d$-tuples in $\\mathbb{R}^n$, and show that the multivalued inverse is a quasiregular curve (in the sense of Pankka) with respect to a natural $n$-form on $\\mathcal{A}_d(\\mathbb{R}^n)$ (suitably interpreted). We moreover show that $F$ is a geometrically quasiconformal map onto its image $Ω_f=F(f(Ω))$, and that the Hausdorff $n$-measure on $Ω_f$ is upper Ahlfors regular.   These results demonstrate a new connection between quasiregular maps, quasiregular curves, and quasiconformal theory in metric spaces. To establish them, we develop a theory of pull-backs of differential forms on $\\mathcal{A}_d(\\mathbb{R}^n)$ by multi-valued Sobolev maps, which may be of independent interest.",
+    "topic": "geometric_analysis",
+    "score": 1
+  },
+  {
+    "id": "http://arxiv.org/abs/2511.17734v1",
+    "title": "$k$-contact Lie systems: theory and applications",
+    "authors": [
+      "Javier de Lucas",
+      "Xavier Rivas",
+      "Tomasz Sobczak"
+    ],
+    "published": "2025-11-21T19:36:33Z",
+    "summary": "This paper introduces a new class of Lie systems that are Hamiltonian relative to a $k$-contact manifold. We show that a recent distributional approach to $k$-contact manifolds along with a related $k$-contact Hamiltonian vector field notion allow us to understand relevant Lie systems as Hamiltonian relative to a $k$-contact manifold. Our procedure is more general than previously known methods with this aim. As a result, we find that a plethora of Lie systems related to control and physical problems can be considered in a natural manner as $k$-contact Lie systems. We study their $t$-dependent and $t$-independent constants of motion, master symmetries of higher order, and other properties of interest. Finally, we use our new techniques and findings to study PDE Lie systems with a compatible $k$-contact manifold, some of which become Hamilton--De Donder--Weyl equations.",
+    "topic": "geometric_analysis",
+    "score": 1
+  },
+  {
+    "id": "http://arxiv.org/abs/2511.16915v1",
+    "title": "An analytic study of bi-harmonic flow with a forcing term",
+    "authors": [
+      "Mohammad Javad Habibi Vosta Kolaei"
+    ],
+    "published": "2025-11-21T02:54:36Z",
+    "summary": "In this paper, we study the evolution of smooth, closed planar curves under a fourth order biharmonic flow with an external forcing term. Such flows arise naturally in the theory of biharmonic maps and geometric variational problems involving bending energy. We first establish the global existence of smooth solutions to the associated initial value problem, assuming appropriate conditions on the forcing term. The analysis is performed through a reformulation of the geometric flow using the support function, enabling a scalar PDE characterization of the evolution. Under specific geometric constraints, we demonstrate that the governing equation admits a Monge Ampére type structure that can exhibit hyperbolic behavior. Furthermore, we prove that convexity is preserved during the evolution and derive sufficient conditions ensuring long time convergence to steady-state solutions. Our results extend recent developments in geometric analysis by clarifying the role of forcing terms in stabilizing high order curvature flows and enhancing their qualitative behavior.",
+    "topic": "geometric_analysis",
+    "score": 1
+  },
+  {
+    "id": "http://arxiv.org/abs/2511.16173v2",
+    "title": "Gibbs polystability of Fano manifolds, stability thresholds and symmetry breaking",
+    "authors": [
+      "Rolf Andreasson",
+      "Robert J. Berman",
+      "Ludvig Svensson"
+    ],
+    "published": "2025-11-20T09:22:15Z",
+    "summary": "We extend the probabilistic approach for constructing Kahler-Einstein metrics on log Fano manifolds - involving random point processes - to the case of non-discrete automorphism groups, by explicitly breaking the symmetry. This yields a new algebraic notion of Gibbs polystability, conjecturally equivalent to K-polystability. The definition involves a limit of log canonical thresholds on the GIT semistable locus of the N-fold products of the Fano manifold that we conjecture coincides with an analytic reduced stability threshold encoding the coercivity of the K-energy functional modulo automorphisms. These conjectures follow from an overarching conjectural Large Deviation Principle for the limit when N tends to infinity. We prove several of our conjectures for log Fano curves. By imposing a moment constraint, we derive a strengthened form of the sharp logarithmic Hardy-Littlewood-Sobolev inequality on the two-sphere, that implies the sharp form of Aubin's refinement of the Moser-Trudinger inequality. In companion papers we will present applications to Onsager's point vortex model on the two-sphere and the AdS/CFT correspondence.",
+    "topic": "geometric_analysis",
+    "score": 1
+  },
+  {
+    "id": "http://arxiv.org/abs/2511.16058v1",
+    "title": "Gradient estimates for $(p,V)$-harmonic functions on Riemannian manifolds",
+    "authors": [
+      "Yuxin Dong",
+      "Hezi Lin",
+      "Weihao Zheng"
+    ],
+    "published": "2025-11-20T05:38:06Z",
+    "summary": "In this paper, we study $(p,V)$-harmonic functions on complete Riemannian manifolds using the Moser iteration method. A volume comparison theorem and a Sobolev embedding theorem are established under the Bakry-$\\acute{E}$mery curvature condition. Moreover, we obtain an explicit global gradient estimate for positive entire $(p,V)$-harmonic functions.",
+    "topic": "geometric_analysis",
+    "score": 1
+  },
+  {
+    "id": "http://arxiv.org/abs/2511.15356v1",
+    "title": "An Information-Theoretic Route to Isoperimetric Inequalities via Heat Flow and Entropy Dissipation",
+    "authors": [
+      "Amandip Sangha"
+    ],
+    "published": "2025-11-19T11:33:48Z",
+    "summary": "We develop an information-theoretic approach to isoperimetric inequalities based on entropy dissipation under heat flow. By viewing diffusion as a noisy information channel, we measure how mutual information about set membership decays over time. This decay rate is shown to be determined by the boundary measure of the set, leading to a new proof of the Euclidean isoperimetric inequality with its sharp constant. The method extends to Riemannian manifolds satisfying curvature-dimension conditions, yielding Levy-Gromov and Gaussian isoperimetric results within a single analytic principle. Quantitative and stability bounds follow from refined entropy inequalities linking information loss to geometric rigidity. The approach connects geometric analysis and information theory, revealing how entropy dissipation encodes the geometry of diffusion and boundary.",
+    "topic": "geometric_analysis",
+    "score": 1
+  },
+  {
+    "id": "http://arxiv.org/abs/2511.13473v1",
+    "title": "Kähler-Ricci flows coming out of metric spaces",
+    "authors": [
+      "Alix Deruelle",
+      "Vincent Guedj",
+      "Henri Guenancia",
+      "Ahmed Zeriahi"
+    ],
+    "published": "2025-11-17T15:12:16Z",
+    "summary": "Given a compact Kähler manifold $X$ and a closed, positive $(1,1)$-current $T$ on $X$, we find sufficient conditions for $T$ to induce a metric structure $(X,d_T)$ which is the Gromov-Hausdorff limit of compact Kähler manifolds either in a \"static\" way or at time zero of smooth Kähler-Ricci flows. In dimension $1$ we extend works of T. Richard and M. Simon, showing that any oriented compact Alexandrov surface with bounded integral curvature and without cusp is the initial datum of a Kähler-Ricci flow.",
+    "topic": "geometric_analysis",
+    "score": 1
+  },
+  {
+    "id": "http://arxiv.org/abs/2511.12875v1",
+    "title": "Quantization and Algebraic Index",
+    "authors": [
+      "Si Li"
+    ],
+    "published": "2025-11-17T02:07:40Z",
+    "summary": "This article reviews the program on connecting Batalin-Vilkovisky (BV) quantization with index theories of algebraic type. We explain how the classical algebraic index theorem can be proved in terms of BV quantization of topological quantum mechanics. This is generalized to 2d chiral CFT in which we present an elliptic chiral analog of the algebraic index theory. As an application, we show how the generating function of all genus Gromov-Witten invariants on elliptic curves is mirror equivalent to an elliptic chiral index in the mirror BCOV theory.",
+    "topic": "geometric_analysis",
+    "score": 1
+  },
+  {
+    "id": "http://arxiv.org/abs/2511.10530v1",
+    "title": "A 4-dimensional pseudo-Anosov homeomorphism",
+    "authors": [
+      "Bruno Martelli"
+    ],
+    "published": "2025-11-13T17:30:32Z",
+    "summary": "We know from previous work with Italiano and Migliorini that there exists some hyperbolic 5-manifold that fibers over the circle. Here we build one example where the monodromy is a \"pseudo-Anosov homeomorphism\" of the 4-dimensional fiber, in a way that is surprisingly similar to the familiar and beautiful two-dimensional picture of Nielsen and Thurston for surfaces. This fact has various consequences:   (1) There is a compact smooth 4-manifold $M$ such that no non-trivial class in $H_2(M)$ is represented by immersed tori, and infinitely many classes are represented by smoothly embedded genus two surfaces.   (2) There is a compact locally CAT(0) space $Y$ such that $π_1(Y)$ is not hyperbolic and does not contain $\\mathbb Z \\times \\mathbb Z$.   The latter answers a question of Gromov, known as the Closing Flat Problem.",
+    "topic": "geometric_analysis",
+    "score": 1
+  },
+  {
+    "id": "http://arxiv.org/abs/2511.09857v1",
+    "title": "On the structure of locally conformally flat orbifolds and ALE manifolds",
+    "authors": [
+      "Xiaokang Wang"
+    ],
+    "published": "2025-11-13T01:32:08Z",
+    "summary": "In this paper, we prove several structure theorems for locally conformally flat, positive Yamabe orbifolds and nonnegative scalar curvature, ALE manifolds. These two kinds of spaces can be related by conformal blow-up and conformal compactification. For the orbifolds, we prove that such orbifolds admit a manifold cover. For the ALE manifolds, the homomorphism of the fundamental group for the ALE space induced by the embedding of the ALE end is always injective. Using these properties, several classifications of such ALE manifolds and orbifolds are given in low dimensions. As an application to the moduli space, we prove that the football orbifold $\\mathbb{S}^4/Γ$ cannot be realized as the Gromov-Hausdorff limit. In addition, we prove the positive mass theorem of these ALE ends and give a simple proof for the optimal decay rate. Using the positive mass theorem, we can solve the orbifold Yamabe problem in the locally conformally flat case.",
+    "topic": "geometric_analysis",
+    "score": 1
+  },
+  {
+    "id": "http://arxiv.org/abs/2511.09377v2",
+    "title": "Properness and finiteness of totally geodesic submanifolds in the convex core",
+    "authors": [
+      "Minju Lee",
+      "Hee Oh"
+    ],
+    "published": "2025-11-12T14:44:31Z",
+    "summary": "We study totally geodesic submanifolds in the convex core of geometrically finite rank-one locally symmetric manifolds. Although the infinite-volume setting can exhibit highly complicated behavior, including geodesic planes with fractal closures, we show that a strong rigidity persists inside the convex core. This rigidity has striking consequences in the infinite volume setting: every maximal totally geodesic submanifold of dimension at least two contained in the convex core is properly immersed and has finite volume, and only finitely many such submanifolds can occur. These results stand in sharp contrast to the behavior in the finite-volume setting. Moreover, combining this finiteness result with the work of Bader-Fisher-Miller-Stover and of Gromov-Schoen, we deduce that any geometrically finite rank-one manifold with infinitely many maximal totally geodesic submanifolds of dimension at least two and of finite volume must be arithmetic.",
+    "topic": "geometric_analysis",
+    "score": 1
+  },
+  {
+    "id": "http://arxiv.org/abs/2511.04407v1",
+    "title": "Scalar curvature rigidity for products of spheres and tori",
+    "authors": [
+      "Tsz-Kiu Aaron Chow"
+    ],
+    "published": "2025-11-06T14:34:53Z",
+    "summary": "We prove Llarull-type rigidity for $S^{n-m}\\times\\mathbb{T}^m$ ($3\\le n\\le 7$, $1\\le m\\le n-2$). If a closed spin $(M^n,g)$ admits a degree-nonzero map to $S^{n-m}\\times\\mathbb{T}^m$ whose spherical projection is area non-increasing, and there exists $ψ\\in C^\\infty(M)$ with $-Δ_Mψ-\\frac{1}{2}|D_Mψ|^2+\\frac{1}{2}\\big(R_M-(n-m)(n-m-1)\\big)\\ge0$, then $(M,g)$ is isometrically covered by $S^{n-m}\\times\\mathbb{R}^m$. For bands, we extend Gromov's torical inequality and obtain sharp width bounds: $\\text{dist}(\\partial_-M,\\partial_+M)\\le 2π\\sqrt{n/((n+1)σ)}$ when $R_M\\ge (n-m)(n-m-1)+σ$. The method combines stable weighted slicing with a spectral Dirac operator argument.",
+    "topic": "geometric_analysis",
+    "score": 1
+  },
+  {
+    "id": "http://arxiv.org/abs/2511.03672v1",
+    "title": "Uniqueness of the measure of maximal entropy for geodesic flows on coarse hyperbolic manifolds without conjugate points",
+    "authors": [
+      "Gerhard Knieper"
+    ],
+    "published": "2025-11-05T17:38:29Z",
+    "summary": "In this article we study geodesic flows on closed Riemannian manifolds without conjugate points and divergence property of geodesic rays. If the fundamental group is Gromov hyperbolic and residually finite we prove, under appropriate assumptions on the expansive set, that the geodesic flow has a unique measure of maximal entropy. This generalizes corresponding results of Climenhaga, Knieper and War proved under the stronger assumption of the existence of a background metric of negative sectional curvature.",
+    "topic": "geometric_analysis",
+    "score": 1
+  },
+  {
+    "id": "http://arxiv.org/abs/2511.01063v1",
+    "title": "Mixed superposition rules for Lie systems and compatible geometric structures",
+    "authors": [
+      "Rutwig Campoamor-Stursberg",
+      "Oscar Carballal",
+      "Francisco J. Herranz",
+      "Javier de Lucas"
+    ],
+    "published": "2025-11-02T20:05:48Z",
+    "summary": "Mixed superposition rules are, in short, a method to describe the general solutions of a time-dependent system of first-order differential equations, a so-called Lie system, in terms of particular solutions of other ones. This article is concerned with the theory of mixed superposition rules and their connections with geometric structures. We provide methods to obtain mixed superposition rules for systems admitting an imprimitive finite-dimensional Lie algebra of vector fields or given by a semidirect sum. In particular, we develop a novel mixed coalgebra method for Lie systems that are Hamiltonian relative to a Dirac structure, which is quite general, although we restrict to symplectic and contact manifolds in applications. This provides us with practical methods to derive mixed superposition rules and extends the coalgebra method to a new field of application while solving minor technical issues of the known formalism. Throughout the paper, we apply our results to physical systems including Schrödinger Lie systems, Riccati systems, time-dependent Calogero-Moser systems with external forces, time-dependent harmonic oscillators, and time-dependent thermodynamical systems, where general solutions can be obtained from reduced system solutions. Our results are finally extended to Lie systems of partial differential equations and a new source of such PDE Lie systems, related to the determination of approximate solutions of PDEs, is provided. An example based on the Tzitzéica equation and a related system is given.",
+    "topic": "geometric_analysis",
+    "score": 1
+  },
+  {
+    "id": "http://arxiv.org/abs/2510.27362v1",
+    "title": "$m$-Pseudo-effectivity and a Monge-Ampère-Type Equation for Forms of Positive Degree",
+    "authors": [
+      "Sławomir Dinew",
+      "Dan Popovici"
+    ],
+    "published": "2025-10-31T10:46:37Z",
+    "summary": "Given an $n$-dimensional compact Kähler manifold, we continue our study of $m$-positivity in two ways. We first propose generalisations of the notions of pseudo-effective and big Bott-Chern cohomology classes of bidegree $(1,\\,1)$ by relaxing the standard positivity hypotheses to their $m$-counterparts after we have proved a Lamari-type duality lemma in bidegree $(m,\\,m)$. Independently, we propose a Monge-Ampère-type non-linear pde whose distinctive feature is that its solutions, if any, are forms of positive degree rather than functions. We prove a form of uniqueness for the solutions and, under the assumption that a solution exists, we give a geometric application involving the $m$-bigness notion introduced in the first part.",
+    "topic": "geometric_analysis",
+    "score": 1
+  }
+]

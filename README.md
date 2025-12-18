@@ -50,7 +50,7 @@ Kết quả sẽ được lưu thành snapshot JSON trong thư mục `runs/`.
 ### 4. Chọn bài quan tâm
 - Dùng checkbox để chọn từng bài
 - Hoặc chọn **Select all**
-
+### Các keyword dùng để crawl file trên arxiv (có thể tham khảo thêm trên arxiv.org).
 ## Physics
 
 - **astro-ph** — Astrophysics  

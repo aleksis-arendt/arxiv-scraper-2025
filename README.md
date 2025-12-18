@@ -1,4 +1,55 @@
-How to run: Just download the repository and run the file "run_me.bat", that's all.
+# arXiv Reader (Local Research Tool)
+
+**arXiv Reader** là một công cụ chạy cục bộ giúp tìm kiếm, lọc và quản lý bài báo từ arXiv theo từng lĩnh vực nghiên cứu như *Mathematics, Physics, Computer Science* và *Quantitative Biology*.
+
+Ứng dụng được thiết kế cho mục đích học thuật và nghiên cứu cá nhân:
+- Chạy hoàn toàn **local** trên máy người dùng
+- Không yêu cầu tài khoản
+- Không upload dữ liệu cá nhân lên server bên ngoài
+- Phù hợp cho sinh viên, nghiên cứu sinh và giảng viên
+
+Giao diện được xây dựng bằng **Streamlit**, chạy trong trình duyệt web mặc định của hệ thống.
+## Cách chạy
+
+### Yêu cầu hệ thống
+- Windows 10 / 11
+- Python 3.9 trở lên
+- Kết nối Internet (để truy vấn arXiv và tải PDF)
+
+### Các bước
+1. Mở thư mục ứng dụng
+2. Double-click file `run_me.bat`
+3. Ứng dụng sẽ tự động:
+   - Kiểm tra Python
+   - Cài các thư viện cần thiết 
+   - Mở giao diện trong trình duyệt
+
+Sau khi chạy thành công, giao diện sẽ mở tại:
+http://localhost:8501
+## Hướng dẫn sử dụng
+
+### 1. Chọn lĩnh vực và chủ đề
+Ở panel bên trái:
+- Chọn **Domain** (Mathematics, Physics, Computer Science, ...)
+- Chọn **Topic** (ví dụ: Differential Geometry, General Relativity, Machine Learning)
+
+Ứng dụng sẽ tự động sinh truy vấn arXiv tương ứng (`cat:math.DG`, `cat:gr-qc`, ...).
+
+### 2. Chạy crawler
+- Điều chỉnh khoảng thời gian (Start date / End date)
+- Chọn số lượng bài tối đa
+- Nhấn **Run spider**
+
+Kết quả sẽ được lưu thành snapshot JSON trong thư mục `runs/`.
+
+### 3. Lọc và xếp hạng bài báo
+- Nhập danh sách từ khóa để xếp hạng (keywords)
+- Điều chỉnh thanh **Minimum score**
+- Các bài có điểm cao hơn sẽ được ưu tiên hiển thị
+
+### 4. Chọn bài quan tâm
+- Dùng checkbox để chọn từng bài
+- Hoặc chọn **Select all**
 
 ## Physics
 
